@@ -6,8 +6,8 @@
         "count": 22
       },
       "traffic": {
-        "count": 144,
-        "unique": 83
+        "count": 120,
+        "unique": 71
       }
     },
     "2023-04-10": {
@@ -132,12 +132,22 @@
     },
     "2023-04-22": {
       "clones": {
-        "unique": 77,
-        "count": 137
+        "unique": 78,
+        "count": 141
       },
       "traffic": {
         "count": 105,
         "unique": 51
+      }
+    },
+    "2023-04-23": {
+      "clones": {
+        "unique": 18,
+        "count": 22
+      },
+      "traffic": {
+        "count": 18,
+        "unique": 8
       }
     }
   },
@@ -350,6 +360,16 @@
       "traffic": {
         "count": 2,
         "unique": 2
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      }
+    },
+    "2023-04-23": {
+      "traffic": {
+        "count": 1,
+        "unique": 1
       },
       "clones": {
         "unique": 0,
@@ -620,8 +640,8 @@
   "https://api.github.com/repos/MythicMeta/MythicContainer": {
     "2023-04-09": {
       "clones": {
-        "unique": 27,
-        "count": 34
+        "unique": 23,
+        "count": 27
       },
       "traffic": {
         "count": 1,
@@ -756,6 +776,16 @@
       "traffic": {
         "count": 1,
         "unique": 1
+      }
+    },
+    "2023-04-23": {
+      "clones": {
+        "unique": 36,
+        "count": 44
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
       }
     }
   },
@@ -1155,6 +1185,16 @@
         "unique": 0,
         "count": 0
       }
+    },
+    "2023-04-23": {
+      "traffic": {
+        "count": 4,
+        "unique": 1
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      }
     }
   },
   "https://api.github.com/repos/MythicMeta/overview": {
@@ -1180,12 +1220,22 @@
     },
     "2023-04-22": {
       "clones": {
-        "unique": 4,
-        "count": 10
+        "unique": 5,
+        "count": 14
       },
       "traffic": {
         "count": 14,
         "unique": 5
+      }
+    },
+    "2023-04-23": {
+      "clones": {
+        "unique": 3,
+        "count": 6
+      },
+      "traffic": {
+        "count": 22,
+        "unique": 1
       }
     }
   },
