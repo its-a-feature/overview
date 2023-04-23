@@ -28,8 +28,8 @@ jobs:
           pip install pygithub
       - name: Run update script
         env:
-          MYTHIC_AGENTS_GITHUB_TOKEN: ${{ secrets.MYTHIC_AGENTS_GITHUB_TOKEN }}
-          MYTHIC_C2_GITHUB_TOKEN: ${{ secrets.MYTHIC_C2_GITHUB_TOKEN }}
+          MYTHIC_META_GITHUB_TOKEN: ${{ secrets.MYTHIC_META_GITHUB_TOKEN }}
+          MY_GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
         run: |
           python get_repo_data.py
 
@@ -43,5 +43,5 @@ jobs:
       - name: push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
-          github_token: ${{ secrets.MYTHIC_META_GITHUB_TOKEN }}
+          github_token: ${{ secrets.MY_GITHUB_TOKEN }}
           branch: main
