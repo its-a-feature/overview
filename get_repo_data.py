@@ -11,7 +11,7 @@ import time
 from datetime import datetime
 from github import Github
 
-GITHUB_TOKEN = os.environ.get('GITHUB_TOKEN')
+GITHUB_TOKEN = os.environ.get('MY_GITHUB_TOKEN')
 MYTHIC_META_GITHUB_TOKEN = os.environ.get('MYTHIC_META_GITHUB_TOKEN')
 api_url_base = "https://api.github.com/repos/"
 agent_repos = "repos.txt"  # list of repos
