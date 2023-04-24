@@ -16,8 +16,8 @@
         "count": 46
       },
       "traffic": {
-        "count": 402,
-        "unique": 128
+        "count": 383,
+        "unique": 126
       }
     },
     "2023-04-11": {
@@ -142,12 +142,12 @@
     },
     "2023-04-23": {
       "clones": {
-        "unique": 18,
-        "count": 22
+        "unique": 75,
+        "count": 134
       },
       "traffic": {
-        "count": 18,
-        "unique": 8
+        "count": 168,
+        "unique": 58
       }
     }
   },
@@ -367,13 +367,13 @@
       }
     },
     "2023-04-23": {
-      "traffic": {
-        "count": 1,
-        "unique": 1
-      },
       "clones": {
-        "unique": 0,
-        "count": 0
+        "unique": 1,
+        "count": 2
+      },
+      "traffic": {
+        "count": 2,
+        "unique": 2
       }
     }
   },
@@ -650,8 +650,8 @@
     },
     "2023-04-10": {
       "clones": {
-        "unique": 85,
-        "count": 132
+        "unique": 84,
+        "count": 130
       },
       "traffic": {
         "count": 20,
@@ -780,8 +780,8 @@
     },
     "2023-04-23": {
       "clones": {
-        "unique": 36,
-        "count": 44
+        "unique": 78,
+        "count": 158
       },
       "traffic": {
         "count": 0,
@@ -796,8 +796,8 @@
         "count": 6
       },
       "traffic": {
-        "count": 54,
-        "unique": 6
+        "count": 49,
+        "unique": 5
       }
     },
     "2023-04-11": {
@@ -1043,6 +1043,16 @@
         "unique": 0,
         "count": 0
       }
+    },
+    "2023-04-23": {
+      "clones": {
+        "unique": 1,
+        "count": 1
+      },
+      "traffic": {
+        "count": 2,
+        "unique": 1
+      }
     }
   },
   "https://api.github.com/repos/MythicMeta/Documentation": {
@@ -1230,12 +1240,12 @@
     },
     "2023-04-23": {
       "clones": {
-        "unique": 3,
-        "count": 6
+        "unique": 4,
+        "count": 7
       },
       "traffic": {
-        "count": 22,
-        "unique": 1
+        "count": 25,
+        "unique": 3
       }
     }
   },
@@ -1338,6 +1348,16 @@
       "clones": {
         "unique": 0,
         "count": 0
+      }
+    },
+    "2023-04-23": {
+      "clones": {
+        "unique": 1,
+        "count": 1
+      },
+      "traffic": {
+        "count": 2,
+        "unique": 1
       }
     }
   },
