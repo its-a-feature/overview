@@ -42,12 +42,12 @@
     },
     "2023-04-13": {
       "clones": {
-        "unique": 48,
-        "count": 66
+        "unique": 45,
+        "count": 62
       },
       "traffic": {
-        "count": 350,
-        "unique": 123
+        "count": 349,
+        "unique": 122
       }
     },
     "2023-04-14": {
@@ -168,6 +168,16 @@
       "traffic": {
         "count": 377,
         "unique": 122
+      }
+    },
+    "2023-04-26": {
+      "clones": {
+        "unique": 98,
+        "count": 157
+      },
+      "traffic": {
+        "count": 324,
+        "unique": 105
       }
     }
   },
@@ -445,6 +455,16 @@
         "count": 5,
         "unique": 3
       }
+    },
+    "2023-04-26": {
+      "traffic": {
+        "count": 3,
+        "unique": 2
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      }
     }
   },
   "https://api.github.com/repos/its-a-feature/HealthInspector": {
@@ -567,6 +587,16 @@
         "count": 17,
         "unique": 9
       }
+    },
+    "2023-04-26": {
+      "clones": {
+        "unique": 1,
+        "count": 1
+      },
+      "traffic": {
+        "count": 7,
+        "unique": 5
+      }
     }
   },
   "https://api.github.com/repos/its-a-feature/bifrost": {
@@ -678,6 +708,16 @@
       "clones": {
         "unique": 0,
         "count": 0
+      }
+    },
+    "2023-04-26": {
+      "clones": {
+        "unique": 1,
+        "count": 1
+      },
+      "traffic": {
+        "count": 4,
+        "unique": 4
       }
     }
   },
@@ -810,8 +850,8 @@
     },
     "2023-04-13": {
       "clones": {
-        "unique": 51,
-        "count": 75
+        "unique": 48,
+        "count": 71
       },
       "traffic": {
         "count": 43,
@@ -936,6 +976,16 @@
       "traffic": {
         "count": 7,
         "unique": 3
+      }
+    },
+    "2023-04-26": {
+      "clones": {
+        "unique": 118,
+        "count": 264
+      },
+      "traffic": {
+        "count": 7,
+        "unique": 5
       }
     }
   },
@@ -1078,6 +1128,16 @@
       "traffic": {
         "count": 5,
         "unique": 2
+      }
+    },
+    "2023-04-26": {
+      "clones": {
+        "unique": 1,
+        "count": 2
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
       }
     }
   },
@@ -1253,6 +1313,16 @@
         "count": 0,
         "unique": 0
       }
+    },
+    "2023-04-26": {
+      "traffic": {
+        "count": 22,
+        "unique": 1
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      }
     }
   },
   "https://api.github.com/repos/MythicMeta/Documentation": {
@@ -1425,6 +1495,16 @@
         "unique": 0,
         "count": 0
       }
+    },
+    "2023-04-26": {
+      "traffic": {
+        "count": 6,
+        "unique": 3
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      }
     }
   },
   "https://api.github.com/repos/MythicMeta/overview": {
@@ -1486,6 +1566,16 @@
       "traffic": {
         "count": 4,
         "unique": 1
+      }
+    },
+    "2023-04-26": {
+      "clones": {
+        "unique": 3,
+        "count": 6
+      },
+      "traffic": {
+        "count": 6,
+        "unique": 5
       }
     }
   },
@@ -1619,6 +1709,16 @@
         "count": 20,
         "unique": 3
       }
+    },
+    "2023-04-26": {
+      "clones": {
+        "unique": 2,
+        "count": 2
+      },
+      "traffic": {
+        "count": 17,
+        "unique": 2
+      }
     }
   },
   "https://api.github.com/repos/MythicMeta/Mythic_Docker_Templates": {
@@ -1700,6 +1800,16 @@
       "traffic": {
         "count": 0,
         "unique": 0
+      }
+    },
+    "2023-04-26": {
+      "traffic": {
+        "count": 5,
+        "unique": 2
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
       }
     }
   }
