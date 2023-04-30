@@ -76,8 +76,8 @@
         "count": 20
       },
       "traffic": {
-        "count": 171,
-        "unique": 58
+        "count": 155,
+        "unique": 56
       }
     },
     "2023-04-17": {
@@ -192,12 +192,22 @@
     },
     "2023-04-28": {
       "clones": {
-        "unique": 85,
-        "count": 153
+        "unique": 86,
+        "count": 158
       },
       "traffic": {
-        "count": 314,
-        "unique": 80
+        "count": 317,
+        "unique": 82
+      }
+    },
+    "2023-04-29": {
+      "clones": {
+        "unique": 76,
+        "count": 134
+      },
+      "traffic": {
+        "count": 140,
+        "unique": 37
       }
     }
   },
@@ -535,6 +545,16 @@
         "unique": 0,
         "count": 0
       }
+    },
+    "2023-04-29": {
+      "traffic": {
+        "count": 1,
+        "unique": 1
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      }
     }
   },
   "https://api.github.com/repos/its-a-feature/HealthInspector": {
@@ -677,6 +697,16 @@
         "count": 8,
         "unique": 4
       }
+    },
+    "2023-04-29": {
+      "clones": {
+        "unique": 1,
+        "count": 1
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
     }
   },
   "https://api.github.com/repos/its-a-feature/bifrost": {
@@ -814,6 +844,16 @@
       "traffic": {
         "count": 2,
         "unique": 2
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      }
+    },
+    "2023-04-29": {
+      "traffic": {
+        "count": 1,
+        "unique": 1
       },
       "clones": {
         "unique": 0,
@@ -1000,8 +1040,8 @@
     },
     "2023-04-16": {
       "clones": {
-        "unique": 117,
-        "count": 267
+        "unique": 113,
+        "count": 254
       },
       "traffic": {
         "count": 2,
@@ -1126,6 +1166,16 @@
       "traffic": {
         "count": 1,
         "unique": 1
+      }
+    },
+    "2023-04-29": {
+      "clones": {
+        "unique": 87,
+        "count": 208
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
       }
     }
   },
@@ -1298,6 +1348,16 @@
       "clones": {
         "unique": 0,
         "count": 0
+      }
+    },
+    "2023-04-29": {
+      "clones": {
+        "unique": 1,
+        "count": 1
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
       }
     }
   },
@@ -1508,6 +1568,16 @@
       "traffic": {
         "count": 25,
         "unique": 4
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      }
+    },
+    "2023-04-29": {
+      "traffic": {
+        "count": 2,
+        "unique": 2
       },
       "clones": {
         "unique": 0,
@@ -1797,6 +1867,16 @@
         "count": 1,
         "unique": 1
       }
+    },
+    "2023-04-29": {
+      "clones": {
+        "unique": 2,
+        "count": 4
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
     }
   },
   "https://api.github.com/repos/MythicMeta/ExampleContainers": {
@@ -2066,6 +2146,16 @@
       "traffic": {
         "count": 15,
         "unique": 4
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      }
+    },
+    "2023-04-29": {
+      "traffic": {
+        "count": 4,
+        "unique": 1
       },
       "clones": {
         "unique": 0,
