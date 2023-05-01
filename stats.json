@@ -82,12 +82,12 @@
     },
     "2023-04-17": {
       "clones": {
-        "unique": 33,
-        "count": 41
+        "unique": 30,
+        "count": 36
       },
       "traffic": {
-        "count": 233,
-        "unique": 110
+        "count": 232,
+        "unique": 109
       }
     },
     "2023-04-18": {
@@ -206,8 +206,18 @@
         "count": 134
       },
       "traffic": {
-        "count": 140,
-        "unique": 37
+        "count": 142,
+        "unique": 39
+      }
+    },
+    "2023-04-30": {
+      "clones": {
+        "unique": 62,
+        "count": 93
+      },
+      "traffic": {
+        "count": 69,
+        "unique": 31
       }
     }
   },
@@ -329,6 +339,16 @@
       },
       "traffic": {
         "count": 1,
+        "unique": 1
+      }
+    },
+    "2023-04-30": {
+      "clones": {
+        "unique": 1,
+        "count": 1
+      },
+      "traffic": {
+        "count": 3,
         "unique": 1
       }
     }
@@ -707,6 +727,16 @@
         "count": 0,
         "unique": 0
       }
+    },
+    "2023-04-30": {
+      "traffic": {
+        "count": 1,
+        "unique": 1
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      }
     }
   },
   "https://api.github.com/repos/its-a-feature/bifrost": {
@@ -854,6 +884,16 @@
       "traffic": {
         "count": 1,
         "unique": 1
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      }
+    },
+    "2023-04-30": {
+      "traffic": {
+        "count": 2,
+        "unique": 2
       },
       "clones": {
         "unique": 0,
@@ -1050,8 +1090,8 @@
     },
     "2023-04-17": {
       "clones": {
-        "unique": 111,
-        "count": 199
+        "unique": 109,
+        "count": 190
       },
       "traffic": {
         "count": 2,
@@ -1170,8 +1210,18 @@
     },
     "2023-04-29": {
       "clones": {
-        "unique": 87,
-        "count": 208
+        "unique": 92,
+        "count": 220
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
+    },
+    "2023-04-30": {
+      "clones": {
+        "unique": 113,
+        "count": 275
       },
       "traffic": {
         "count": 0,
@@ -1583,6 +1633,16 @@
         "unique": 0,
         "count": 0
       }
+    },
+    "2023-04-30": {
+      "clones": {
+        "unique": 1,
+        "count": 1
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
     }
   },
   "https://api.github.com/repos/MythicMeta/Documentation": {
@@ -1877,6 +1937,16 @@
         "count": 0,
         "unique": 0
       }
+    },
+    "2023-04-30": {
+      "clones": {
+        "unique": 3,
+        "count": 6
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
     }
   },
   "https://api.github.com/repos/MythicMeta/ExampleContainers": {
@@ -2155,6 +2225,16 @@
     "2023-04-29": {
       "traffic": {
         "count": 4,
+        "unique": 1
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      }
+    },
+    "2023-04-30": {
+      "traffic": {
+        "count": 3,
         "unique": 1
       },
       "clones": {
