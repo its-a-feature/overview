@@ -128,7 +128,10 @@ $(document).ready(function() {
             let clone_unique = [];
             let traffic_count = [];
             let traffic_unique = [];
-            for (let d in json[url]) {
+            let keys = Object.keys(json[url]);
+            keys = keys.sort();
+            for (let i = 0; i < keys.length; i++) {
+                let d = keys[i];
                 x_axis.push( Math.floor(new Date(d).getTime() / 1000) );
                 clone_count.push(json[url][d]["clones"]["count"]);
                 clone_unique.push(json[url][d]["clones"]["unique"]);
