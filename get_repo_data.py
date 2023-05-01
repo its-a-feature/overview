@@ -74,35 +74,49 @@ with open(agent_repos) as f:
                 }
                 try:
                     clones = proj.get_clones_traffic()
+                    # display base stats in the ui
                     repo_data_json["clones"]["count"] = clones["count"]
                     repo_data_json["clones"]["uniques"] = clones["uniques"]
-                    print(clones)
+                    # save more specific stats for charts later
+                    #print(clones)
                     if url not in stats_data:
                         stats_data[url] = {}
                     for clone in clones["clones"]:
-                        stats_data[url][clone.timestamp.strftime("%Y-%m-%d")] = {
-                            "clones": {
-                                "unique": clone.uniques,
-                                "count": clone.count
-                            },
-                            "traffic": {
-                                "count": 0,
-                                "unique": 0
+                        cur_time = clone.timestamp.strftime("%Y-%m-%d")
+                        if cur_time in stats_data[url]:
+                            stats_data[url][cur_time] = {
+                                **stats_data[url][cur_time],
+                                "clones": {
+                                    "unique": clone.uniques,
+                                    "count": clone.count
+                                }
                             }
-                        }
+                        else:
+                            stats_data[url][cur_time] = {
+                                "clones": {
+                                    "unique": clone.uniques,
+                                    "count": clone.count
+                                },
+                                "traffic": {
+                                    "count": 0,
+                                    "unique": 0
+                                },
+                                "referrer": {}
+                            }
                     traffic = proj.get_views_traffic()
-                    print(traffic)
+                    #print(traffic)
                     for t in traffic['views']:
-                        if t.timestamp.strftime("%Y-%m-%d") in stats_data[url]:
-                            stats_data[url][t.timestamp.strftime("%Y-%m-%d")] = {
-                                **stats_data[url][t.timestamp.strftime("%Y-%m-%d")],
+                        cur_time = t.timestamp.strftime("%Y-%m-%d")
+                        if cur_time in stats_data[url]:
+                            stats_data[url][cur_time] = {
+                                **stats_data[url][cur_time],
                                 "traffic": {
                                     "count": t.count,
                                     "unique": t.uniques
                                 }
                             }
                         else:
-                            stats_data[url][t.timestamp.strftime("%Y-%m-%d")] = {
+                            stats_data[url][cur_time] = {
                                 "traffic": {
                                     "count": t.count,
                                     "unique": t.uniques
@@ -110,8 +124,39 @@ with open(agent_repos) as f:
                                 "clones": {
                                     "unique": 0,
                                     "count": 0
+                                },
+                                "referrer": {}
+                            }
+                    traffic_view_sources = requests.get(f"{url}/traffic/popular/referrers", headers=headers)
+                    if traffic_view_sources.status_code == 200:
+                        traffic_sources = json.loads(traffic_view_sources.text)
+                        #print(traffic_sources)
+                        today = datetime.today().strftime("%Y-%m-%d")
+                        referrers = {}
+                        for ref in traffic_sources:
+                            referrers[ref["referrer"]] = {
+                                "count": ref["count"],
+                                "unique": ref["uniques"]
+                            }
+                        if today in stats_data[url]:
+                            stats_data[url][today] = {
+                                **stats_data[url][today],
+                                "referrer": referrers
+                            }
+                        else:
+                            stats_data[url][today] = {
+                                "referrer": referrers,
+                                "clones": {
+                                    "unique": 0,
+                                    "count": 0,
+                                },
+                                "traffic": {
+                                    "count": 0,
+                                    "unique": 0,
                                 }
                             }
+                    else:
+                        print(f"Failed to get traffic sources\n")
                 except Exception as e:
                     print(f"Failed to get traffic for {url} - {e}")
                 repo_data_json["latest"]["commit_date"] = time.mktime(
