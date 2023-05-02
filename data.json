@@ -88,7 +88,7 @@
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 20,
+      "open_issues_count": 19,
       "license": {
         "key": "other",
         "name": "Other",
@@ -102,7 +102,7 @@
       "topics": [],
       "visibility": "public",
       "forks": 349,
-      "open_issues": 20,
+      "open_issues": 19,
       "watchers": 2241,
       "default_branch": "master",
       "permissions": {
@@ -140,8 +140,8 @@
       },
       "category": "Mythic",
       "clones": {
-        "count": 2304,
-        "uniques": 817
+        "count": 2334,
+        "uniques": 829
       }
     },
     {
@@ -1198,8 +1198,8 @@
       },
       "category": "macOS Utility",
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 2,
+        "uniques": 2
       }
     },
     {
@@ -1394,7 +1394,7 @@
       "releases_url": "https://api.github.com/repos/D00MFist/PersistentJXA/releases{/id}",
       "deployments_url": "https://api.github.com/repos/D00MFist/PersistentJXA/deployments",
       "created_at": "2020-08-02T01:49:49Z",
-      "updated_at": "2023-04-19T18:09:44Z",
+      "updated_at": "2023-05-01T15:27:09Z",
       "pushed_at": "2022-08-02T20:23:37Z",
       "git_url": "git://github.com/D00MFist/PersistentJXA.git",
       "ssh_url": "git@github.com:D00MFist/PersistentJXA.git",
@@ -1402,8 +1402,8 @@
       "svn_url": "https://github.com/D00MFist/PersistentJXA",
       "homepage": null,
       "size": 96,
-      "stargazers_count": 225,
-      "watchers_count": 225,
+      "stargazers_count": 226,
+      "watchers_count": 226,
       "language": "JavaScript",
       "has_issues": true,
       "has_projects": true,
@@ -1430,7 +1430,7 @@
       "visibility": "public",
       "forks": 22,
       "open_issues": 0,
-      "watchers": 225,
+      "watchers": 226,
       "default_branch": "master",
       "permissions": {
         "admin": false,
@@ -2133,8 +2133,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 2310,
-        "uniques": 250
+        "count": 2288,
+        "uniques": 248
       }
     },
     {
@@ -2286,8 +2286,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 46,
-        "uniques": 17
+        "count": 32,
+        "uniques": 11
       }
     },
     {
@@ -2651,8 +2651,8 @@
       },
       "category": "GhostWriter",
       "clones": {
-        "count": 23,
-        "uniques": 7
+        "count": 19,
+        "uniques": 6
       }
     },
     {
@@ -2723,13 +2723,13 @@
       "deployments_url": "https://api.github.com/repos/MythicMeta/Mythic_Scripting/deployments",
       "created_at": "2021-03-22T04:43:23Z",
       "updated_at": "2022-05-23T18:59:29Z",
-      "pushed_at": "2023-04-25T16:40:32Z",
+      "pushed_at": "2023-05-01T18:03:13Z",
       "git_url": "git://github.com/MythicMeta/Mythic_Scripting.git",
       "ssh_url": "git@github.com:MythicMeta/Mythic_Scripting.git",
       "clone_url": "https://github.com/MythicMeta/Mythic_Scripting.git",
       "svn_url": "https://github.com/MythicMeta/Mythic_Scripting",
       "homepage": null,
-      "size": 319,
+      "size": 333,
       "stargazers_count": 10,
       "watchers_count": 10,
       "language": "Python",
@@ -2793,12 +2793,12 @@
       "subscribers_count": 5,
       "latest": {
         "branch": "master",
-        "commit_message": "update to 0.1.0rc8\n\nadded a few more helper functions for ge...",
-        "commit_date": 1682440830.0
+        "commit_message": "update to use List type hinting",
+        "commit_date": 1682964190.0
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 16,
+        "count": 18,
         "uniques": 7
       }
     },
@@ -2945,8 +2945,8 @@
       },
       "category": "MythicDocs",
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 4,
+        "uniques": 4
       }
     },
     {
@@ -3343,7 +3343,7 @@
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 1,
+      "open_issues_count": 0,
       "license": null,
       "allow_forking": true,
       "is_template": false,
@@ -3351,7 +3351,7 @@
       "topics": [],
       "visibility": "public",
       "forks": 3,
-      "open_issues": 1,
+      "open_issues": 0,
       "watchers": 5,
       "default_branch": "master",
       "permissions": {
