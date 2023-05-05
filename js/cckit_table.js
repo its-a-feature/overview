@@ -34,7 +34,7 @@ $(document).ready(function() {
             className: 'dt-body-left breakwords'
         },
         {   // Center justify headers
-            targets: [ 8, 9 ],
+            targets: [ 8, 9, 10, 11 ],
             className: 'dt-body-center breakwords'
         },
         {   // Time format
@@ -88,9 +88,10 @@ $(document).ready(function() {
         },
         {
           targets: 11,
+          width: "1rem",
           render: function (data, type, row) {
               let onClickFunc = `render_graphs("${row.url}")`
-              return `<button class="myButton" onClick=${onClickFunc} id=row.id>Stats</button>`;
+              return `<i id=row.id class="fas fa-chart-line" onClick=${onClickFunc} style="cursor: pointer; color: green"></i>`;
           }
         },
     ]
