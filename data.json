@@ -67,17 +67,17 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/Mythic/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/Mythic/deployments",
       "created_at": "2018-07-05T02:09:59Z",
-      "updated_at": "2023-05-09T17:42:11Z",
-      "pushed_at": "2023-05-09T19:36:45Z",
+      "updated_at": "2023-05-10T23:47:27Z",
+      "pushed_at": "2023-05-10T21:31:44Z",
       "git_url": "git://github.com/its-a-feature/Mythic.git",
       "ssh_url": "git@github.com:its-a-feature/Mythic.git",
       "clone_url": "https://github.com/its-a-feature/Mythic.git",
       "svn_url": "https://github.com/its-a-feature/Mythic",
       "homepage": "",
-      "size": 300441,
-      "stargazers_count": 2254,
-      "watchers_count": 2254,
-      "language": "Python",
+      "size": 304748,
+      "stargazers_count": 2258,
+      "watchers_count": 2258,
+      "language": "JavaScript",
       "has_issues": true,
       "has_projects": true,
       "has_downloads": true,
@@ -88,7 +88,7 @@
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 16,
+      "open_issues_count": 21,
       "license": {
         "key": "other",
         "name": "Other",
@@ -102,8 +102,8 @@
       "topics": [],
       "visibility": "public",
       "forks": 351,
-      "open_issues": 16,
-      "watchers": 2254,
+      "open_issues": 21,
+      "watchers": 2258,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -132,16 +132,16 @@
         }
       },
       "network_count": 351,
-      "subscribers_count": 57,
+      "subscribers_count": 58,
       "latest": {
-        "branch": "v3.0.0",
-        "commit_message": "removed old unique port requirement from database",
-        "commit_date": 1683661001.0
+        "branch": "master",
+        "commit_message": "update mythic-cli exit codes\n\nreturn failed exit code if clo...",
+        "commit_date": 1683754301.0
       },
       "category": "Mythic",
       "clones": {
-        "count": 1696,
-        "uniques": 519
+        "count": 1881,
+        "uniques": 546
       }
     },
     {
@@ -499,7 +499,7 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/Orchard/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/Orchard/deployments",
       "created_at": "2018-01-16T00:14:58Z",
-      "updated_at": "2023-01-10T00:28:29Z",
+      "updated_at": "2023-05-10T17:15:46Z",
       "pushed_at": "2022-02-19T19:35:10Z",
       "git_url": "git://github.com/its-a-feature/Orchard.git",
       "ssh_url": "git@github.com:its-a-feature/Orchard.git",
@@ -507,8 +507,8 @@
       "svn_url": "https://github.com/its-a-feature/Orchard",
       "homepage": null,
       "size": 114,
-      "stargazers_count": 78,
-      "watchers_count": 78,
+      "stargazers_count": 79,
+      "watchers_count": 79,
       "language": "JavaScript",
       "has_issues": true,
       "has_projects": true,
@@ -535,7 +535,7 @@
       "visibility": "public",
       "forks": 12,
       "open_issues": 0,
-      "watchers": 78,
+      "watchers": 79,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -643,7 +643,7 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/HealthInspector/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/HealthInspector/deployments",
       "created_at": "2019-05-23T04:29:00Z",
-      "updated_at": "2023-03-23T05:31:18Z",
+      "updated_at": "2023-05-10T17:15:14Z",
       "pushed_at": "2022-02-18T17:42:06Z",
       "git_url": "git://github.com/its-a-feature/HealthInspector.git",
       "ssh_url": "git@github.com:its-a-feature/HealthInspector.git",
@@ -651,8 +651,8 @@
       "svn_url": "https://github.com/its-a-feature/HealthInspector",
       "homepage": null,
       "size": 150,
-      "stargazers_count": 47,
-      "watchers_count": 47,
+      "stargazers_count": 48,
+      "watchers_count": 48,
       "language": "JavaScript",
       "has_issues": true,
       "has_projects": true,
@@ -679,7 +679,7 @@
       "visibility": "public",
       "forks": 14,
       "open_issues": 0,
-      "watchers": 47,
+      "watchers": 48,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -716,8 +716,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 5,
-        "uniques": 5
+        "count": 4,
+        "uniques": 4
       }
     },
     {
@@ -1269,16 +1269,16 @@
       "releases_url": "https://api.github.com/repos/D00MFist/Mystikal/releases{/id}",
       "deployments_url": "https://api.github.com/repos/D00MFist/Mystikal/deployments",
       "created_at": "2021-05-03T14:46:16Z",
-      "updated_at": "2023-04-19T12:05:09Z",
-      "pushed_at": "2023-04-24T19:48:19Z",
+      "updated_at": "2023-05-10T21:03:47Z",
+      "pushed_at": "2023-05-10T15:21:26Z",
       "git_url": "git://github.com/D00MFist/Mystikal.git",
       "ssh_url": "git@github.com:D00MFist/Mystikal.git",
       "clone_url": "https://github.com/D00MFist/Mystikal.git",
       "svn_url": "https://github.com/D00MFist/Mystikal",
       "homepage": null,
-      "size": 1472,
-      "stargazers_count": 216,
-      "watchers_count": 216,
+      "size": 1473,
+      "stargazers_count": 225,
+      "watchers_count": 225,
       "language": "Python",
       "has_issues": true,
       "has_projects": true,
@@ -1305,7 +1305,7 @@
       "visibility": "public",
       "forks": 27,
       "open_issues": 0,
-      "watchers": 216,
+      "watchers": 225,
       "default_branch": "main",
       "permissions": {
         "admin": false,
@@ -1317,9 +1317,9 @@
       "network_count": 27,
       "subscribers_count": 9,
       "latest": {
-        "branch": "Mythic_v3.0.0",
-        "commit_message": "Merge pull request #13 from its-a-feature/v3.0.0\n\nV3.0.0",
-        "commit_date": 1682365699.0
+        "branch": "main",
+        "commit_message": "Merge pull request #14 from D00MFist/Mythic_v3.0.0\n\nMythic v...",
+        "commit_date": 1683732086.0
       },
       "category": "3rd Party",
       "clones": {
@@ -2133,8 +2133,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 2371,
-        "uniques": 264
+        "count": 2367,
+        "uniques": 273
       }
     },
     {
@@ -2205,13 +2205,13 @@
       "deployments_url": "https://api.github.com/repos/MythicMeta/MythicContainerPyPi/deployments",
       "created_at": "2023-03-07T22:54:21Z",
       "updated_at": "2023-03-07T22:58:29Z",
-      "pushed_at": "2023-05-09T20:07:19Z",
+      "pushed_at": "2023-05-10T17:07:59Z",
       "git_url": "git://github.com/MythicMeta/MythicContainerPyPi.git",
       "ssh_url": "git@github.com:MythicMeta/MythicContainerPyPi.git",
       "clone_url": "https://github.com/MythicMeta/MythicContainerPyPi.git",
       "svn_url": "https://github.com/MythicMeta/MythicContainerPyPi",
       "homepage": null,
-      "size": 334,
+      "size": 357,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "Python",
@@ -2280,14 +2280,14 @@
       "network_count": 0,
       "subscribers_count": 2,
       "latest": {
-        "branch": "main",
-        "commit_message": "bump v0.2.7\n\nfixed bug in to_json function for commands",
-        "commit_date": 1683662837.0
+        "branch": "v0.2.8-rc01",
+        "commit_message": "move changelog to top of repo",
+        "commit_date": 1683738476.0
       },
       "category": "MythicMeta",
       "clones": {
         "count": 27,
-        "uniques": 11
+        "uniques": 10
       }
     },
     {
@@ -2449,7 +2449,7 @@
           "site_admin": false
         },
         "html_url": "https://github.com/GhostManager/mythic_sync",
-        "description": "Standalone Mythic C2 operation logging script for Ghostwriter v2.0+",
+        "description": "Automated activity logging utility for Mythic C2 v3.0+ with Ghostwriter v3.0+",
         "fork": false,
         "url": "https://api.github.com/repos/GhostManager/mythic_sync",
         "forks_url": "https://api.github.com/repos/GhostManager/mythic_sync/forks",
@@ -2489,14 +2489,14 @@
         "releases_url": "https://api.github.com/repos/GhostManager/mythic_sync/releases{/id}",
         "deployments_url": "https://api.github.com/repos/GhostManager/mythic_sync/deployments",
         "created_at": "2021-05-11T00:17:21Z",
-        "updated_at": "2023-04-19T13:57:41Z",
-        "pushed_at": "2023-04-21T18:42:45Z",
+        "updated_at": "2023-05-10T19:12:42Z",
+        "pushed_at": "2023-05-10T19:08:48Z",
         "git_url": "git://github.com/GhostManager/mythic_sync.git",
         "ssh_url": "git@github.com:GhostManager/mythic_sync.git",
         "clone_url": "https://github.com/GhostManager/mythic_sync.git",
         "svn_url": "https://github.com/GhostManager/mythic_sync",
-        "homepage": null,
-        "size": 71,
+        "homepage": "https://docs.mythic-c2.net/",
+        "size": 72,
         "stargazers_count": 9,
         "watchers_count": 9,
         "language": "Python",
@@ -2555,7 +2555,7 @@
           "site_admin": false
         },
         "html_url": "https://github.com/GhostManager/mythic_sync",
-        "description": "Standalone Mythic C2 operation logging script for Ghostwriter v2.0+",
+        "description": "Automated activity logging utility for Mythic C2 v3.0+ with Ghostwriter v3.0+",
         "fork": false,
         "url": "https://api.github.com/repos/GhostManager/mythic_sync",
         "forks_url": "https://api.github.com/repos/GhostManager/mythic_sync/forks",
@@ -2595,14 +2595,14 @@
         "releases_url": "https://api.github.com/repos/GhostManager/mythic_sync/releases{/id}",
         "deployments_url": "https://api.github.com/repos/GhostManager/mythic_sync/deployments",
         "created_at": "2021-05-11T00:17:21Z",
-        "updated_at": "2023-04-19T13:57:41Z",
-        "pushed_at": "2023-04-21T18:42:45Z",
+        "updated_at": "2023-05-10T19:12:42Z",
+        "pushed_at": "2023-05-10T19:08:48Z",
         "git_url": "git://github.com/GhostManager/mythic_sync.git",
         "ssh_url": "git@github.com:GhostManager/mythic_sync.git",
         "clone_url": "https://github.com/GhostManager/mythic_sync.git",
         "svn_url": "https://github.com/GhostManager/mythic_sync",
-        "homepage": null,
-        "size": 71,
+        "homepage": "https://docs.mythic-c2.net/",
+        "size": 72,
         "stargazers_count": 9,
         "watchers_count": 9,
         "language": "Python",
@@ -2723,13 +2723,13 @@
       "deployments_url": "https://api.github.com/repos/MythicMeta/Mythic_Scripting/deployments",
       "created_at": "2021-03-22T04:43:23Z",
       "updated_at": "2022-05-23T18:59:29Z",
-      "pushed_at": "2023-05-01T18:03:13Z",
+      "pushed_at": "2023-05-10T02:45:41Z",
       "git_url": "git://github.com/MythicMeta/Mythic_Scripting.git",
       "ssh_url": "git@github.com:MythicMeta/Mythic_Scripting.git",
       "clone_url": "https://github.com/MythicMeta/Mythic_Scripting.git",
       "svn_url": "https://github.com/MythicMeta/Mythic_Scripting",
       "homepage": null,
-      "size": 333,
+      "size": 336,
       "stargazers_count": 10,
       "watchers_count": 10,
       "language": "Python",
@@ -2793,13 +2793,13 @@
       "subscribers_count": 5,
       "latest": {
         "branch": "master",
-        "commit_message": "update to use List type hinting",
-        "commit_date": 1682964190.0
+        "commit_message": "bump to v0.1.0",
+        "commit_date": 1683686739.0
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 9,
-        "uniques": 6
+        "count": 13,
+        "uniques": 7
       }
     },
     {
@@ -3017,13 +3017,13 @@
       "deployments_url": "https://api.github.com/repos/MythicMeta/overview/deployments",
       "created_at": "2023-04-20T23:05:14Z",
       "updated_at": "2023-05-04T19:01:47Z",
-      "pushed_at": "2023-05-09T01:20:40Z",
+      "pushed_at": "2023-05-10T01:18:05Z",
       "git_url": "git://github.com/MythicMeta/overview.git",
       "ssh_url": "git@github.com:MythicMeta/overview.git",
       "clone_url": "https://github.com/MythicMeta/overview.git",
       "svn_url": "https://github.com/MythicMeta/overview",
       "homepage": null,
-      "size": 594,
+      "size": 633,
       "stargazers_count": 5,
       "watchers_count": 5,
       "language": "Python",
@@ -3094,11 +3094,11 @@
       "latest": {
         "branch": "main",
         "commit_message": "update data via action",
-        "commit_date": 1683595239.0
+        "commit_date": 1683681484.0
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 118,
+        "count": 119,
         "uniques": 19
       }
     },
@@ -3251,8 +3251,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 16,
-        "uniques": 10
+        "count": 14,
+        "uniques": 9
       }
     },
     {
@@ -3322,17 +3322,17 @@
       "releases_url": "https://api.github.com/repos/MythicMeta/Mythic_Docker_Templates/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicMeta/Mythic_Docker_Templates/deployments",
       "created_at": "2021-04-29T00:08:27Z",
-      "updated_at": "2022-10-13T06:16:58Z",
-      "pushed_at": "2023-05-09T20:09:47Z",
+      "updated_at": "2023-05-10T14:28:12Z",
+      "pushed_at": "2023-05-10T14:28:06Z",
       "git_url": "git://github.com/MythicMeta/Mythic_Docker_Templates.git",
       "ssh_url": "git@github.com:MythicMeta/Mythic_Docker_Templates.git",
       "clone_url": "https://github.com/MythicMeta/Mythic_Docker_Templates.git",
       "svn_url": "https://github.com/MythicMeta/Mythic_Docker_Templates",
       "homepage": null,
-      "size": 3353,
+      "size": 3354,
       "stargazers_count": 5,
       "watchers_count": 5,
-      "language": "Shell",
+      "language": "Dockerfile",
       "has_issues": true,
       "has_projects": true,
       "has_downloads": true,
@@ -3392,14 +3392,14 @@
       "network_count": 3,
       "subscribers_count": 3,
       "latest": {
-        "branch": "v3.0.0",
-        "commit_message": "bump the PyPi version because v0.2.6 has a bug",
-        "commit_date": 1683662780.0
+        "branch": "master",
+        "commit_message": "Merge pull request #2 from MythicMeta/v3.0.0\n\nV3.0.0",
+        "commit_date": 1683728886.0
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 123,
-        "uniques": 17
+        "count": 126,
+        "uniques": 19
       }
     }
   ]
