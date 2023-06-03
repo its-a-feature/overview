@@ -67,16 +67,16 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/Mythic/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/Mythic/deployments",
       "created_at": "2018-07-05T02:09:59Z",
-      "updated_at": "2023-05-31T21:22:49Z",
-      "pushed_at": "2023-06-01T21:19:42Z",
+      "updated_at": "2023-06-02T19:46:58Z",
+      "pushed_at": "2023-06-02T16:05:24Z",
       "git_url": "git://github.com/its-a-feature/Mythic.git",
       "ssh_url": "git@github.com:its-a-feature/Mythic.git",
       "clone_url": "https://github.com/its-a-feature/Mythic.git",
       "svn_url": "https://github.com/its-a-feature/Mythic",
       "homepage": "",
-      "size": 306515,
-      "stargazers_count": 2300,
-      "watchers_count": 2300,
+      "size": 306550,
+      "stargazers_count": 2303,
+      "watchers_count": 2303,
       "language": "JavaScript",
       "has_issues": true,
       "has_projects": true,
@@ -103,7 +103,7 @@
       "visibility": "public",
       "forks": 357,
       "open_issues": 23,
-      "watchers": 2300,
+      "watchers": 2303,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -135,13 +135,13 @@
       "subscribers_count": 59,
       "latest": {
         "branch": "master",
-        "commit_message": "v3.0.1-rc17\n\nfixed a bug with get_delegate_tasks not being r...",
-        "commit_date": 1685654380.0
+        "commit_message": "v3.0.1-rc18\n\nfixed an issue with UNC paths in file browser r...",
+        "commit_date": 1685721922.0
       },
       "category": "Mythic",
       "clones": {
-        "count": 2660,
-        "uniques": 610
+        "count": 2638,
+        "uniques": 611
       }
     },
     {
@@ -2133,8 +2133,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 1971,
-        "uniques": 276
+        "count": 1940,
+        "uniques": 279
       }
     },
     {
@@ -2286,8 +2286,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 28,
-        "uniques": 10
+        "count": 27,
+        "uniques": 9
       }
     },
     {
@@ -2798,7 +2798,7 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 18,
+        "count": 17,
         "uniques": 12
       }
     },
@@ -2945,8 +2945,8 @@
       },
       "category": "MythicDocs",
       "clones": {
-        "count": 22,
-        "uniques": 12
+        "count": 20,
+        "uniques": 11
       }
     },
     {
@@ -3017,13 +3017,13 @@
       "deployments_url": "https://api.github.com/repos/MythicMeta/overview/deployments",
       "created_at": "2023-04-20T23:05:14Z",
       "updated_at": "2023-05-04T19:01:47Z",
-      "pushed_at": "2023-06-01T01:59:26Z",
+      "pushed_at": "2023-06-02T01:43:19Z",
       "git_url": "git://github.com/MythicMeta/overview.git",
       "ssh_url": "git@github.com:MythicMeta/overview.git",
       "clone_url": "https://github.com/MythicMeta/overview.git",
       "svn_url": "https://github.com/MythicMeta/overview",
       "homepage": null,
-      "size": 725,
+      "size": 786,
       "stargazers_count": 5,
       "watchers_count": 5,
       "language": "Python",
@@ -3094,11 +3094,11 @@
       "latest": {
         "branch": "main",
         "commit_message": "update data via action",
-        "commit_date": 1685584765.0
+        "commit_date": 1685670199.0
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 87,
+        "count": 86,
         "uniques": 17
       }
     },
@@ -3251,8 +3251,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 19,
-        "uniques": 16
+        "count": 15,
+        "uniques": 14
       }
     },
     {
@@ -3398,8 +3398,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 81,
-        "uniques": 18
+        "count": 60,
+        "uniques": 17
       }
     }
   ]
