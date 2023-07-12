@@ -68,13 +68,13 @@
       "deployments_url": "https://api.github.com/repos/its-a-feature/Mythic/deployments",
       "created_at": "2018-07-05T02:09:59Z",
       "updated_at": "2023-07-09T09:50:15Z",
-      "pushed_at": "2023-07-10T21:39:20Z",
+      "pushed_at": "2023-07-11T14:22:54Z",
       "git_url": "git://github.com/its-a-feature/Mythic.git",
       "ssh_url": "git@github.com:its-a-feature/Mythic.git",
       "clone_url": "https://github.com/its-a-feature/Mythic.git",
       "svn_url": "https://github.com/its-a-feature/Mythic",
       "homepage": "",
-      "size": 317241,
+      "size": 321483,
       "stargazers_count": 2358,
       "watchers_count": 2358,
       "language": "JavaScript",
@@ -138,13 +138,13 @@
       "subscribers_count": 61,
       "latest": {
         "branch": "master",
-        "commit_message": "fixed small bug in ui for mass tasking\n\nremoved extra \"task\"...",
-        "commit_date": 1689025157.0
+        "commit_message": "v3.0.1-rc36\n\nFixed a few of the RPC calls that had bad postg...",
+        "commit_date": 1689085370.0
       },
       "category": "Mythic",
       "clones": {
-        "count": 3392,
-        "uniques": 620
+        "count": 3240,
+        "uniques": 591
       }
     },
     {
@@ -2007,8 +2007,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 2,
+        "uniques": 2
       }
     },
     {
@@ -2163,8 +2163,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 2016,
-        "uniques": 276
+        "count": 1874,
+        "uniques": 264
       }
     },
     {
@@ -2687,8 +2687,8 @@
       },
       "category": "GhostWriter",
       "clones": {
-        "count": 4,
-        "uniques": 4
+        "count": 2,
+        "uniques": 2
       }
     },
     {
@@ -2779,7 +2779,7 @@
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 1,
+      "open_issues_count": 2,
       "license": null,
       "allow_forking": true,
       "is_template": false,
@@ -2787,7 +2787,7 @@
       "topics": [],
       "visibility": "public",
       "forks": 7,
-      "open_issues": 1,
+      "open_issues": 2,
       "watchers": 10,
       "default_branch": "master",
       "permissions": {
@@ -3059,13 +3059,13 @@
       "deployments_url": "https://api.github.com/repos/MythicMeta/overview/deployments",
       "created_at": "2023-04-20T23:05:14Z",
       "updated_at": "2023-05-04T19:01:47Z",
-      "pushed_at": "2023-07-10T01:47:27Z",
+      "pushed_at": "2023-07-11T01:39:09Z",
       "git_url": "git://github.com/MythicMeta/overview.git",
       "ssh_url": "git@github.com:MythicMeta/overview.git",
       "clone_url": "https://github.com/MythicMeta/overview.git",
       "svn_url": "https://github.com/MythicMeta/overview",
       "homepage": null,
-      "size": 877,
+      "size": 997,
       "stargazers_count": 5,
       "watchers_count": 5,
       "language": "Python",
@@ -3139,12 +3139,12 @@
       "latest": {
         "branch": "main",
         "commit_message": "update data via action",
-        "commit_date": 1688953646.0
+        "commit_date": 1689039548.0
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 72,
-        "uniques": 16
+        "count": 67,
+        "uniques": 15
       }
     },
     {
@@ -3371,7 +3371,7 @@
       "deployments_url": "https://api.github.com/repos/MythicMeta/Mythic_Docker_Templates/deployments",
       "created_at": "2021-04-29T00:08:27Z",
       "updated_at": "2023-05-10T14:28:12Z",
-      "pushed_at": "2023-06-29T20:19:16Z",
+      "pushed_at": "2023-07-11T11:58:10Z",
       "git_url": "git://github.com/MythicMeta/Mythic_Docker_Templates.git",
       "ssh_url": "git@github.com:MythicMeta/Mythic_Docker_Templates.git",
       "clone_url": "https://github.com/MythicMeta/Mythic_Docker_Templates.git",
@@ -3387,19 +3387,19 @@
       "has_wiki": true,
       "has_pages": false,
       "has_discussions": false,
-      "forks_count": 3,
+      "forks_count": 4,
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 0,
+      "open_issues_count": 1,
       "license": null,
       "allow_forking": true,
       "is_template": false,
       "web_commit_signoff_required": false,
       "topics": [],
       "visibility": "public",
-      "forks": 3,
-      "open_issues": 0,
+      "forks": 4,
+      "open_issues": 1,
       "watchers": 5,
       "default_branch": "master",
       "permissions": {
@@ -3440,7 +3440,7 @@
           "status": "disabled"
         }
       },
-      "network_count": 3,
+      "network_count": 4,
       "subscribers_count": 3,
       "latest": {
         "branch": "master",
