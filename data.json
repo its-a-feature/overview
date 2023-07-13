@@ -67,16 +67,16 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/Mythic/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/Mythic/deployments",
       "created_at": "2018-07-05T02:09:59Z",
-      "updated_at": "2023-07-09T09:50:15Z",
-      "pushed_at": "2023-07-11T14:22:54Z",
+      "updated_at": "2023-07-12T18:23:43Z",
+      "pushed_at": "2023-07-12T19:19:37Z",
       "git_url": "git://github.com/its-a-feature/Mythic.git",
       "ssh_url": "git@github.com:its-a-feature/Mythic.git",
       "clone_url": "https://github.com/its-a-feature/Mythic.git",
       "svn_url": "https://github.com/its-a-feature/Mythic",
       "homepage": "",
-      "size": 321483,
-      "stargazers_count": 2358,
-      "watchers_count": 2358,
+      "size": 285563,
+      "stargazers_count": 2361,
+      "watchers_count": 2361,
       "language": "JavaScript",
       "has_issues": true,
       "has_projects": true,
@@ -103,7 +103,7 @@
       "visibility": "public",
       "forks": 365,
       "open_issues": 27,
-      "watchers": 2358,
+      "watchers": 2361,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -138,13 +138,13 @@
       "subscribers_count": 61,
       "latest": {
         "branch": "master",
-        "commit_message": "v3.0.1-rc36\n\nFixed a few of the RPC calls that had bad postg...",
-        "commit_date": 1689085370.0
+        "commit_message": "v3.0.1-rc38\n\nupdated more of the rabbitmq connections",
+        "commit_date": 1689189574.0
       },
       "category": "Mythic",
       "clones": {
-        "count": 3240,
-        "uniques": 591
+        "count": 3125,
+        "uniques": 570
       }
     },
     {
@@ -362,13 +362,13 @@
       "deployments_url": "https://api.github.com/repos/its-a-feature/dylibHijackScanner/deployments",
       "created_at": "2022-09-08T21:17:39Z",
       "updated_at": "2023-05-26T06:29:39Z",
-      "pushed_at": "2022-10-08T09:51:22Z",
+      "pushed_at": "2023-07-12T19:55:34Z",
       "git_url": "git://github.com/its-a-feature/dylibHijackScanner.git",
       "ssh_url": "git@github.com:its-a-feature/dylibHijackScanner.git",
       "clone_url": "https://github.com/its-a-feature/dylibHijackScanner.git",
       "svn_url": "https://github.com/its-a-feature/dylibHijackScanner",
       "homepage": null,
-      "size": 74,
+      "size": 78,
       "stargazers_count": 22,
       "watchers_count": 22,
       "language": "Objective-C",
@@ -432,13 +432,13 @@
       "subscribers_count": 3,
       "latest": {
         "branch": "main",
-        "commit_message": "Adding license data",
-        "commit_date": 1665222679.0
+        "commit_message": "updated to support argc/argv as well\n\nnow works with poseido...",
+        "commit_date": 1689191729.0
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 7,
+        "uniques": 5
       }
     },
     {
@@ -803,13 +803,13 @@
       "deployments_url": "https://api.github.com/repos/its-a-feature/bifrost/deployments",
       "created_at": "2019-11-08T00:20:53Z",
       "updated_at": "2023-06-30T19:27:28Z",
-      "pushed_at": "2022-02-18T00:32:53Z",
+      "pushed_at": "2023-07-12T19:54:32Z",
       "git_url": "git://github.com/its-a-feature/bifrost.git",
       "ssh_url": "git@github.com:its-a-feature/bifrost.git",
       "clone_url": "https://github.com/its-a-feature/bifrost.git",
       "svn_url": "https://github.com/its-a-feature/bifrost",
       "homepage": "",
-      "size": 5354,
+      "size": 5905,
       "stargazers_count": 108,
       "watchers_count": 108,
       "language": "Objective-C",
@@ -873,13 +873,13 @@
       "subscribers_count": 8,
       "latest": {
         "branch": "master",
-        "commit_message": "updated the compiled binaries and the bifrost project overal...",
-        "commit_date": 1645144247.0
+        "commit_message": "updated bifrost to fix some parsing errors\n\nadded ability to...",
+        "commit_date": 1689191669.0
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 3,
-        "uniques": 2
+        "count": 4,
+        "uniques": 3
       }
     },
     {
@@ -1219,8 +1219,8 @@
       },
       "category": "macOS Utility",
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 2,
+        "uniques": 2
       }
     },
     {
@@ -2079,13 +2079,13 @@
       "deployments_url": "https://api.github.com/repos/MythicMeta/MythicContainer/deployments",
       "created_at": "2023-03-01T04:59:11Z",
       "updated_at": "2023-06-17T21:56:58Z",
-      "pushed_at": "2023-06-26T20:56:44Z",
+      "pushed_at": "2023-07-12T18:26:32Z",
       "git_url": "git://github.com/MythicMeta/MythicContainer.git",
       "ssh_url": "git@github.com:MythicMeta/MythicContainer.git",
       "clone_url": "https://github.com/MythicMeta/MythicContainer.git",
       "svn_url": "https://github.com/MythicMeta/MythicContainer",
       "homepage": null,
-      "size": 153,
+      "size": 160,
       "stargazers_count": 7,
       "watchers_count": 7,
       "language": "Go",
@@ -2158,13 +2158,13 @@
       "subscribers_count": 1,
       "latest": {
         "branch": "main",
-        "commit_message": "v1.0.9-rc10",
-        "commit_date": 1687812975.0
+        "commit_message": "v1.0.9-rc11\n\nfixed an issue with GetArrayArg",
+        "commit_date": 1689186366.0
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 1874,
-        "uniques": 264
+        "count": 1661,
+        "uniques": 263
       }
     },
     {
@@ -2987,8 +2987,8 @@
       },
       "category": "MythicDocs",
       "clones": {
-        "count": 13,
-        "uniques": 8
+        "count": 12,
+        "uniques": 7
       }
     },
     {
@@ -3059,13 +3059,13 @@
       "deployments_url": "https://api.github.com/repos/MythicMeta/overview/deployments",
       "created_at": "2023-04-20T23:05:14Z",
       "updated_at": "2023-05-04T19:01:47Z",
-      "pushed_at": "2023-07-11T01:39:09Z",
+      "pushed_at": "2023-07-12T01:47:50Z",
       "git_url": "git://github.com/MythicMeta/overview.git",
       "ssh_url": "git@github.com:MythicMeta/overview.git",
       "clone_url": "https://github.com/MythicMeta/overview.git",
       "svn_url": "https://github.com/MythicMeta/overview",
       "homepage": null,
-      "size": 997,
+      "size": 1006,
       "stargazers_count": 5,
       "watchers_count": 5,
       "language": "Python",
@@ -3139,12 +3139,12 @@
       "latest": {
         "branch": "main",
         "commit_message": "update data via action",
-        "commit_date": 1689039548.0
+        "commit_date": 1689126470.0
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 67,
-        "uniques": 15
+        "count": 60,
+        "uniques": 14
       }
     },
     {
@@ -3299,8 +3299,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 6,
-        "uniques": 5
+        "count": 7,
+        "uniques": 7
       }
     },
     {
