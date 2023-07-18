@@ -68,13 +68,13 @@
       "deployments_url": "https://api.github.com/repos/its-a-feature/Mythic/deployments",
       "created_at": "2018-07-05T02:09:59Z",
       "updated_at": "2023-07-16T21:29:41Z",
-      "pushed_at": "2023-07-16T18:09:43Z",
+      "pushed_at": "2023-07-17T22:45:24Z",
       "git_url": "git://github.com/its-a-feature/Mythic.git",
       "ssh_url": "git@github.com:its-a-feature/Mythic.git",
       "clone_url": "https://github.com/its-a-feature/Mythic.git",
       "svn_url": "https://github.com/its-a-feature/Mythic",
       "homepage": "",
-      "size": 286028,
+      "size": 290270,
       "stargazers_count": 2369,
       "watchers_count": 2369,
       "language": "JavaScript",
@@ -138,13 +138,13 @@
       "subscribers_count": 61,
       "latest": {
         "branch": "master",
-        "commit_message": "v3.0.1-rc41\n\nfixed an issue where every delegate message cre...",
-        "commit_date": 1689530982.0
+        "commit_message": "v3.0.1-rc42\n\nupdated MythicRPCCallbackUpdate to work with ta...",
+        "commit_date": 1689633922.0
       },
       "category": "Mythic",
       "clones": {
-        "count": 2275,
-        "uniques": 563
+        "count": 1908,
+        "uniques": 558
       }
     },
     {
@@ -290,8 +290,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 6,
+        "uniques": 5
       }
     },
     {
@@ -437,8 +437,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 8,
-        "uniques": 6
+        "count": 12,
+        "uniques": 9
       }
     },
     {
@@ -878,8 +878,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 8,
-        "uniques": 7
+        "count": 10,
+        "uniques": 9
       }
     },
     {
@@ -1860,8 +1860,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 5,
+        "uniques": 4
       }
     },
     {
@@ -2007,8 +2007,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 4,
+        "uniques": 3
       }
     },
     {
@@ -2079,13 +2079,13 @@
       "deployments_url": "https://api.github.com/repos/MythicMeta/MythicContainer/deployments",
       "created_at": "2023-03-01T04:59:11Z",
       "updated_at": "2023-06-17T21:56:58Z",
-      "pushed_at": "2023-07-12T18:26:32Z",
+      "pushed_at": "2023-07-17T22:01:46Z",
       "git_url": "git://github.com/MythicMeta/MythicContainer.git",
       "ssh_url": "git@github.com:MythicMeta/MythicContainer.git",
       "clone_url": "https://github.com/MythicMeta/MythicContainer.git",
       "svn_url": "https://github.com/MythicMeta/MythicContainer",
       "homepage": null,
-      "size": 160,
+      "size": 164,
       "stargazers_count": 7,
       "watchers_count": 7,
       "language": "Go",
@@ -2158,13 +2158,13 @@
       "subscribers_count": 1,
       "latest": {
         "branch": "main",
-        "commit_message": "v1.0.9-rc11\n\nfixed an issue with GetArrayArg",
-        "commit_date": 1689186366.0
+        "commit_message": "v1.0.9-rc12\n\nfixed an issue with reporting c2 service status",
+        "commit_date": 1689631246.0
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 1563,
-        "uniques": 264
+        "count": 1551,
+        "uniques": 265
       }
     },
     {
@@ -2837,8 +2837,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 8,
-        "uniques": 8
+        "count": 9,
+        "uniques": 9
       }
     },
     {
@@ -2987,7 +2987,7 @@
       },
       "category": "MythicDocs",
       "clones": {
-        "count": 9,
+        "count": 6,
         "uniques": 4
       }
     },
@@ -3059,13 +3059,13 @@
       "deployments_url": "https://api.github.com/repos/MythicMeta/overview/deployments",
       "created_at": "2023-04-20T23:05:14Z",
       "updated_at": "2023-05-04T19:01:47Z",
-      "pushed_at": "2023-07-16T01:59:22Z",
+      "pushed_at": "2023-07-17T01:52:24Z",
       "git_url": "git://github.com/MythicMeta/overview.git",
       "ssh_url": "git@github.com:MythicMeta/overview.git",
       "clone_url": "https://github.com/MythicMeta/overview.git",
       "svn_url": "https://github.com/MythicMeta/overview",
       "homepage": null,
-      "size": 1272,
+      "size": 1395,
       "stargazers_count": 5,
       "watchers_count": 5,
       "language": "Python",
@@ -3139,12 +3139,12 @@
       "latest": {
         "branch": "main",
         "commit_message": "update data via action",
-        "commit_date": 1689472761.0
+        "commit_date": 1689558743.0
       },
       "category": "MythicMeta",
       "clones": {
         "count": 60,
-        "uniques": 13
+        "uniques": 12
       }
     },
     {
@@ -3449,8 +3449,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 13,
-        "uniques": 5
+        "count": 5,
+        "uniques": 4
       }
     }
   ]
