@@ -67,16 +67,16 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/Mythic/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/Mythic/deployments",
       "created_at": "2018-07-05T02:09:59Z",
-      "updated_at": "2023-09-28T15:26:28Z",
-      "pushed_at": "2023-08-22T21:41:16Z",
+      "updated_at": "2023-10-07T02:00:12Z",
+      "pushed_at": "2023-10-07T15:31:13Z",
       "git_url": "git://github.com/its-a-feature/Mythic.git",
       "ssh_url": "git@github.com:its-a-feature/Mythic.git",
       "clone_url": "https://github.com/its-a-feature/Mythic.git",
       "svn_url": "https://github.com/its-a-feature/Mythic",
       "homepage": "",
-      "size": 307697,
-      "stargazers_count": 2478,
-      "watchers_count": 2478,
+      "size": 305608,
+      "stargazers_count": 2496,
+      "watchers_count": 2496,
       "language": "JavaScript",
       "has_issues": true,
       "has_projects": true,
@@ -88,7 +88,7 @@
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 29,
+      "open_issues_count": 18,
       "license": {
         "key": "other",
         "name": "Other",
@@ -102,8 +102,8 @@
       "topics": [],
       "visibility": "public",
       "forks": 382,
-      "open_issues": 29,
-      "watchers": 2478,
+      "open_issues": 18,
+      "watchers": 2496,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -138,13 +138,14 @@
       "subscribers_count": 65,
       "latest": {
         "branch": "master",
-        "commit_message": "v3.0.1-rc46\n\nUpdated the task search MythicRPC and nginx rev...",
-        "commit_date": 1692740472.0
+        "commit_message": "fixed bug in UI where debug notifications were still causing...",
+        "commit_date": 1696692668.0,
+        "icon": ""
       },
       "category": "Mythic",
       "clones": {
-        "count": 635,
-        "uniques": 427
+        "count": 690,
+        "uniques": 430
       }
     },
     {
@@ -286,7 +287,8 @@
       "latest": {
         "branch": "main",
         "commit_message": "Adding in the slides for the presentation",
-        "commit_date": 1665416112.0
+        "commit_date": 1665416112.0,
+        "icon": ""
       },
       "category": "macOS Tool",
       "clones": {
@@ -433,12 +435,13 @@
       "latest": {
         "branch": "main",
         "commit_message": "updated to support argc/argv as well\n\nnow works with poseido...",
-        "commit_date": 1689191729.0
+        "commit_date": 1689191729.0,
+        "icon": ""
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 0,
+        "uniques": 0
       }
     },
     {
@@ -525,7 +528,7 @@
       "has_wiki": true,
       "has_pages": false,
       "has_discussions": false,
-      "forks_count": 13,
+      "forks_count": 14,
       "mirror_url": null,
       "archived": false,
       "disabled": false,
@@ -542,7 +545,7 @@
       "web_commit_signoff_required": false,
       "topics": [],
       "visibility": "public",
-      "forks": 13,
+      "forks": 14,
       "open_issues": 0,
       "watchers": 88,
       "default_branch": "master",
@@ -575,17 +578,18 @@
           "status": "enabled"
         }
       },
-      "network_count": 13,
+      "network_count": 14,
       "subscribers_count": 3,
       "latest": {
         "branch": "master",
         "commit_message": "orchard update\n\nUpdating Orchard to remove all of the non-ap...",
-        "commit_date": 1645299306.0
+        "commit_date": 1645299306.0,
+        "icon": ""
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 4,
-        "uniques": 4
+        "count": 9,
+        "uniques": 7
       }
     },
     {
@@ -672,7 +676,7 @@
       "has_wiki": true,
       "has_pages": false,
       "has_discussions": false,
-      "forks_count": 15,
+      "forks_count": 16,
       "mirror_url": null,
       "archived": false,
       "disabled": false,
@@ -689,7 +693,7 @@
       "web_commit_signoff_required": false,
       "topics": [],
       "visibility": "public",
-      "forks": 15,
+      "forks": 16,
       "open_issues": 0,
       "watchers": 55,
       "default_branch": "master",
@@ -722,16 +726,17 @@
           "status": "enabled"
         }
       },
-      "network_count": 15,
+      "network_count": 16,
       "subscribers_count": 3,
       "latest": {
         "branch": "master",
         "commit_message": "added json for AVEnum",
-        "commit_date": 1645206123.0
+        "commit_date": 1645206123.0,
+        "icon": ""
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 7,
+        "count": 9,
         "uniques": 7
       }
     },
@@ -874,12 +879,13 @@
       "latest": {
         "branch": "master",
         "commit_message": "updated bifrost to fix some parsing errors\n\nadded ability to...",
-        "commit_date": 1689191669.0
+        "commit_date": 1689191669.0,
+        "icon": ""
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 8,
-        "uniques": 8
+        "count": 6,
+        "uniques": 5
       }
     },
     {
@@ -1215,7 +1221,8 @@
       "latest": {
         "branch": "master",
         "commit_message": "remove .DS_Store",
-        "commit_date": 1644962722.0
+        "commit_date": 1644962722.0,
+        "icon": ""
       },
       "category": "macOS Utility",
       "clones": {
@@ -1290,7 +1297,7 @@
       "releases_url": "https://api.github.com/repos/D00MFist/Mystikal/releases{/id}",
       "deployments_url": "https://api.github.com/repos/D00MFist/Mystikal/deployments",
       "created_at": "2021-05-03T14:46:16Z",
-      "updated_at": "2023-09-28T11:27:21Z",
+      "updated_at": "2023-10-08T05:31:28Z",
       "pushed_at": "2023-05-10T15:21:26Z",
       "git_url": "git://github.com/D00MFist/Mystikal.git",
       "ssh_url": "git@github.com:D00MFist/Mystikal.git",
@@ -1298,8 +1305,8 @@
       "svn_url": "https://github.com/D00MFist/Mystikal",
       "homepage": null,
       "size": 1473,
-      "stargazers_count": 245,
-      "watchers_count": 245,
+      "stargazers_count": 247,
+      "watchers_count": 247,
       "language": "Python",
       "has_issues": true,
       "has_projects": true,
@@ -1326,7 +1333,7 @@
       "visibility": "public",
       "forks": 35,
       "open_issues": 0,
-      "watchers": 245,
+      "watchers": 247,
       "default_branch": "main",
       "permissions": {
         "admin": false,
@@ -1340,7 +1347,8 @@
       "latest": {
         "branch": "main",
         "commit_message": "Merge pull request #14 from D00MFist/Mythic_v3.0.0\n\nMythic v...",
-        "commit_date": 1683732086.0
+        "commit_date": 1683732086.0,
+        "icon": ""
       },
       "category": "3rd Party",
       "clones": {
@@ -1415,7 +1423,7 @@
       "releases_url": "https://api.github.com/repos/D00MFist/PersistentJXA/releases{/id}",
       "deployments_url": "https://api.github.com/repos/D00MFist/PersistentJXA/deployments",
       "created_at": "2020-08-02T01:49:49Z",
-      "updated_at": "2023-09-28T11:18:34Z",
+      "updated_at": "2023-10-05T08:42:46Z",
       "pushed_at": "2023-08-03T15:09:56Z",
       "git_url": "git://github.com/D00MFist/PersistentJXA.git",
       "ssh_url": "git@github.com:D00MFist/PersistentJXA.git",
@@ -1423,8 +1431,8 @@
       "svn_url": "https://github.com/D00MFist/PersistentJXA",
       "homepage": null,
       "size": 101,
-      "stargazers_count": 237,
-      "watchers_count": 237,
+      "stargazers_count": 238,
+      "watchers_count": 238,
       "language": "JavaScript",
       "has_issues": true,
       "has_projects": true,
@@ -1451,7 +1459,7 @@
       "visibility": "public",
       "forks": 26,
       "open_issues": 0,
-      "watchers": 237,
+      "watchers": 238,
       "default_branch": "master",
       "permissions": {
         "admin": false,
@@ -1465,7 +1473,8 @@
       "latest": {
         "branch": "master",
         "commit_message": "Update PrivilegedHelperToolSpoof.js",
-        "commit_date": 1691075396.0
+        "commit_date": 1691075396.0,
+        "icon": ""
       },
       "category": "3rd Party",
       "clones": {
@@ -1590,7 +1599,8 @@
       "latest": {
         "branch": "main",
         "commit_message": "Merge pull request #2 from m8sec/main\n\nUpdate Security Check...",
-        "commit_date": 1687467679.0
+        "commit_date": 1687467679.0,
+        "icon": ""
       },
       "category": "3rd Party",
       "clones": {
@@ -1709,7 +1719,8 @@
       "latest": {
         "branch": "main",
         "commit_message": "Merge pull request #2 from mattreduce/support-passing-userna...",
-        "commit_date": 1627569783.0
+        "commit_date": 1627569783.0,
+        "icon": ""
       },
       "category": "3rd Party",
       "clones": {
@@ -1856,7 +1867,8 @@
       "latest": {
         "branch": "main",
         "commit_message": "initial commit",
-        "commit_date": 1622044084.0
+        "commit_date": 1622044084.0,
+        "icon": ""
       },
       "category": "macOS Tool",
       "clones": {
@@ -2003,12 +2015,13 @@
       "latest": {
         "branch": "main",
         "commit_message": "Initial push of a simple CLI webcam stealer utility",
-        "commit_date": 1621528628.0
+        "commit_date": 1621528628.0,
+        "icon": ""
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 2,
+        "uniques": 2
       }
     },
     {
@@ -2079,13 +2092,13 @@
       "deployments_url": "https://api.github.com/repos/MythicMeta/MythicContainer/deployments",
       "created_at": "2023-03-01T04:59:11Z",
       "updated_at": "2023-09-13T21:39:09Z",
-      "pushed_at": "2023-07-17T22:01:46Z",
+      "pushed_at": "2023-10-08T14:42:27Z",
       "git_url": "git://github.com/MythicMeta/MythicContainer.git",
       "ssh_url": "git@github.com:MythicMeta/MythicContainer.git",
       "clone_url": "https://github.com/MythicMeta/MythicContainer.git",
       "svn_url": "https://github.com/MythicMeta/MythicContainer",
       "homepage": null,
-      "size": 164,
+      "size": 175,
       "stargazers_count": 9,
       "watchers_count": 9,
       "language": "Go",
@@ -2095,11 +2108,11 @@
       "has_wiki": true,
       "has_pages": false,
       "has_discussions": false,
-      "forks_count": 5,
+      "forks_count": 6,
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 0,
+      "open_issues_count": 1,
       "license": {
         "key": "bsd-3-clause",
         "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -2112,8 +2125,8 @@
       "web_commit_signoff_required": false,
       "topics": [],
       "visibility": "public",
-      "forks": 5,
-      "open_issues": 0,
+      "forks": 6,
+      "open_issues": 1,
       "watchers": 9,
       "default_branch": "main",
       "permissions": {
@@ -2154,17 +2167,18 @@
           "status": "disabled"
         }
       },
-      "network_count": 5,
+      "network_count": 6,
       "subscribers_count": 1,
       "latest": {
         "branch": "main",
-        "commit_message": "v1.0.9-rc12\n\nfixed an issue with reporting c2 service status",
-        "commit_date": 1689631246.0
+        "commit_message": "v1.1.0\n\nupdates to support mythic 3.1.0",
+        "commit_date": 1696280111.0,
+        "icon": ""
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 4,
-        "uniques": 4
+        "count": 28,
+        "uniques": 21
       }
     },
     {
@@ -2235,13 +2249,13 @@
       "deployments_url": "https://api.github.com/repos/MythicMeta/MythicContainerPyPi/deployments",
       "created_at": "2023-03-07T22:54:21Z",
       "updated_at": "2023-07-14T10:38:39Z",
-      "pushed_at": "2023-09-08T08:23:39Z",
+      "pushed_at": "2023-10-03T12:45:03Z",
       "git_url": "git://github.com/MythicMeta/MythicContainerPyPi.git",
       "ssh_url": "git@github.com:MythicMeta/MythicContainerPyPi.git",
       "clone_url": "https://github.com/MythicMeta/MythicContainerPyPi.git",
       "svn_url": "https://github.com/MythicMeta/MythicContainerPyPi",
       "homepage": null,
-      "size": 193,
+      "size": 209,
       "stargazers_count": 1,
       "watchers_count": 1,
       "language": "Python",
@@ -2255,7 +2269,7 @@
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 2,
+      "open_issues_count": 1,
       "license": {
         "key": "bsd-3-clause",
         "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -2269,7 +2283,7 @@
       "topics": [],
       "visibility": "public",
       "forks": 3,
-      "open_issues": 2,
+      "open_issues": 1,
       "watchers": 1,
       "default_branch": "main",
       "permissions": {
@@ -2313,14 +2327,15 @@
       "network_count": 3,
       "subscribers_count": 2,
       "latest": {
-        "branch": "v0.2.11rc",
-        "commit_message": "v0.2.11-rc7\n\nfixed the response for a subtask group",
-        "commit_date": 1688054535.0
+        "branch": "main",
+        "commit_message": "v0.3.2",
+        "commit_date": 1696337022.0,
+        "icon": ""
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 8,
-        "uniques": 6
+        "count": 33,
+        "uniques": 13
       }
     },
     {
@@ -2833,11 +2848,12 @@
       "latest": {
         "branch": "master",
         "commit_message": "v0.1.6\n\nadded new tag removal and tag add functions",
-        "commit_date": 1694473319.0
+        "commit_date": 1694473319.0,
+        "icon": ""
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 8,
+        "count": 7,
         "uniques": 6
       }
     },
@@ -2909,13 +2925,13 @@
       "deployments_url": "https://api.github.com/repos/MythicMeta/Documentation/deployments",
       "created_at": "2021-11-04T22:48:21Z",
       "updated_at": "2023-09-20T20:33:43Z",
-      "pushed_at": "2023-09-18T17:35:08Z",
+      "pushed_at": "2023-10-03T20:37:01Z",
       "git_url": "git://github.com/MythicMeta/Documentation.git",
       "ssh_url": "git@github.com:MythicMeta/Documentation.git",
       "clone_url": "https://github.com/MythicMeta/Documentation.git",
       "svn_url": "https://github.com/MythicMeta/Documentation",
       "homepage": null,
-      "size": 51312,
+      "size": 51420,
       "stargazers_count": 7,
       "watchers_count": 7,
       "language": null,
@@ -2982,13 +2998,14 @@
       "subscribers_count": 2,
       "latest": {
         "branch": "primary",
-        "commit_message": "GITBOOK-149: change request with no subject merged in GitBoo...",
-        "commit_date": 1695058496.0
+        "commit_message": "GITBOOK-166: change request with no subject merged in GitBoo...",
+        "commit_date": 1696365415.0,
+        "icon": ""
       },
       "category": "MythicDocs",
       "clones": {
-        "count": 6,
-        "uniques": 6
+        "count": 19,
+        "uniques": 11
       }
     },
     {
@@ -3059,13 +3076,13 @@
       "deployments_url": "https://api.github.com/repos/MythicMeta/overview/deployments",
       "created_at": "2023-04-20T23:05:14Z",
       "updated_at": "2023-08-30T01:17:54Z",
-      "pushed_at": "2023-09-28T01:08:18Z",
+      "pushed_at": "2023-10-08T01:13:40Z",
       "git_url": "git://github.com/MythicMeta/overview.git",
       "ssh_url": "git@github.com:MythicMeta/overview.git",
       "clone_url": "https://github.com/MythicMeta/overview.git",
       "svn_url": "https://github.com/MythicMeta/overview",
       "homepage": null,
-      "size": 4674,
+      "size": 5881,
       "stargazers_count": 6,
       "watchers_count": 6,
       "language": "Python",
@@ -3139,12 +3156,13 @@
       "latest": {
         "branch": "main",
         "commit_message": "update data via action",
-        "commit_date": 1695863297.0
+        "commit_date": 1696727620.0,
+        "icon": ""
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 64,
-        "uniques": 19
+        "count": 57,
+        "uniques": 15
       }
     },
     {
@@ -3295,11 +3313,12 @@
       "latest": {
         "branch": "main",
         "commit_message": "fix basic_agent icon path",
-        "commit_date": 1686346926.0
+        "commit_date": 1686346926.0,
+        "icon": ""
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 5,
+        "count": 8,
         "uniques": 5
       }
     },
@@ -3371,13 +3390,13 @@
       "deployments_url": "https://api.github.com/repos/MythicMeta/Mythic_Docker_Templates/deployments",
       "created_at": "2021-04-29T00:08:27Z",
       "updated_at": "2023-09-28T11:27:14Z",
-      "pushed_at": "2023-09-13T21:25:42Z",
+      "pushed_at": "2023-10-03T12:48:50Z",
       "git_url": "git://github.com/MythicMeta/Mythic_Docker_Templates.git",
       "ssh_url": "git@github.com:MythicMeta/Mythic_Docker_Templates.git",
       "clone_url": "https://github.com/MythicMeta/Mythic_Docker_Templates.git",
       "svn_url": "https://github.com/MythicMeta/Mythic_Docker_Templates",
       "homepage": null,
-      "size": 3370,
+      "size": 3371,
       "stargazers_count": 7,
       "watchers_count": 7,
       "language": "Dockerfile",
@@ -3444,13 +3463,14 @@
       "subscribers_count": 3,
       "latest": {
         "branch": "master",
-        "commit_message": "updating clang version to 17",
-        "commit_date": 1694189195.0
+        "commit_message": "updating pypi package",
+        "commit_date": 1696337065.0,
+        "icon": ""
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 30,
+        "uniques": 5
       }
     }
   ]
