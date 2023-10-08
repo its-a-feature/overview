@@ -186,10 +186,11 @@ with open(mythicmeta_repos) as f:
             print(url)
             proj = g.get_repo(project)
             print(f"{proj.name} - {proj.description}")
+            default_branch = proj.get_branch(proj.default_branch)
             latest = {
-                "branch": "main",
-                "commit_message": "",
-                "commit_date": datetime.strptime("1970-01-01 00:00:01", "%Y-%m-%d %H:%M:%S"),
+                "branch": default_branch.name,
+                "commit_message": default_branch.commit.commit.message,
+                "commit_date": default_branch.commit.commit.author.date,
                 "icon": "",
             }
             for b in proj.get_branches():
