@@ -67,7 +67,7 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/Mythic/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/Mythic/deployments",
       "created_at": "2018-07-05T02:09:59Z",
-      "updated_at": "2023-10-23T21:10:35Z",
+      "updated_at": "2023-10-24T20:12:24Z",
       "pushed_at": "2023-10-20T18:08:57Z",
       "git_url": "git://github.com/its-a-feature/Mythic.git",
       "ssh_url": "git@github.com:its-a-feature/Mythic.git",
@@ -75,8 +75,8 @@
       "svn_url": "https://github.com/its-a-feature/Mythic",
       "homepage": "",
       "size": 330842,
-      "stargazers_count": 2523,
-      "watchers_count": 2523,
+      "stargazers_count": 2526,
+      "watchers_count": 2526,
       "language": "JavaScript",
       "has_issues": true,
       "has_projects": true,
@@ -103,7 +103,7 @@
       "visibility": "public",
       "forks": 384,
       "open_issues": 19,
-      "watchers": 2523,
+      "watchers": 2526,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -144,8 +144,8 @@
       },
       "category": "Mythic",
       "clones": {
-        "count": 651,
-        "uniques": 422
+        "count": 634,
+        "uniques": 410
       }
     },
     {
@@ -292,7 +292,7 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 3,
+        "count": 2,
         "uniques": 2
       }
     },
@@ -589,7 +589,7 @@
       "category": "macOS Tool",
       "clones": {
         "count": 5,
-        "uniques": 4
+        "uniques": 5
       }
     },
     {
@@ -737,7 +737,7 @@
       "category": "macOS Tool",
       "clones": {
         "count": 3,
-        "uniques": 2
+        "uniques": 3
       }
     },
     {
@@ -884,7 +884,7 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 8,
+        "count": 7,
         "uniques": 6
       }
     },
@@ -1872,8 +1872,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 4,
-        "uniques": 3
+        "count": 2,
+        "uniques": 2
       }
     },
     {
@@ -2177,8 +2177,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 7,
-        "uniques": 6
+        "count": 6,
+        "uniques": 5
       }
     },
     {
@@ -2774,13 +2774,13 @@
       "deployments_url": "https://api.github.com/repos/MythicMeta/Mythic_Scripting/deployments",
       "created_at": "2021-03-22T04:43:23Z",
       "updated_at": "2023-09-20T20:33:56Z",
-      "pushed_at": "2023-09-11T23:02:01Z",
+      "pushed_at": "2023-10-24T16:15:02Z",
       "git_url": "git://github.com/MythicMeta/Mythic_Scripting.git",
       "ssh_url": "git@github.com:MythicMeta/Mythic_Scripting.git",
       "clone_url": "https://github.com/MythicMeta/Mythic_Scripting.git",
       "svn_url": "https://github.com/MythicMeta/Mythic_Scripting",
       "homepage": null,
-      "size": 445,
+      "size": 467,
       "stargazers_count": 12,
       "watchers_count": 12,
       "language": "Python",
@@ -2847,13 +2847,13 @@
       "subscribers_count": 5,
       "latest": {
         "branch": "master",
-        "commit_message": "v0.1.6\n\nadded new tag removal and tag add functions",
-        "commit_date": 1694473319.0,
+        "commit_message": "v0.1.7\n\nadded support for interactive tasking and better fil...",
+        "commit_date": 1698164048.0,
         "icon": ""
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 9,
+        "count": 7,
         "uniques": 6
       }
     },
@@ -3076,13 +3076,13 @@
       "deployments_url": "https://api.github.com/repos/MythicMeta/overview/deployments",
       "created_at": "2023-04-20T23:05:14Z",
       "updated_at": "2023-08-30T01:17:54Z",
-      "pushed_at": "2023-10-23T01:10:08Z",
+      "pushed_at": "2023-10-24T01:09:25Z",
       "git_url": "git://github.com/MythicMeta/overview.git",
       "ssh_url": "git@github.com:MythicMeta/overview.git",
       "clone_url": "https://github.com/MythicMeta/overview.git",
       "svn_url": "https://github.com/MythicMeta/overview",
       "homepage": null,
-      "size": 2627,
+      "size": 2884,
       "stargazers_count": 6,
       "watchers_count": 6,
       "language": "Python",
@@ -3156,12 +3156,12 @@
       "latest": {
         "branch": "main",
         "commit_message": "update data via action",
-        "commit_date": 1698023407.0,
+        "commit_date": 1698109764.0,
         "icon": ""
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 58,
+        "count": 60,
         "uniques": 20
       }
     },
@@ -3469,7 +3469,7 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 3,
+        "count": 2,
         "uniques": 2
       }
     }
