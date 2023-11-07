@@ -67,16 +67,16 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/Mythic/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/Mythic/deployments",
       "created_at": "2018-07-05T02:09:59Z",
-      "updated_at": "2023-11-04T11:24:38Z",
-      "pushed_at": "2023-10-31T22:26:10Z",
+      "updated_at": "2023-11-06T22:16:19Z",
+      "pushed_at": "2023-11-06T17:30:38Z",
       "git_url": "git://github.com/its-a-feature/Mythic.git",
       "ssh_url": "git@github.com:its-a-feature/Mythic.git",
       "clone_url": "https://github.com/its-a-feature/Mythic.git",
       "svn_url": "https://github.com/its-a-feature/Mythic",
       "homepage": "",
-      "size": 336483,
-      "stargazers_count": 2546,
-      "watchers_count": 2546,
+      "size": 312849,
+      "stargazers_count": 2549,
+      "watchers_count": 2549,
       "language": "JavaScript",
       "has_issues": true,
       "has_projects": true,
@@ -88,7 +88,7 @@
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 18,
+      "open_issues_count": 17,
       "license": {
         "key": "other",
         "name": "Other",
@@ -102,8 +102,8 @@
       "topics": [],
       "visibility": "public",
       "forks": 384,
-      "open_issues": 18,
-      "watchers": 2546,
+      "open_issues": 17,
+      "watchers": 2549,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -138,13 +138,13 @@
       "subscribers_count": 63,
       "latest": {
         "branch": "master",
-        "commit_message": "Merge pull request #323 from mattreduce/fix-make-macos\n\nRun ...",
-        "commit_date": 1698791153.0,
+        "commit_message": "update UI to 0.1.25",
+        "commit_date": 1699291834.0,
         "icon": ""
       },
       "category": "Mythic",
       "clones": {
-        "count": 667,
+        "count": 663,
         "uniques": 428
       }
     },
@@ -215,7 +215,7 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/LockSmith/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/LockSmith/deployments",
       "created_at": "2022-10-07T09:35:55Z",
-      "updated_at": "2023-09-28T11:43:16Z",
+      "updated_at": "2023-11-06T06:21:45Z",
       "pushed_at": "2022-10-10T15:35:16Z",
       "git_url": "git://github.com/its-a-feature/LockSmith.git",
       "ssh_url": "git@github.com:its-a-feature/LockSmith.git",
@@ -223,8 +223,8 @@
       "svn_url": "https://github.com/its-a-feature/LockSmith",
       "homepage": null,
       "size": 6900,
-      "stargazers_count": 49,
-      "watchers_count": 49,
+      "stargazers_count": 50,
+      "watchers_count": 50,
       "language": "Objective-C",
       "has_issues": true,
       "has_projects": true,
@@ -251,7 +251,7 @@
       "visibility": "public",
       "forks": 5,
       "open_issues": 1,
-      "watchers": 49,
+      "watchers": 50,
       "default_branch": "main",
       "permissions": {
         "admin": true,
@@ -440,8 +440,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 2,
+        "uniques": 2
       }
     },
     {
@@ -736,8 +736,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 8,
-        "uniques": 8
+        "count": 7,
+        "uniques": 7
       }
     },
     {
@@ -884,8 +884,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 15,
-        "uniques": 12
+        "count": 13,
+        "uniques": 10
       }
     },
     {
@@ -1549,7 +1549,7 @@
       "releases_url": "https://api.github.com/repos/cedowens/SwiftBelt-JXA/releases{/id}",
       "deployments_url": "https://api.github.com/repos/cedowens/SwiftBelt-JXA/deployments",
       "created_at": "2020-10-21T22:22:04Z",
-      "updated_at": "2023-10-15T22:07:55Z",
+      "updated_at": "2023-11-06T17:04:48Z",
       "pushed_at": "2023-06-22T21:01:20Z",
       "git_url": "git://github.com/cedowens/SwiftBelt-JXA.git",
       "ssh_url": "git@github.com:cedowens/SwiftBelt-JXA.git",
@@ -1557,8 +1557,8 @@
       "svn_url": "https://github.com/cedowens/SwiftBelt-JXA",
       "homepage": "",
       "size": 48,
-      "stargazers_count": 40,
-      "watchers_count": 40,
+      "stargazers_count": 41,
+      "watchers_count": 41,
       "language": "JavaScript",
       "has_issues": true,
       "has_projects": true,
@@ -1585,7 +1585,7 @@
       "visibility": "public",
       "forks": 5,
       "open_issues": 0,
-      "watchers": 40,
+      "watchers": 41,
       "default_branch": "main",
       "permissions": {
         "admin": false,
@@ -1872,8 +1872,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 3,
+        "uniques": 3
       }
     },
     {
@@ -2020,8 +2020,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 2,
+        "uniques": 2
       }
     },
     {
@@ -2177,8 +2177,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 23,
-        "uniques": 19
+        "count": 30,
+        "uniques": 21
       }
     },
     {
@@ -3076,13 +3076,13 @@
       "deployments_url": "https://api.github.com/repos/MythicMeta/overview/deployments",
       "created_at": "2023-04-20T23:05:14Z",
       "updated_at": "2023-08-30T01:17:54Z",
-      "pushed_at": "2023-11-05T01:14:43Z",
+      "pushed_at": "2023-11-06T01:12:25Z",
       "git_url": "git://github.com/MythicMeta/overview.git",
       "ssh_url": "git@github.com:MythicMeta/overview.git",
       "clone_url": "https://github.com/MythicMeta/overview.git",
       "svn_url": "https://github.com/MythicMeta/overview",
       "homepage": null,
-      "size": 4541,
+      "size": 4559,
       "stargazers_count": 6,
       "watchers_count": 6,
       "language": "Python",
@@ -3156,13 +3156,13 @@
       "latest": {
         "branch": "main",
         "commit_message": "update data via action",
-        "commit_date": 1699146883.0,
+        "commit_date": 1699233145.0,
         "icon": ""
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 70,
-        "uniques": 26
+        "count": 72,
+        "uniques": 27
       }
     },
     {
@@ -3318,8 +3318,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 6,
-        "uniques": 6
+        "count": 4,
+        "uniques": 4
       }
     },
     {
