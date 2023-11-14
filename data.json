@@ -68,13 +68,13 @@
       "deployments_url": "https://api.github.com/repos/its-a-feature/Mythic/deployments",
       "created_at": "2018-07-05T02:09:59Z",
       "updated_at": "2023-11-12T13:03:46Z",
-      "pushed_at": "2023-11-09T19:40:37Z",
+      "pushed_at": "2023-11-13T15:57:21Z",
       "git_url": "git://github.com/its-a-feature/Mythic.git",
       "ssh_url": "git@github.com:its-a-feature/Mythic.git",
       "clone_url": "https://github.com/its-a-feature/Mythic.git",
       "svn_url": "https://github.com/its-a-feature/Mythic",
       "homepage": "",
-      "size": 324007,
+      "size": 329602,
       "stargazers_count": 2559,
       "watchers_count": 2559,
       "language": "JavaScript",
@@ -138,14 +138,14 @@
       "subscribers_count": 64,
       "latest": {
         "branch": "master",
-        "commit_message": "UI tweak\n\nadded new File C2 view to callback metadata as wel...",
-        "commit_date": 1699558834.0,
+        "commit_message": "v3.1.7\n\nAdded support for parallelized file chunk downloads",
+        "commit_date": 1699891038.0,
         "icon": ""
       },
       "category": "Mythic",
       "clones": {
-        "count": 731,
-        "uniques": 454
+        "count": 734,
+        "uniques": 466
       }
     },
     {
@@ -292,8 +292,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 10,
-        "uniques": 9
+        "count": 6,
+        "uniques": 6
       }
     },
     {
@@ -884,8 +884,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 11,
-        "uniques": 9
+        "count": 10,
+        "uniques": 8
       }
     },
     {
@@ -2177,8 +2177,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 52,
-        "uniques": 37
+        "count": 39,
+        "uniques": 26
       }
     },
     {
@@ -2334,8 +2334,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 11,
-        "uniques": 10
+        "count": 12,
+        "uniques": 11
       }
     },
     {
@@ -2853,8 +2853,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 7,
-        "uniques": 7
+        "count": 8,
+        "uniques": 8
       }
     },
     {
@@ -3076,13 +3076,13 @@
       "deployments_url": "https://api.github.com/repos/MythicMeta/overview/deployments",
       "created_at": "2023-04-20T23:05:14Z",
       "updated_at": "2023-08-30T01:17:54Z",
-      "pushed_at": "2023-11-12T01:15:37Z",
+      "pushed_at": "2023-11-13T01:12:22Z",
       "git_url": "git://github.com/MythicMeta/overview.git",
       "ssh_url": "git@github.com:MythicMeta/overview.git",
       "clone_url": "https://github.com/MythicMeta/overview.git",
       "svn_url": "https://github.com/MythicMeta/overview",
       "homepage": null,
-      "size": 5427,
+      "size": 5700,
       "stargazers_count": 6,
       "watchers_count": 6,
       "language": "Python",
@@ -3156,13 +3156,13 @@
       "latest": {
         "branch": "main",
         "commit_message": "update data via action",
-        "commit_date": 1699751736.0,
+        "commit_date": 1699837942.0,
         "icon": ""
       },
       "category": "MythicMeta",
       "clones": {
         "count": 75,
-        "uniques": 32
+        "uniques": 33
       }
     },
     {
