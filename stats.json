@@ -9504,12 +9504,12 @@
         }
       },
       "clones": {
-        "unique": 46,
-        "count": 58
+        "unique": 45,
+        "count": 57
       },
       "traffic": {
-        "count": 233,
-        "unique": 96
+        "count": 230,
+        "unique": 95
       }
     },
     "2023-11-02": {
@@ -10177,6 +10177,58 @@
         "attack.mitre.org": {
           "count": 17,
           "unique": 1
+        }
+      },
+      "clones": {
+        "unique": 35,
+        "count": 38
+      },
+      "traffic": {
+        "count": 460,
+        "unique": 85
+      }
+    },
+    "2023-11-15": {
+      "referrer": {
+        "Google": {
+          "count": 1184,
+          "unique": 387
+        },
+        "github.com": {
+          "count": 490,
+          "unique": 127
+        },
+        "search.brave.com": {
+          "count": 188,
+          "unique": 5
+        },
+        "docs.mythic-c2.net": {
+          "count": 78,
+          "unique": 16
+        },
+        "DuckDuckGo": {
+          "count": 53,
+          "unique": 34
+        },
+        "Bing": {
+          "count": 32,
+          "unique": 21
+        },
+        "youtube.com": {
+          "count": 30,
+          "unique": 18
+        },
+        "StartPage": {
+          "count": 26,
+          "unique": 1
+        },
+        "academy.hackthebox.com": {
+          "count": 20,
+          "unique": 18
+        },
+        "howto.thec2matrix.com": {
+          "count": 20,
+          "unique": 8
         }
       },
       "clones": {
@@ -14623,6 +14675,34 @@
         }
       },
       "clones": {
+        "unique": 1,
+        "count": 1
+      },
+      "traffic": {
+        "count": 9,
+        "unique": 4
+      }
+    },
+    "2023-11-15": {
+      "referrer": {
+        "book.hacktricks.xyz": {
+          "count": 21,
+          "unique": 9
+        },
+        "posts.specterops.io": {
+          "count": 11,
+          "unique": 3
+        },
+        "github.com": {
+          "count": 10,
+          "unique": 4
+        },
+        "Google": {
+          "count": 1,
+          "unique": 1
+        }
+      },
+      "clones": {
         "unique": 0,
         "count": 0
       },
@@ -17834,6 +17914,26 @@
         "Google": {
           "count": 2,
           "unique": 2
+        }
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
+    },
+    "2023-11-15": {
+      "referrer": {
+        "github.com": {
+          "count": 8,
+          "unique": 5
+        },
+        "Google": {
+          "count": 4,
+          "unique": 3
         }
       },
       "clones": {
@@ -23061,6 +23161,34 @@
         }
       },
       "clones": {
+        "unique": 1,
+        "count": 1
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
+    },
+    "2023-11-15": {
+      "referrer": {
+        "github.com": {
+          "count": 15,
+          "unique": 2
+        },
+        "book.hacktricks.xyz": {
+          "count": 7,
+          "unique": 1
+        },
+        "Google": {
+          "count": 1,
+          "unique": 1
+        },
+        "downloads.shellcon.io": {
+          "count": 1,
+          "unique": 1
+        }
+      },
+      "clones": {
         "unique": 0,
         "count": 0
       },
@@ -27527,6 +27655,26 @@
         },
         "github.com": {
           "count": 3,
+          "unique": 2
+        }
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
+    },
+    "2023-11-15": {
+      "referrer": {
+        "Google": {
+          "count": 6,
+          "unique": 3
+        },
+        "github.com": {
+          "count": 5,
           "unique": 2
         }
       },
@@ -33966,6 +34114,42 @@
         }
       },
       "clones": {
+        "unique": 1,
+        "count": 1
+      },
+      "traffic": {
+        "count": 8,
+        "unique": 4
+      }
+    },
+    "2023-11-15": {
+      "referrer": {
+        "Google": {
+          "count": 12,
+          "unique": 5
+        },
+        "github.com": {
+          "count": 5,
+          "unique": 2
+        },
+        "book.hacktricks.xyz": {
+          "count": 3,
+          "unique": 3
+        },
+        "statics.teams.cdn.office.net": {
+          "count": 2,
+          "unique": 2
+        },
+        "DuckDuckGo": {
+          "count": 2,
+          "unique": 2
+        },
+        "posts.specterops.io": {
+          "count": 1,
+          "unique": 1
+        }
+      },
+      "clones": {
         "unique": 0,
         "count": 0
       },
@@ -36624,6 +36808,22 @@
       }
     },
     "2023-11-14": {
+      "referrer": {
+        "github.com": {
+          "count": 1,
+          "unique": 1
+        }
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
+    },
+    "2023-11-15": {
       "referrer": {
         "github.com": {
           "count": 1,
@@ -39408,6 +39608,17 @@
         "count": 0,
         "unique": 0
       }
+    },
+    "2023-11-15": {
+      "referrer": {},
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
     }
   },
   "https://api.github.com/repos/its-a-feature/macOSCameraCapture": {
@@ -41855,6 +42066,17 @@
         "count": 0,
         "unique": 0
       }
+    },
+    "2023-11-15": {
+      "referrer": {},
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
     }
   },
   "https://api.github.com/repos/MythicMeta/MythicContainer": {
@@ -43927,6 +44149,16 @@
         "count": 2,
         "unique": 2
       }
+    },
+    "2023-11-14": {
+      "clones": {
+        "unique": 2,
+        "count": 3
+      },
+      "traffic": {
+        "count": 32,
+        "unique": 3
+      }
     }
   },
   "https://api.github.com/repos/MythicMeta/MythicContainerPyPi": {
@@ -45568,6 +45800,16 @@
       "traffic": {
         "count": 3,
         "unique": 2
+      }
+    },
+    "2023-11-14": {
+      "clones": {
+        "unique": 1,
+        "count": 1
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
       }
     }
   },
@@ -47943,6 +48185,16 @@
         "count": 19,
         "unique": 5
       }
+    },
+    "2023-11-14": {
+      "traffic": {
+        "count": 5,
+        "unique": 3
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      }
     }
   },
   "https://api.github.com/repos/MythicMeta/Documentation": {
@@ -49398,8 +49650,8 @@
     },
     "2023-11-01": {
       "traffic": {
-        "count": 18,
-        "unique": 2
+        "count": 2,
+        "unique": 1
       },
       "clones": {
         "unique": 0,
@@ -51547,6 +51799,16 @@
         "count": 2,
         "unique": 2
       }
+    },
+    "2023-11-14": {
+      "clones": {
+        "unique": 6,
+        "count": 6
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
     }
   },
   "https://api.github.com/repos/MythicMeta/ExampleContainers": {
@@ -53268,6 +53530,16 @@
       "clones": {
         "unique": 0,
         "count": 0
+      }
+    },
+    "2023-11-14": {
+      "clones": {
+        "unique": 1,
+        "count": 3
+      },
+      "traffic": {
+        "count": 14,
+        "unique": 3
       }
     }
   },
