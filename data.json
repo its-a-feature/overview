@@ -68,13 +68,13 @@
       "deployments_url": "https://api.github.com/repos/its-a-feature/Mythic/deployments",
       "created_at": "2018-07-05T02:09:59Z",
       "updated_at": "2023-11-16T22:51:25Z",
-      "pushed_at": "2023-11-13T15:57:21Z",
+      "pushed_at": "2023-11-17T16:39:41Z",
       "git_url": "git://github.com/its-a-feature/Mythic.git",
       "ssh_url": "git@github.com:its-a-feature/Mythic.git",
       "clone_url": "https://github.com/its-a-feature/Mythic.git",
       "svn_url": "https://github.com/its-a-feature/Mythic",
       "homepage": "",
-      "size": 329602,
+      "size": 313989,
       "stargazers_count": 2564,
       "watchers_count": 2564,
       "language": "JavaScript",
@@ -88,7 +88,7 @@
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 17,
+      "open_issues_count": 16,
       "license": {
         "key": "other",
         "name": "Other",
@@ -102,7 +102,7 @@
       "topics": [],
       "visibility": "public",
       "forks": 384,
-      "open_issues": 17,
+      "open_issues": 16,
       "watchers": 2564,
       "default_branch": "master",
       "permissions": {
@@ -138,14 +138,14 @@
       "subscribers_count": 64,
       "latest": {
         "branch": "master",
-        "commit_message": "v3.1.7\n\nAdded support for parallelized file chunk downloads",
-        "commit_date": 1699891038.0,
+        "commit_message": "v3.2.2\n\nbug fix",
+        "commit_date": 1700237510.0,
         "icon": ""
       },
       "category": "Mythic",
       "clones": {
-        "count": 674,
-        "uniques": 447
+        "count": 658,
+        "uniques": 442
       }
     },
     {
@@ -2853,8 +2853,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 4,
-        "uniques": 4
+        "count": 5,
+        "uniques": 5
       }
     },
     {
@@ -3004,8 +3004,8 @@
       },
       "category": "MythicDocs",
       "clones": {
-        "count": 12,
-        "uniques": 9
+        "count": 11,
+        "uniques": 8
       }
     },
     {
@@ -3076,13 +3076,13 @@
       "deployments_url": "https://api.github.com/repos/MythicMeta/overview/deployments",
       "created_at": "2023-04-20T23:05:14Z",
       "updated_at": "2023-08-30T01:17:54Z",
-      "pushed_at": "2023-11-16T01:13:27Z",
+      "pushed_at": "2023-11-17T01:13:32Z",
       "git_url": "git://github.com/MythicMeta/overview.git",
       "ssh_url": "git@github.com:MythicMeta/overview.git",
       "clone_url": "https://github.com/MythicMeta/overview.git",
       "svn_url": "https://github.com/MythicMeta/overview",
       "homepage": null,
-      "size": 6020,
+      "size": 6296,
       "stargazers_count": 6,
       "watchers_count": 6,
       "language": "Python",
@@ -3156,13 +3156,13 @@
       "latest": {
         "branch": "main",
         "commit_message": "update data via action",
-        "commit_date": 1700097206.0,
+        "commit_date": 1700183611.0,
         "icon": ""
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 77,
-        "uniques": 30
+        "count": 76,
+        "uniques": 29
       }
     },
     {
@@ -3469,7 +3469,7 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 2,
+        "count": 3,
         "uniques": 2
       }
     }
