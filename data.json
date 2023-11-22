@@ -67,16 +67,16 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/Mythic/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/Mythic/deployments",
       "created_at": "2018-07-05T02:09:59Z",
-      "updated_at": "2023-11-20T15:40:01Z",
-      "pushed_at": "2023-11-17T16:39:41Z",
+      "updated_at": "2023-11-21T12:35:37Z",
+      "pushed_at": "2023-11-21T16:40:27Z",
       "git_url": "git://github.com/its-a-feature/Mythic.git",
       "ssh_url": "git@github.com:its-a-feature/Mythic.git",
       "clone_url": "https://github.com/its-a-feature/Mythic.git",
       "svn_url": "https://github.com/its-a-feature/Mythic",
       "homepage": "",
-      "size": 313989,
-      "stargazers_count": 2570,
-      "watchers_count": 2570,
+      "size": 325169,
+      "stargazers_count": 2572,
+      "watchers_count": 2572,
       "language": "JavaScript",
       "has_issues": true,
       "has_projects": true,
@@ -84,7 +84,7 @@
       "has_wiki": false,
       "has_pages": false,
       "has_discussions": false,
-      "forks_count": 385,
+      "forks_count": 386,
       "mirror_url": null,
       "archived": false,
       "disabled": false,
@@ -101,9 +101,9 @@
       "web_commit_signoff_required": false,
       "topics": [],
       "visibility": "public",
-      "forks": 385,
+      "forks": 386,
       "open_issues": 16,
-      "watchers": 2570,
+      "watchers": 2572,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -132,20 +132,23 @@
         },
         "dependabot_security_updates": {
           "status": "enabled"
+        },
+        "secret_scanning_validity_checks": {
+          "status": "disabled"
         }
       },
-      "network_count": 385,
+      "network_count": 386,
       "subscribers_count": 64,
       "latest": {
         "branch": "master",
-        "commit_message": "v3.2.2\n\nbug fix",
-        "commit_date": 1700237510.0,
+        "commit_message": "UI v0.1.33\n\nadded sorting to the group/host fields in the fi...",
+        "commit_date": 1700584823.0,
         "icon": ""
       },
       "category": "Mythic",
       "clones": {
-        "count": 634,
-        "uniques": 426
+        "count": 662,
+        "uniques": 438
       }
     },
     {
@@ -280,6 +283,9 @@
         },
         "dependabot_security_updates": {
           "status": "disabled"
+        },
+        "secret_scanning_validity_checks": {
+          "status": "disabled"
         }
       },
       "network_count": 5,
@@ -292,8 +298,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 6,
-        "uniques": 6
+        "count": 7,
+        "uniques": 7
       }
     },
     {
@@ -363,7 +369,7 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/dylibHijackScanner/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/dylibHijackScanner/deployments",
       "created_at": "2022-09-08T21:17:39Z",
-      "updated_at": "2023-10-25T12:20:19Z",
+      "updated_at": "2023-11-21T09:15:05Z",
       "pushed_at": "2023-07-12T19:55:34Z",
       "git_url": "git://github.com/its-a-feature/dylibHijackScanner.git",
       "ssh_url": "git@github.com:its-a-feature/dylibHijackScanner.git",
@@ -371,8 +377,8 @@
       "svn_url": "https://github.com/its-a-feature/dylibHijackScanner",
       "homepage": null,
       "size": 78,
-      "stargazers_count": 25,
-      "watchers_count": 25,
+      "stargazers_count": 26,
+      "watchers_count": 26,
       "language": "Objective-C",
       "has_issues": true,
       "has_projects": true,
@@ -399,7 +405,7 @@
       "visibility": "public",
       "forks": 0,
       "open_issues": 0,
-      "watchers": 25,
+      "watchers": 26,
       "default_branch": "main",
       "permissions": {
         "admin": true,
@@ -428,6 +434,9 @@
         },
         "dependabot_security_updates": {
           "status": "disabled"
+        },
+        "secret_scanning_validity_checks": {
+          "status": "disabled"
         }
       },
       "network_count": 0,
@@ -440,8 +449,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 4,
+        "uniques": 4
       }
     },
     {
@@ -576,6 +585,9 @@
         },
         "dependabot_security_updates": {
           "status": "enabled"
+        },
+        "secret_scanning_validity_checks": {
+          "status": "disabled"
         }
       },
       "network_count": 14,
@@ -724,6 +736,9 @@
         },
         "dependabot_security_updates": {
           "status": "enabled"
+        },
+        "secret_scanning_validity_checks": {
+          "status": "disabled"
         }
       },
       "network_count": 16,
@@ -887,8 +902,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 11,
-        "uniques": 9
+        "count": 14,
+        "uniques": 11
       }
     },
     {
@@ -1216,6 +1231,9 @@
           "status": "disabled"
         },
         "dependabot_security_updates": {
+          "status": "disabled"
+        },
+        "secret_scanning_validity_checks": {
           "status": "disabled"
         }
       },
@@ -1878,8 +1896,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 2,
+        "uniques": 2
       }
     },
     {
@@ -2014,6 +2032,9 @@
         },
         "dependabot_security_updates": {
           "status": "disabled"
+        },
+        "secret_scanning_validity_checks": {
+          "status": "disabled"
         }
       },
       "network_count": 1,
@@ -2026,8 +2047,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 1,
+        "uniques": 1
       }
     },
     {
@@ -2171,6 +2192,9 @@
         },
         "dependabot_security_updates": {
           "status": "disabled"
+        },
+        "secret_scanning_validity_checks": {
+          "status": "disabled"
         }
       },
       "network_count": 6,
@@ -2183,8 +2207,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 30,
-        "uniques": 25
+        "count": 13,
+        "uniques": 11
       }
     },
     {
@@ -2328,6 +2352,9 @@
         },
         "dependabot_security_updates": {
           "status": "disabled"
+        },
+        "secret_scanning_validity_checks": {
+          "status": "disabled"
         }
       },
       "network_count": 3,
@@ -2340,8 +2367,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 11,
-        "uniques": 10
+        "count": 6,
+        "uniques": 6
       }
     },
     {
@@ -2697,6 +2724,9 @@
         },
         "dependabot_security_updates": {
           "status": "disabled"
+        },
+        "secret_scanning_validity_checks": {
+          "status": "disabled"
         }
       },
       "network_count": 8,
@@ -2846,6 +2876,9 @@
           "status": "disabled"
         },
         "dependabot_security_updates": {
+          "status": "disabled"
+        },
+        "secret_scanning_validity_checks": {
           "status": "disabled"
         }
       },
@@ -2998,6 +3031,9 @@
         },
         "dependabot_security_updates": {
           "status": "disabled"
+        },
+        "secret_scanning_validity_checks": {
+          "status": "disabled"
         }
       },
       "network_count": 8,
@@ -3082,13 +3118,13 @@
       "deployments_url": "https://api.github.com/repos/MythicMeta/overview/deployments",
       "created_at": "2023-04-20T23:05:14Z",
       "updated_at": "2023-08-30T01:17:54Z",
-      "pushed_at": "2023-11-20T01:14:10Z",
+      "pushed_at": "2023-11-21T01:15:48Z",
       "git_url": "git://github.com/MythicMeta/overview.git",
       "ssh_url": "git@github.com:MythicMeta/overview.git",
       "clone_url": "https://github.com/MythicMeta/overview.git",
       "svn_url": "https://github.com/MythicMeta/overview",
       "homepage": null,
-      "size": 6622,
+      "size": 6901,
       "stargazers_count": 6,
       "watchers_count": 6,
       "language": "Python",
@@ -3155,6 +3191,9 @@
         },
         "dependabot_security_updates": {
           "status": "disabled"
+        },
+        "secret_scanning_validity_checks": {
+          "status": "disabled"
         }
       },
       "network_count": 0,
@@ -3162,13 +3201,13 @@
       "latest": {
         "branch": "main",
         "commit_message": "update data via action",
-        "commit_date": 1700442849.0,
+        "commit_date": 1700529346.0,
         "icon": ""
       },
       "category": "MythicMeta",
       "clones": {
         "count": 77,
-        "uniques": 33
+        "uniques": 31
       }
     },
     {
@@ -3312,6 +3351,9 @@
         },
         "dependabot_security_updates": {
           "status": "disabled"
+        },
+        "secret_scanning_validity_checks": {
+          "status": "disabled"
         }
       },
       "network_count": 1,
@@ -3324,8 +3366,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 7,
-        "uniques": 4
+        "count": 9,
+        "uniques": 5
       }
     },
     {
@@ -3478,8 +3520,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 17,
-        "uniques": 5
+        "count": 19,
+        "uniques": 7
       }
     }
   ]
