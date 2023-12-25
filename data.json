@@ -68,13 +68,13 @@
       "deployments_url": "https://api.github.com/repos/its-a-feature/Mythic/deployments",
       "created_at": "2018-07-05T02:09:59Z",
       "updated_at": "2023-12-23T15:33:30Z",
-      "pushed_at": "2023-12-22T15:09:32Z",
+      "pushed_at": "2023-12-24T16:44:33Z",
       "git_url": "git://github.com/its-a-feature/Mythic.git",
       "ssh_url": "git@github.com:its-a-feature/Mythic.git",
       "clone_url": "https://github.com/its-a-feature/Mythic.git",
       "svn_url": "https://github.com/its-a-feature/Mythic",
       "homepage": "",
-      "size": 333875,
+      "size": 339925,
       "stargazers_count": 2634,
       "watchers_count": 2634,
       "language": "JavaScript",
@@ -141,14 +141,14 @@
       "subscribers_count": 65,
       "latest": {
         "branch": "master",
-        "commit_message": "fixed broken link and updated description for proxies",
-        "commit_date": 1703257768.0,
+        "commit_message": "updating UI to v0.1.40\n\nUpdated the hide multiple and task m...",
+        "commit_date": 1703436268.0,
         "icon": ""
       },
       "category": "Mythic",
       "clones": {
-        "count": 626,
-        "uniques": 383
+        "count": 618,
+        "uniques": 374
       }
     },
     {
@@ -449,8 +449,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 6,
-        "uniques": 5
+        "count": 5,
+        "uniques": 4
       }
     },
     {
@@ -822,7 +822,7 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/bifrost/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/bifrost/deployments",
       "created_at": "2019-11-08T00:20:53Z",
-      "updated_at": "2023-12-22T17:25:15Z",
+      "updated_at": "2023-12-24T10:17:09Z",
       "pushed_at": "2023-07-12T19:54:32Z",
       "git_url": "git://github.com/its-a-feature/bifrost.git",
       "ssh_url": "git@github.com:its-a-feature/bifrost.git",
@@ -830,8 +830,8 @@
       "svn_url": "https://github.com/its-a-feature/bifrost",
       "homepage": "",
       "size": 5905,
-      "stargazers_count": 118,
-      "watchers_count": 118,
+      "stargazers_count": 119,
+      "watchers_count": 119,
       "language": "Objective-C",
       "has_issues": true,
       "has_projects": true,
@@ -858,7 +858,7 @@
       "visibility": "public",
       "forks": 21,
       "open_issues": 1,
-      "watchers": 118,
+      "watchers": 119,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -1247,8 +1247,8 @@
       },
       "category": "macOS Utility",
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 1,
+        "uniques": 1
       }
     },
     {
@@ -2207,8 +2207,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 10,
-        "uniques": 9
+        "count": 9,
+        "uniques": 8
       }
     },
     {
@@ -2739,8 +2739,8 @@
       },
       "category": "GhostWriter",
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 3,
+        "uniques": 3
       }
     },
     {
@@ -2893,7 +2893,7 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 3,
+        "count": 4,
         "uniques": 3
       }
     },
@@ -3119,13 +3119,13 @@
       "deployments_url": "https://api.github.com/repos/MythicMeta/overview/deployments",
       "created_at": "2023-04-20T23:05:14Z",
       "updated_at": "2023-12-18T23:32:26Z",
-      "pushed_at": "2023-12-23T01:09:20Z",
+      "pushed_at": "2023-12-24T01:16:27Z",
       "git_url": "git://github.com/MythicMeta/overview.git",
       "ssh_url": "git@github.com:MythicMeta/overview.git",
       "clone_url": "https://github.com/MythicMeta/overview.git",
       "svn_url": "https://github.com/MythicMeta/overview",
       "homepage": null,
-      "size": 6731,
+      "size": 7076,
       "stargazers_count": 6,
       "watchers_count": 6,
       "language": "JavaScript",
@@ -3202,7 +3202,7 @@
       "latest": {
         "branch": "main",
         "commit_message": "update data via action",
-        "commit_date": 1703293760.0,
+        "commit_date": 1703380586.0,
         "icon": ""
       },
       "category": "MythicMeta",
@@ -3521,8 +3521,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 15,
-        "uniques": 6
+        "count": 16,
+        "uniques": 7
       }
     }
   ]
