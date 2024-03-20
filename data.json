@@ -67,16 +67,16 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/Mythic/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/Mythic/deployments",
       "created_at": "2018-07-05T02:09:59Z",
-      "updated_at": "2024-03-18T20:43:10Z",
-      "pushed_at": "2024-03-14T19:25:00Z",
+      "updated_at": "2024-03-19T15:57:27Z",
+      "pushed_at": "2024-03-19T23:32:10Z",
       "git_url": "git://github.com/its-a-feature/Mythic.git",
       "ssh_url": "git@github.com:its-a-feature/Mythic.git",
       "clone_url": "https://github.com/its-a-feature/Mythic.git",
       "svn_url": "https://github.com/its-a-feature/Mythic",
       "homepage": "",
-      "size": 380675,
-      "stargazers_count": 2797,
-      "watchers_count": 2797,
+      "size": 380695,
+      "stargazers_count": 2803,
+      "watchers_count": 2803,
       "language": "JavaScript",
       "has_issues": true,
       "has_projects": true,
@@ -103,7 +103,7 @@
       "visibility": "public",
       "forks": 393,
       "open_issues": 16,
-      "watchers": 2797,
+      "watchers": 2803,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -141,14 +141,14 @@
       "subscribers_count": 65,
       "latest": {
         "branch": "master",
-        "commit_message": "Bump Mythic Dockerfile tag to match release 'v0.0.3.38'",
-        "commit_date": 1710444299.0,
+        "commit_message": "Bump Mythic Dockerfile tag to match release 'v0.0.3.40'",
+        "commit_date": 1710891129.0,
         "icon": ""
       },
       "category": "Mythic",
       "clones": {
-        "count": 790,
-        "uniques": 417
+        "count": 817,
+        "uniques": 415
       }
     },
     {
@@ -298,7 +298,7 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 6,
+        "count": 5,
         "uniques": 5
       }
     },
@@ -449,7 +449,7 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 8,
+        "count": 7,
         "uniques": 6
       }
     },
@@ -600,7 +600,7 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 4,
+        "count": 3,
         "uniques": 3
       }
     },
@@ -751,7 +751,7 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 4,
+        "count": 3,
         "uniques": 3
       }
     },
@@ -902,7 +902,7 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 6,
+        "count": 5,
         "uniques": 5
       }
     },
@@ -1090,16 +1090,16 @@
         "releases_url": "https://api.github.com/repos/axelexic/CSOps/releases{/id}",
         "deployments_url": "https://api.github.com/repos/axelexic/CSOps/deployments",
         "created_at": "2012-01-11T00:42:49Z",
-        "updated_at": "2024-02-20T09:48:07Z",
-        "pushed_at": "2023-02-21T21:06:26Z",
+        "updated_at": "2024-03-19T22:16:59Z",
+        "pushed_at": "2024-03-19T15:17:21Z",
         "git_url": "git://github.com/axelexic/CSOps.git",
         "ssh_url": "git@github.com:axelexic/CSOps.git",
         "clone_url": "https://github.com/axelexic/CSOps.git",
         "svn_url": "https://github.com/axelexic/CSOps",
         "homepage": "",
         "size": 12,
-        "stargazers_count": 56,
-        "watchers_count": 56,
+        "stargazers_count": 58,
+        "watchers_count": 58,
         "language": "C",
         "has_issues": true,
         "has_projects": true,
@@ -1107,20 +1107,20 @@
         "has_wiki": true,
         "has_pages": false,
         "has_discussions": false,
-        "forks_count": 13,
+        "forks_count": 14,
         "mirror_url": null,
         "archived": false,
         "disabled": false,
-        "open_issues_count": 0,
+        "open_issues_count": 1,
         "license": null,
         "allow_forking": true,
         "is_template": false,
         "web_commit_signoff_required": false,
         "topics": [],
         "visibility": "public",
-        "forks": 13,
-        "open_issues": 0,
-        "watchers": 56,
+        "forks": 14,
+        "open_issues": 1,
+        "watchers": 58,
         "default_branch": "master"
       },
       "source": {
@@ -1190,16 +1190,16 @@
         "releases_url": "https://api.github.com/repos/axelexic/CSOps/releases{/id}",
         "deployments_url": "https://api.github.com/repos/axelexic/CSOps/deployments",
         "created_at": "2012-01-11T00:42:49Z",
-        "updated_at": "2024-02-20T09:48:07Z",
-        "pushed_at": "2023-02-21T21:06:26Z",
+        "updated_at": "2024-03-19T22:16:59Z",
+        "pushed_at": "2024-03-19T15:17:21Z",
         "git_url": "git://github.com/axelexic/CSOps.git",
         "ssh_url": "git@github.com:axelexic/CSOps.git",
         "clone_url": "https://github.com/axelexic/CSOps.git",
         "svn_url": "https://github.com/axelexic/CSOps",
         "homepage": "",
         "size": 12,
-        "stargazers_count": 56,
-        "watchers_count": 56,
+        "stargazers_count": 58,
+        "watchers_count": 58,
         "language": "C",
         "has_issues": true,
         "has_projects": true,
@@ -1207,20 +1207,20 @@
         "has_wiki": true,
         "has_pages": false,
         "has_discussions": false,
-        "forks_count": 13,
+        "forks_count": 14,
         "mirror_url": null,
         "archived": false,
         "disabled": false,
-        "open_issues_count": 0,
+        "open_issues_count": 1,
         "license": null,
         "allow_forking": true,
         "is_template": false,
         "web_commit_signoff_required": false,
         "topics": [],
         "visibility": "public",
-        "forks": 13,
-        "open_issues": 0,
-        "watchers": 56,
+        "forks": 14,
+        "open_issues": 1,
+        "watchers": 58,
         "default_branch": "master"
       },
       "security_and_analysis": {
@@ -1237,7 +1237,7 @@
           "status": "disabled"
         }
       },
-      "network_count": 13,
+      "network_count": 14,
       "subscribers_count": 1,
       "latest": {
         "branch": "master",
@@ -1247,7 +1247,7 @@
       },
       "category": "macOS Utility",
       "clones": {
-        "count": 2,
+        "count": 1,
         "uniques": 1
       }
     },
@@ -1896,7 +1896,7 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 3,
+        "count": 2,
         "uniques": 2
       }
     },
@@ -2047,7 +2047,7 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 3,
+        "count": 2,
         "uniques": 2
       }
     },
@@ -2119,13 +2119,13 @@
       "deployments_url": "https://api.github.com/repos/MythicMeta/MythicContainer/deployments",
       "created_at": "2023-03-01T04:59:11Z",
       "updated_at": "2024-01-29T09:29:02Z",
-      "pushed_at": "2024-03-08T20:31:08Z",
+      "pushed_at": "2024-03-19T14:59:38Z",
       "git_url": "git://github.com/MythicMeta/MythicContainer.git",
       "ssh_url": "git@github.com:MythicMeta/MythicContainer.git",
       "clone_url": "https://github.com/MythicMeta/MythicContainer.git",
       "svn_url": "https://github.com/MythicMeta/MythicContainer",
       "homepage": null,
-      "size": 215,
+      "size": 224,
       "stargazers_count": 13,
       "watchers_count": 13,
       "language": "Go",
@@ -2202,14 +2202,14 @@
       "subscribers_count": 1,
       "latest": {
         "branch": "main",
-        "commit_message": "fixing confusing error message for onNewCallbackFunc",
-        "commit_date": 1709929842.0,
+        "commit_message": "v1.3.11\n\nfixing logger tracking",
+        "commit_date": 1710860355.0,
         "icon": ""
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 60,
-        "uniques": 46
+        "count": 57,
+        "uniques": 47
       }
     },
     {
@@ -2369,8 +2369,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 23,
-        "uniques": 18
+        "count": 6,
+        "uniques": 5
       }
     },
     {
@@ -2969,13 +2969,13 @@
       "deployments_url": "https://api.github.com/repos/MythicMeta/Documentation/deployments",
       "created_at": "2021-11-04T22:48:21Z",
       "updated_at": "2024-02-29T00:57:37Z",
-      "pushed_at": "2024-03-16T15:00:48Z",
+      "pushed_at": "2024-03-19T19:36:02Z",
       "git_url": "git://github.com/MythicMeta/Documentation.git",
       "ssh_url": "git@github.com:MythicMeta/Documentation.git",
       "clone_url": "https://github.com/MythicMeta/Documentation.git",
       "svn_url": "https://github.com/MythicMeta/Documentation",
       "homepage": null,
-      "size": 52373,
+      "size": 52377,
       "stargazers_count": 8,
       "watchers_count": 8,
       "language": null,
@@ -3046,14 +3046,14 @@
       "subscribers_count": 2,
       "latest": {
         "branch": "primary",
-        "commit_message": "GITBOOK-218: change request with no subject merged in GitBoo...",
-        "commit_date": 1710601248.0,
+        "commit_message": "GITBOOK-219: change request with no subject merged in GitBoo...",
+        "commit_date": 1710876961.0,
         "icon": ""
       },
       "category": "MythicDocs",
       "clones": {
-        "count": 17,
-        "uniques": 9
+        "count": 25,
+        "uniques": 12
       }
     },
     {
@@ -3124,13 +3124,13 @@
       "deployments_url": "https://api.github.com/repos/MythicMeta/overview/deployments",
       "created_at": "2023-04-20T23:05:14Z",
       "updated_at": "2023-12-18T23:32:26Z",
-      "pushed_at": "2024-03-18T01:10:43Z",
+      "pushed_at": "2024-03-19T01:09:42Z",
       "git_url": "git://github.com/MythicMeta/overview.git",
       "ssh_url": "git@github.com:MythicMeta/overview.git",
       "clone_url": "https://github.com/MythicMeta/overview.git",
       "svn_url": "https://github.com/MythicMeta/overview",
       "homepage": null,
-      "size": 10059,
+      "size": 10095,
       "stargazers_count": 6,
       "watchers_count": 6,
       "language": "JavaScript",
@@ -3208,13 +3208,13 @@
       "latest": {
         "branch": "main",
         "commit_message": "update data via action",
-        "commit_date": 1710724242.0,
+        "commit_date": 1710810581.0,
         "icon": ""
       },
       "category": "MythicMeta",
       "clones": {
         "count": 73,
-        "uniques": 27
+        "uniques": 28
       }
     },
     {
