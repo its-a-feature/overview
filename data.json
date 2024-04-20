@@ -68,13 +68,13 @@
       "deployments_url": "https://api.github.com/repos/its-a-feature/Mythic/deployments",
       "created_at": "2018-07-05T02:09:59Z",
       "updated_at": "2024-04-18T20:06:56Z",
-      "pushed_at": "2024-04-18T21:54:32Z",
+      "pushed_at": "2024-04-19T13:23:38Z",
       "git_url": "git://github.com/its-a-feature/Mythic.git",
       "ssh_url": "git@github.com:its-a-feature/Mythic.git",
       "clone_url": "https://github.com/its-a-feature/Mythic.git",
       "svn_url": "https://github.com/its-a-feature/Mythic",
       "homepage": "",
-      "size": 397505,
+      "size": 397526,
       "stargazers_count": 2872,
       "watchers_count": 2872,
       "language": "JavaScript",
@@ -88,7 +88,7 @@
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 21,
+      "open_issues_count": 23,
       "license": {
         "key": "other",
         "name": "Other",
@@ -102,7 +102,7 @@
       "topics": [],
       "visibility": "public",
       "forks": 401,
-      "open_issues": 21,
+      "open_issues": 23,
       "watchers": 2872,
       "default_branch": "master",
       "permissions": {
@@ -141,13 +141,13 @@
       "subscribers_count": 66,
       "latest": {
         "branch": "dependabot/go_module...",
-        "commit_message": "Bump github.com/docker/docker in /Mythic_CLI/src\n\nBumps [git...",
-        "commit_date": 1713477270.0
+        "commit_message": "Bump golang.org/x/net from 0.22.0 to 0.23.0 in /Mythic_CLI/s...",
+        "commit_date": 1713533016.0
       },
       "category": "Mythic",
       "clones": {
-        "count": 878,
-        "uniques": 497
+        "count": 887,
+        "uniques": 510
       }
     },
     {
@@ -297,8 +297,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 4,
-        "uniques": 4
+        "count": 5,
+        "uniques": 5
       }
     },
     {
@@ -1317,7 +1317,7 @@
       "releases_url": "https://api.github.com/repos/D00MFist/Mystikal/releases{/id}",
       "deployments_url": "https://api.github.com/repos/D00MFist/Mystikal/deployments",
       "created_at": "2021-05-03T14:46:16Z",
-      "updated_at": "2024-04-05T11:48:31Z",
+      "updated_at": "2024-04-19T01:47:51Z",
       "pushed_at": "2024-01-10T15:48:12Z",
       "git_url": "git://github.com/D00MFist/Mystikal.git",
       "ssh_url": "git@github.com:D00MFist/Mystikal.git",
@@ -1325,8 +1325,8 @@
       "svn_url": "https://github.com/D00MFist/Mystikal",
       "homepage": null,
       "size": 1483,
-      "stargazers_count": 269,
-      "watchers_count": 269,
+      "stargazers_count": 270,
+      "watchers_count": 270,
       "language": "Python",
       "has_issues": true,
       "has_projects": true,
@@ -1353,7 +1353,7 @@
       "visibility": "public",
       "forks": 38,
       "open_issues": 0,
-      "watchers": 269,
+      "watchers": 270,
       "default_branch": "main",
       "permissions": {
         "admin": false,
@@ -2207,8 +2207,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 4,
-        "uniques": 4
+        "count": 2,
+        "uniques": 2
       }
     },
     {
@@ -2896,7 +2896,7 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 6,
+        "count": 5,
         "uniques": 3
       }
     },
@@ -3123,13 +3123,13 @@
       "deployments_url": "https://api.github.com/repos/MythicMeta/overview/deployments",
       "created_at": "2023-04-20T23:05:14Z",
       "updated_at": "2023-12-18T23:32:26Z",
-      "pushed_at": "2024-04-18T01:10:42Z",
+      "pushed_at": "2024-04-19T01:12:14Z",
       "git_url": "git://github.com/MythicMeta/overview.git",
       "ssh_url": "git@github.com:MythicMeta/overview.git",
       "clone_url": "https://github.com/MythicMeta/overview.git",
       "svn_url": "https://github.com/MythicMeta/overview",
       "homepage": null,
-      "size": 7454,
+      "size": 7473,
       "stargazers_count": 6,
       "watchers_count": 6,
       "language": "JavaScript",
@@ -3207,7 +3207,7 @@
       "latest": {
         "branch": "main",
         "commit_message": "update data via action",
-        "commit_date": 1713402641.0,
+        "commit_date": 1713489133.0,
         "icon": ""
       },
       "category": "MythicMeta",
