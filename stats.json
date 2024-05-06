@@ -18463,8 +18463,8 @@
         "count": 80
       },
       "traffic": {
-        "count": 360,
-        "unique": 106
+        "count": 356,
+        "unique": 105
       }
     },
     "2024-04-23": {
@@ -18671,8 +18671,8 @@
         "count": 65
       },
       "traffic": {
-        "count": 234,
-        "unique": 100
+        "count": 243,
+        "unique": 105
       }
     },
     "2024-04-27": {
@@ -19132,6 +19132,58 @@
         "medium.com": {
           "count": 22,
           "unique": 5
+        }
+      },
+      "clones": {
+        "unique": 13,
+        "count": 15
+      },
+      "traffic": {
+        "count": 86,
+        "unique": 50
+      }
+    },
+    "2024-05-06": {
+      "referrer": {
+        "Google": {
+          "count": 1192,
+          "unique": 425
+        },
+        "github.com": {
+          "count": 366,
+          "unique": 138
+        },
+        "docs.mythic-c2.net": {
+          "count": 138,
+          "unique": 28
+        },
+        "Bing": {
+          "count": 62,
+          "unique": 31
+        },
+        "academy.intel-ops.io": {
+          "count": 44,
+          "unique": 5
+        },
+        "DuckDuckGo": {
+          "count": 31,
+          "unique": 24
+        },
+        "statics.teams.cdn.office.net": {
+          "count": 23,
+          "unique": 5
+        },
+        "academy.hackthebox.com": {
+          "count": 21,
+          "unique": 19
+        },
+        "medium.com": {
+          "count": 21,
+          "unique": 4
+        },
+        "search.brave.com": {
+          "count": 16,
+          "unique": 10
         }
       },
       "clones": {
@@ -28165,6 +28217,30 @@
         "count": 0,
         "unique": 0
       }
+    },
+    "2024-05-06": {
+      "referrer": {
+        "github.com": {
+          "count": 27,
+          "unique": 7
+        },
+        "book.hacktricks.xyz": {
+          "count": 23,
+          "unique": 6
+        },
+        "Google": {
+          "count": 1,
+          "unique": 1
+        }
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
     }
   },
   "https://api.github.com/repos/its-a-feature/dylibHijackScanner": {
@@ -35093,6 +35169,26 @@
       }
     },
     "2024-05-05": {
+      "referrer": {
+        "Google": {
+          "count": 7,
+          "unique": 3
+        },
+        "github.com": {
+          "count": 1,
+          "unique": 1
+        }
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "traffic": {
+        "count": 4,
+        "unique": 2
+      }
+    },
+    "2024-05-06": {
       "referrer": {
         "Google": {
           "count": 7,
@@ -45275,6 +45371,30 @@
         "count": 0,
         "unique": 0
       }
+    },
+    "2024-05-06": {
+      "referrer": {
+        "Google": {
+          "count": 7,
+          "unique": 4
+        },
+        "github.com": {
+          "count": 4,
+          "unique": 2
+        },
+        "book.hacktricks.xyz": {
+          "count": 2,
+          "unique": 2
+        }
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
     }
   },
   "https://api.github.com/repos/its-a-feature/HealthInspector": {
@@ -53968,6 +54088,34 @@
         "frischkorn-nicholas.medium.com": {
           "count": 1,
           "unique": 1
+        },
+        "mattreduce.com": {
+          "count": 1,
+          "unique": 1
+        },
+        "yandex.ru": {
+          "count": 1,
+          "unique": 1
+        }
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
+    },
+    "2024-05-06": {
+      "referrer": {
+        "Google": {
+          "count": 3,
+          "unique": 2
+        },
+        "github.com": {
+          "count": 2,
+          "unique": 2
         },
         "mattreduce.com": {
           "count": 1,
@@ -65614,6 +65762,30 @@
         }
       },
       "clones": {
+        "unique": 2,
+        "count": 2
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
+    },
+    "2024-05-06": {
+      "referrer": {
+        "Google": {
+          "count": 4,
+          "unique": 3
+        },
+        "book.hacktricks.xyz": {
+          "count": 1,
+          "unique": 1
+        },
+        "github.com": {
+          "count": 1,
+          "unique": 1
+        }
+      },
+      "clones": {
         "unique": 0,
         "count": 0
       },
@@ -70400,6 +70572,17 @@
       }
     },
     "2024-05-05": {
+      "referrer": {},
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
+    },
+    "2024-05-06": {
       "referrer": {},
       "clones": {
         "unique": 0,
@@ -75492,6 +75675,17 @@
         "count": 0,
         "unique": 0
       }
+    },
+    "2024-05-06": {
+      "referrer": {},
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
     }
   },
   "https://api.github.com/repos/its-a-feature/macOSCameraCapture": {
@@ -80062,6 +80256,17 @@
       }
     },
     "2024-05-05": {
+      "referrer": {},
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
+    },
+    "2024-05-06": {
       "referrer": {},
       "clones": {
         "unique": 0,
@@ -97226,8 +97431,8 @@
     },
     "2024-04-26": {
       "clones": {
-        "unique": 5,
-        "count": 7
+        "unique": 6,
+        "count": 8
       },
       "traffic": {
         "count": 4,
@@ -97307,6 +97512,16 @@
     "2024-05-04": {
       "clones": {
         "unique": 5,
+        "count": 6
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
+    },
+    "2024-05-05": {
+      "clones": {
+        "unique": 4,
         "count": 6
       },
       "traffic": {
