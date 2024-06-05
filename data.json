@@ -88,7 +88,7 @@
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 21,
+      "open_issues_count": 22,
       "license": {
         "key": "other",
         "name": "Other",
@@ -102,7 +102,7 @@
       "topics": [],
       "visibility": "public",
       "forks": 409,
-      "open_issues": 21,
+      "open_issues": 22,
       "watchers": 2936,
       "default_branch": "master",
       "permissions": {
@@ -146,8 +146,8 @@
       },
       "category": "Mythic",
       "clones": {
-        "count": 653,
-        "uniques": 456
+        "count": 652,
+        "uniques": 451
       }
     },
     {
@@ -599,8 +599,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 4,
-        "uniques": 4
+        "count": 3,
+        "uniques": 3
       }
     },
     {
@@ -901,8 +901,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 8,
-        "uniques": 8
+        "count": 9,
+        "uniques": 9
       }
     },
     {
@@ -1089,7 +1089,7 @@
         "releases_url": "https://api.github.com/repos/axelexic/CSOps/releases{/id}",
         "deployments_url": "https://api.github.com/repos/axelexic/CSOps/deployments",
         "created_at": "2012-01-11T00:42:49Z",
-        "updated_at": "2024-05-18T12:37:29Z",
+        "updated_at": "2024-06-04T17:34:20Z",
         "pushed_at": "2024-03-21T13:34:35Z",
         "git_url": "git://github.com/axelexic/CSOps.git",
         "ssh_url": "git@github.com:axelexic/CSOps.git",
@@ -1097,8 +1097,8 @@
         "svn_url": "https://github.com/axelexic/CSOps",
         "homepage": "",
         "size": 92,
-        "stargazers_count": 66,
-        "watchers_count": 66,
+        "stargazers_count": 67,
+        "watchers_count": 67,
         "language": "C",
         "has_issues": true,
         "has_projects": true,
@@ -1119,7 +1119,7 @@
         "visibility": "public",
         "forks": 15,
         "open_issues": 0,
-        "watchers": 66,
+        "watchers": 67,
         "default_branch": "master"
       },
       "source": {
@@ -1189,7 +1189,7 @@
         "releases_url": "https://api.github.com/repos/axelexic/CSOps/releases{/id}",
         "deployments_url": "https://api.github.com/repos/axelexic/CSOps/deployments",
         "created_at": "2012-01-11T00:42:49Z",
-        "updated_at": "2024-05-18T12:37:29Z",
+        "updated_at": "2024-06-04T17:34:20Z",
         "pushed_at": "2024-03-21T13:34:35Z",
         "git_url": "git://github.com/axelexic/CSOps.git",
         "ssh_url": "git@github.com:axelexic/CSOps.git",
@@ -1197,8 +1197,8 @@
         "svn_url": "https://github.com/axelexic/CSOps",
         "homepage": "",
         "size": 92,
-        "stargazers_count": 66,
-        "watchers_count": 66,
+        "stargazers_count": 67,
+        "watchers_count": 67,
         "language": "C",
         "has_issues": true,
         "has_projects": true,
@@ -1219,7 +1219,7 @@
         "visibility": "public",
         "forks": 15,
         "open_issues": 0,
-        "watchers": 66,
+        "watchers": 67,
         "default_branch": "master"
       },
       "security_and_analysis": {
@@ -2207,8 +2207,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 10,
-        "uniques": 9
+        "count": 9,
+        "uniques": 8
       }
     },
     {
@@ -3122,14 +3122,14 @@
       "releases_url": "https://api.github.com/repos/MythicMeta/overview/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicMeta/overview/deployments",
       "created_at": "2023-04-20T23:05:14Z",
-      "updated_at": "2024-06-03T01:18:12Z",
-      "pushed_at": "2024-06-03T01:18:09Z",
+      "updated_at": "2024-06-04T01:17:03Z",
+      "pushed_at": "2024-06-04T01:16:59Z",
       "git_url": "git://github.com/MythicMeta/overview.git",
       "ssh_url": "git@github.com:MythicMeta/overview.git",
       "clone_url": "https://github.com/MythicMeta/overview.git",
       "svn_url": "https://github.com/MythicMeta/overview",
       "homepage": null,
-      "size": 7432,
+      "size": 7445,
       "stargazers_count": 6,
       "watchers_count": 6,
       "language": "JavaScript",
@@ -3207,13 +3207,13 @@
       "latest": {
         "branch": "main",
         "commit_message": "update data via action",
-        "commit_date": 1717377488.0,
+        "commit_date": 1717463818.0,
         "icon": ""
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 76,
-        "uniques": 33
+        "count": 74,
+        "uniques": 32
       }
     },
     {
