@@ -67,7 +67,7 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/Mythic/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/Mythic/deployments",
       "created_at": "2018-07-05T02:09:59Z",
-      "updated_at": "2024-07-09T03:03:45Z",
+      "updated_at": "2024-07-10T08:37:14Z",
       "pushed_at": "2024-07-09T23:29:13Z",
       "git_url": "git://github.com/its-a-feature/Mythic.git",
       "ssh_url": "git@github.com:its-a-feature/Mythic.git",
@@ -75,8 +75,8 @@
       "svn_url": "https://github.com/its-a-feature/Mythic",
       "homepage": "",
       "size": 391915,
-      "stargazers_count": 3024,
-      "watchers_count": 3024,
+      "stargazers_count": 3026,
+      "watchers_count": 3026,
       "language": "JavaScript",
       "has_issues": true,
       "has_projects": true,
@@ -103,7 +103,7 @@
       "visibility": "public",
       "forks": 416,
       "open_issues": 21,
-      "watchers": 3024,
+      "watchers": 3026,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -133,6 +133,9 @@
         "dependabot_security_updates": {
           "status": "enabled"
         },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
         "secret_scanning_validity_checks": {
           "status": "disabled"
         }
@@ -146,8 +149,8 @@
       },
       "category": "Mythic",
       "clones": {
-        "count": 200,
-        "uniques": 135
+        "count": 211,
+        "uniques": 134
       }
     },
     {
@@ -217,7 +220,7 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/LockSmith/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/LockSmith/deployments",
       "created_at": "2022-10-07T09:35:55Z",
-      "updated_at": "2024-06-20T10:01:31Z",
+      "updated_at": "2024-07-10T19:24:52Z",
       "pushed_at": "2022-10-10T15:35:16Z",
       "git_url": "git://github.com/its-a-feature/LockSmith.git",
       "ssh_url": "git@github.com:its-a-feature/LockSmith.git",
@@ -225,8 +228,8 @@
       "svn_url": "https://github.com/its-a-feature/LockSmith",
       "homepage": null,
       "size": 6900,
-      "stargazers_count": 70,
-      "watchers_count": 70,
+      "stargazers_count": 71,
+      "watchers_count": 71,
       "language": "Objective-C",
       "has_issues": true,
       "has_projects": true,
@@ -253,7 +256,7 @@
       "visibility": "public",
       "forks": 6,
       "open_issues": 1,
-      "watchers": 70,
+      "watchers": 71,
       "default_branch": "main",
       "permissions": {
         "admin": true,
@@ -281,6 +284,9 @@
           "status": "disabled"
         },
         "dependabot_security_updates": {
+          "status": "disabled"
+        },
+        "secret_scanning_non_provider_patterns": {
           "status": "disabled"
         },
         "secret_scanning_validity_checks": {
@@ -434,6 +440,9 @@
         "dependabot_security_updates": {
           "status": "disabled"
         },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
         "secret_scanning_validity_checks": {
           "status": "disabled"
         }
@@ -584,6 +593,9 @@
         },
         "dependabot_security_updates": {
           "status": "enabled"
+        },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
         },
         "secret_scanning_validity_checks": {
           "status": "disabled"
@@ -736,6 +748,9 @@
         "dependabot_security_updates": {
           "status": "enabled"
         },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
         "secret_scanning_validity_checks": {
           "status": "disabled"
         }
@@ -821,7 +836,7 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/bifrost/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/bifrost/deployments",
       "created_at": "2019-11-08T00:20:53Z",
-      "updated_at": "2024-07-09T14:05:47Z",
+      "updated_at": "2024-07-10T01:32:56Z",
       "pushed_at": "2023-07-12T19:54:32Z",
       "git_url": "git://github.com/its-a-feature/bifrost.git",
       "ssh_url": "git@github.com:its-a-feature/bifrost.git",
@@ -829,8 +844,8 @@
       "svn_url": "https://github.com/its-a-feature/bifrost",
       "homepage": "",
       "size": 5905,
-      "stargazers_count": 128,
-      "watchers_count": 128,
+      "stargazers_count": 129,
+      "watchers_count": 129,
       "language": "Objective-C",
       "has_issues": true,
       "has_projects": true,
@@ -857,7 +872,7 @@
       "visibility": "public",
       "forks": 21,
       "open_issues": 1,
-      "watchers": 128,
+      "watchers": 129,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -887,6 +902,9 @@
         "dependabot_security_updates": {
           "status": "disabled"
         },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
         "secret_scanning_validity_checks": {
           "status": "disabled"
         }
@@ -901,8 +919,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 6,
-        "uniques": 3
+        "count": 14,
+        "uniques": 2
       }
     },
     {
@@ -1230,6 +1248,9 @@
           "status": "disabled"
         },
         "dependabot_security_updates": {
+          "status": "disabled"
+        },
+        "secret_scanning_non_provider_patterns": {
           "status": "disabled"
         },
         "secret_scanning_validity_checks": {
@@ -1881,6 +1902,9 @@
         "dependabot_security_updates": {
           "status": "disabled"
         },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
         "secret_scanning_validity_checks": {
           "status": "disabled"
         }
@@ -2030,6 +2054,9 @@
           "status": "disabled"
         },
         "dependabot_security_updates": {
+          "status": "disabled"
+        },
+        "secret_scanning_non_provider_patterns": {
           "status": "disabled"
         },
         "secret_scanning_validity_checks": {
@@ -2193,6 +2220,9 @@
         "dependabot_security_updates": {
           "status": "disabled"
         },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
         "secret_scanning_validity_checks": {
           "status": "disabled"
         }
@@ -2351,6 +2381,9 @@
           "status": "disabled"
         },
         "dependabot_security_updates": {
+          "status": "disabled"
+        },
+        "secret_scanning_non_provider_patterns": {
           "status": "disabled"
         },
         "secret_scanning_validity_checks": {
@@ -2725,6 +2758,9 @@
         "dependabot_security_updates": {
           "status": "disabled"
         },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
         "secret_scanning_validity_checks": {
           "status": "disabled"
         }
@@ -2877,6 +2913,9 @@
           "status": "disabled"
         },
         "dependabot_security_updates": {
+          "status": "disabled"
+        },
+        "secret_scanning_non_provider_patterns": {
           "status": "disabled"
         },
         "secret_scanning_validity_checks": {
@@ -3034,6 +3073,9 @@
         "dependabot_security_updates": {
           "status": "disabled"
         },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
         "secret_scanning_validity_checks": {
           "status": "disabled"
         }
@@ -3119,14 +3161,14 @@
       "releases_url": "https://api.github.com/repos/MythicMeta/overview/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicMeta/overview/deployments",
       "created_at": "2023-04-20T23:05:14Z",
-      "updated_at": "2024-07-09T01:20:23Z",
-      "pushed_at": "2024-07-09T01:20:19Z",
+      "updated_at": "2024-07-10T01:20:13Z",
+      "pushed_at": "2024-07-10T01:20:10Z",
       "git_url": "git://github.com/MythicMeta/overview.git",
       "ssh_url": "git@github.com:MythicMeta/overview.git",
       "clone_url": "https://github.com/MythicMeta/overview.git",
       "svn_url": "https://github.com/MythicMeta/overview",
       "homepage": null,
-      "size": 18058,
+      "size": 18665,
       "stargazers_count": 6,
       "watchers_count": 6,
       "language": "JavaScript",
@@ -3195,6 +3237,9 @@
         "dependabot_security_updates": {
           "status": "disabled"
         },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
         "secret_scanning_validity_checks": {
           "status": "disabled"
         }
@@ -3204,13 +3249,13 @@
       "latest": {
         "branch": "main",
         "commit_message": "update data via action",
-        "commit_date": 1720488018.0,
+        "commit_date": 1720574409.0,
         "icon": ""
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 44,
-        "uniques": 17
+        "count": 45,
+        "uniques": 18
       }
     },
     {
@@ -3356,6 +3401,9 @@
         "dependabot_security_updates": {
           "status": "disabled"
         },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
         "secret_scanning_validity_checks": {
           "status": "disabled"
         }
@@ -3370,8 +3418,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 5,
-        "uniques": 5
+        "count": 6,
+        "uniques": 6
       }
     },
     {
@@ -3509,6 +3557,9 @@
           "status": "disabled"
         },
         "dependabot_security_updates": {
+          "status": "disabled"
+        },
+        "secret_scanning_non_provider_patterns": {
           "status": "disabled"
         },
         "secret_scanning_validity_checks": {
