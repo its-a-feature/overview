@@ -149,8 +149,8 @@
       },
       "category": "Mythic",
       "clones": {
-        "count": 303,
-        "uniques": 143
+        "count": 306,
+        "uniques": 142
       }
     },
     {
@@ -3161,14 +3161,14 @@
       "releases_url": "https://api.github.com/repos/MythicMeta/overview/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicMeta/overview/deployments",
       "created_at": "2023-04-20T23:05:14Z",
-      "updated_at": "2024-07-19T01:23:46Z",
-      "pushed_at": "2024-07-19T01:23:43Z",
+      "updated_at": "2024-07-20T01:18:58Z",
+      "pushed_at": "2024-07-20T01:18:54Z",
       "git_url": "git://github.com/MythicMeta/overview.git",
       "ssh_url": "git@github.com:MythicMeta/overview.git",
       "clone_url": "https://github.com/MythicMeta/overview.git",
       "svn_url": "https://github.com/MythicMeta/overview",
       "homepage": null,
-      "size": 6978,
+      "size": 6989,
       "stargazers_count": 6,
       "watchers_count": 6,
       "language": "JavaScript",
@@ -3249,13 +3249,13 @@
       "latest": {
         "branch": "main",
         "commit_message": "update data via action",
-        "commit_date": 1721352222.0,
+        "commit_date": 1721438333.0,
         "icon": ""
       },
       "category": "MythicMeta",
       "clones": {
         "count": 47,
-        "uniques": 17
+        "uniques": 16
       }
     },
     {
