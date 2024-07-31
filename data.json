@@ -67,16 +67,16 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/Mythic/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/Mythic/deployments",
       "created_at": "2018-07-05T02:09:59Z",
-      "updated_at": "2024-07-28T03:41:57Z",
-      "pushed_at": "2024-07-29T23:58:23Z",
+      "updated_at": "2024-07-30T14:33:02Z",
+      "pushed_at": "2024-07-30T22:28:45Z",
       "git_url": "git://github.com/its-a-feature/Mythic.git",
       "ssh_url": "git@github.com:its-a-feature/Mythic.git",
       "clone_url": "https://github.com/its-a-feature/Mythic.git",
       "svn_url": "https://github.com/its-a-feature/Mythic",
       "homepage": "",
-      "size": 415655,
-      "stargazers_count": 3064,
-      "watchers_count": 3064,
+      "size": 403074,
+      "stargazers_count": 3067,
+      "watchers_count": 3067,
       "language": "JavaScript",
       "has_issues": true,
       "has_projects": true,
@@ -84,7 +84,7 @@
       "has_wiki": false,
       "has_pages": false,
       "has_discussions": false,
-      "forks_count": 420,
+      "forks_count": 419,
       "mirror_url": null,
       "archived": false,
       "disabled": false,
@@ -101,9 +101,9 @@
       "web_commit_signoff_required": false,
       "topics": [],
       "visibility": "public",
-      "forks": 420,
+      "forks": 419,
       "open_issues": 21,
-      "watchers": 3064,
+      "watchers": 3067,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -140,16 +140,16 @@
           "status": "disabled"
         }
       },
-      "network_count": 420,
+      "network_count": 419,
       "subscribers_count": 69,
       "latest": {
         "branch": "Mythic3.3",
-        "commit_message": "many UI tweaks and updates",
-        "commit_date": 1722297483.0
+        "commit_message": "Bump Mythic Dockerfile tag to match release 'v0.0.4.9'",
+        "commit_date": 1722378524.0
       },
       "category": "Mythic",
       "clones": {
-        "count": 283,
+        "count": 347,
         "uniques": 150
       }
     },
@@ -303,8 +303,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 2,
+        "uniques": 2
       }
     },
     {
@@ -919,8 +919,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 11,
-        "uniques": 3
+        "count": 2,
+        "uniques": 2
       }
     },
     {
@@ -1107,7 +1107,7 @@
         "releases_url": "https://api.github.com/repos/axelexic/CSOps/releases{/id}",
         "deployments_url": "https://api.github.com/repos/axelexic/CSOps/deployments",
         "created_at": "2012-01-11T00:42:49Z",
-        "updated_at": "2024-07-08T12:17:54Z",
+        "updated_at": "2024-07-30T11:18:34Z",
         "pushed_at": "2024-03-21T13:34:35Z",
         "git_url": "git://github.com/axelexic/CSOps.git",
         "ssh_url": "git@github.com:axelexic/CSOps.git",
@@ -1115,8 +1115,8 @@
         "svn_url": "https://github.com/axelexic/CSOps",
         "homepage": "",
         "size": 92,
-        "stargazers_count": 68,
-        "watchers_count": 68,
+        "stargazers_count": 69,
+        "watchers_count": 69,
         "language": "C",
         "has_issues": true,
         "has_projects": true,
@@ -1137,7 +1137,7 @@
         "visibility": "public",
         "forks": 15,
         "open_issues": 0,
-        "watchers": 68,
+        "watchers": 69,
         "default_branch": "master"
       },
       "source": {
@@ -1207,7 +1207,7 @@
         "releases_url": "https://api.github.com/repos/axelexic/CSOps/releases{/id}",
         "deployments_url": "https://api.github.com/repos/axelexic/CSOps/deployments",
         "created_at": "2012-01-11T00:42:49Z",
-        "updated_at": "2024-07-08T12:17:54Z",
+        "updated_at": "2024-07-30T11:18:34Z",
         "pushed_at": "2024-03-21T13:34:35Z",
         "git_url": "git://github.com/axelexic/CSOps.git",
         "ssh_url": "git@github.com:axelexic/CSOps.git",
@@ -1215,8 +1215,8 @@
         "svn_url": "https://github.com/axelexic/CSOps",
         "homepage": "",
         "size": 92,
-        "stargazers_count": 68,
-        "watchers_count": 68,
+        "stargazers_count": 69,
+        "watchers_count": 69,
         "language": "C",
         "has_issues": true,
         "has_projects": true,
@@ -1237,7 +1237,7 @@
         "visibility": "public",
         "forks": 15,
         "open_issues": 0,
-        "watchers": 68,
+        "watchers": 69,
         "default_branch": "master"
       },
       "security_and_analysis": {
@@ -2236,8 +2236,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 1,
+        "uniques": 1
       }
     },
     {
@@ -3090,8 +3090,8 @@
       },
       "category": "MythicDocs",
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 1,
+        "uniques": 1
       }
     },
     {
@@ -3161,14 +3161,14 @@
       "releases_url": "https://api.github.com/repos/MythicMeta/overview/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicMeta/overview/deployments",
       "created_at": "2023-04-20T23:05:14Z",
-      "updated_at": "2024-07-29T01:22:56Z",
-      "pushed_at": "2024-07-29T01:22:52Z",
+      "updated_at": "2024-07-30T01:21:26Z",
+      "pushed_at": "2024-07-30T01:21:22Z",
       "git_url": "git://github.com/MythicMeta/overview.git",
       "ssh_url": "git@github.com:MythicMeta/overview.git",
       "clone_url": "https://github.com/MythicMeta/overview.git",
       "svn_url": "https://github.com/MythicMeta/overview",
       "homepage": null,
-      "size": 10332,
+      "size": 10351,
       "stargazers_count": 6,
       "watchers_count": 6,
       "language": "JavaScript",
@@ -3249,13 +3249,13 @@
       "latest": {
         "branch": "main",
         "commit_message": "update data via action",
-        "commit_date": 1722216171.0,
+        "commit_date": 1722302481.0,
         "icon": ""
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 46,
-        "uniques": 17
+        "count": 45,
+        "uniques": 16
       }
     },
     {
