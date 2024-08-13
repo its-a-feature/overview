@@ -67,16 +67,16 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/Mythic/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/Mythic/deployments",
       "created_at": "2018-07-05T02:09:59Z",
-      "updated_at": "2024-08-11T22:20:16Z",
-      "pushed_at": "2024-08-10T00:38:34Z",
+      "updated_at": "2024-08-12T19:42:48Z",
+      "pushed_at": "2024-08-12T18:44:14Z",
       "git_url": "git://github.com/its-a-feature/Mythic.git",
       "ssh_url": "git@github.com:its-a-feature/Mythic.git",
       "clone_url": "https://github.com/its-a-feature/Mythic.git",
       "svn_url": "https://github.com/its-a-feature/Mythic",
       "homepage": "",
-      "size": 403356,
-      "stargazers_count": 3088,
-      "watchers_count": 3088,
+      "size": 418393,
+      "stargazers_count": 3092,
+      "watchers_count": 3092,
       "language": "JavaScript",
       "has_issues": true,
       "has_projects": true,
@@ -103,7 +103,7 @@
       "visibility": "public",
       "forks": 420,
       "open_issues": 24,
-      "watchers": 3088,
+      "watchers": 3092,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -144,13 +144,13 @@
       "subscribers_count": 68,
       "latest": {
         "branch": "Mythic3.3",
-        "commit_message": "Bump Mythic Dockerfile tag to match release 'v0.0.4.22'",
-        "commit_date": 1723250312.0
+        "commit_message": "Bump Mythic Dockerfile tag to match release 'v0.0.4.24'",
+        "commit_date": 1723488253.0
       },
       "category": "Mythic",
       "clones": {
-        "count": 597,
-        "uniques": 145
+        "count": 556,
+        "uniques": 140
       }
     },
     {
@@ -220,7 +220,7 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/LockSmith/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/LockSmith/deployments",
       "created_at": "2022-10-07T09:35:55Z",
-      "updated_at": "2024-07-26T00:09:43Z",
+      "updated_at": "2024-08-12T20:27:36Z",
       "pushed_at": "2022-10-10T15:35:16Z",
       "git_url": "git://github.com/its-a-feature/LockSmith.git",
       "ssh_url": "git@github.com:its-a-feature/LockSmith.git",
@@ -228,8 +228,8 @@
       "svn_url": "https://github.com/its-a-feature/LockSmith",
       "homepage": null,
       "size": 6900,
-      "stargazers_count": 73,
-      "watchers_count": 73,
+      "stargazers_count": 71,
+      "watchers_count": 71,
       "language": "Objective-C",
       "has_issues": true,
       "has_projects": true,
@@ -256,7 +256,7 @@
       "visibility": "public",
       "forks": 6,
       "open_issues": 1,
-      "watchers": 73,
+      "watchers": 71,
       "default_branch": "main",
       "permissions": {
         "admin": true,
@@ -611,8 +611,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 2,
+        "uniques": 2
       }
     },
     {
@@ -682,7 +682,7 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/HealthInspector/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/HealthInspector/deployments",
       "created_at": "2019-05-23T04:29:00Z",
-      "updated_at": "2024-06-18T12:54:31Z",
+      "updated_at": "2024-08-12T19:49:12Z",
       "pushed_at": "2022-02-18T17:42:06Z",
       "git_url": "git://github.com/its-a-feature/HealthInspector.git",
       "ssh_url": "git@github.com:its-a-feature/HealthInspector.git",
@@ -690,8 +690,8 @@
       "svn_url": "https://github.com/its-a-feature/HealthInspector",
       "homepage": null,
       "size": 150,
-      "stargazers_count": 66,
-      "watchers_count": 66,
+      "stargazers_count": 65,
+      "watchers_count": 65,
       "language": "JavaScript",
       "has_issues": true,
       "has_projects": true,
@@ -718,7 +718,7 @@
       "visibility": "public",
       "forks": 16,
       "open_issues": 0,
-      "watchers": 66,
+      "watchers": 65,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -765,8 +765,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 3,
+        "uniques": 3
       }
     },
     {
@@ -836,7 +836,7 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/bifrost/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/bifrost/deployments",
       "created_at": "2019-11-08T00:20:53Z",
-      "updated_at": "2024-08-09T01:29:47Z",
+      "updated_at": "2024-08-12T19:54:40Z",
       "pushed_at": "2023-07-12T19:54:32Z",
       "git_url": "git://github.com/its-a-feature/bifrost.git",
       "ssh_url": "git@github.com:its-a-feature/bifrost.git",
@@ -844,8 +844,8 @@
       "svn_url": "https://github.com/its-a-feature/bifrost",
       "homepage": "",
       "size": 5905,
-      "stargazers_count": 135,
-      "watchers_count": 135,
+      "stargazers_count": 133,
+      "watchers_count": 133,
       "language": "Objective-C",
       "has_issues": true,
       "has_projects": true,
@@ -872,7 +872,7 @@
       "visibility": "public",
       "forks": 21,
       "open_issues": 1,
-      "watchers": 135,
+      "watchers": 133,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -919,8 +919,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 4,
+        "uniques": 4
       }
     },
     {
@@ -1338,7 +1338,7 @@
       "releases_url": "https://api.github.com/repos/D00MFist/Mystikal/releases{/id}",
       "deployments_url": "https://api.github.com/repos/D00MFist/Mystikal/deployments",
       "created_at": "2021-05-03T14:46:16Z",
-      "updated_at": "2024-08-11T22:20:18Z",
+      "updated_at": "2024-08-12T20:12:41Z",
       "pushed_at": "2024-01-10T15:48:12Z",
       "git_url": "git://github.com/D00MFist/Mystikal.git",
       "ssh_url": "git@github.com:D00MFist/Mystikal.git",
@@ -1346,8 +1346,8 @@
       "svn_url": "https://github.com/D00MFist/Mystikal",
       "homepage": null,
       "size": 1483,
-      "stargazers_count": 277,
-      "watchers_count": 277,
+      "stargazers_count": 276,
+      "watchers_count": 276,
       "language": "Python",
       "has_issues": true,
       "has_projects": true,
@@ -1374,7 +1374,7 @@
       "visibility": "public",
       "forks": 39,
       "open_issues": 1,
-      "watchers": 277,
+      "watchers": 276,
       "default_branch": "main",
       "permissions": {
         "admin": false,
@@ -1464,7 +1464,7 @@
       "releases_url": "https://api.github.com/repos/D00MFist/PersistentJXA/releases{/id}",
       "deployments_url": "https://api.github.com/repos/D00MFist/PersistentJXA/deployments",
       "created_at": "2020-08-02T01:49:49Z",
-      "updated_at": "2024-07-27T13:31:08Z",
+      "updated_at": "2024-08-12T20:04:20Z",
       "pushed_at": "2023-08-03T15:09:56Z",
       "git_url": "git://github.com/D00MFist/PersistentJXA.git",
       "ssh_url": "git@github.com:D00MFist/PersistentJXA.git",
@@ -1472,8 +1472,8 @@
       "svn_url": "https://github.com/D00MFist/PersistentJXA",
       "homepage": null,
       "size": 101,
-      "stargazers_count": 257,
-      "watchers_count": 257,
+      "stargazers_count": 256,
+      "watchers_count": 256,
       "language": "JavaScript",
       "has_issues": true,
       "has_projects": true,
@@ -1500,7 +1500,7 @@
       "visibility": "public",
       "forks": 26,
       "open_issues": 0,
-      "watchers": 257,
+      "watchers": 256,
       "default_branch": "master",
       "permissions": {
         "admin": false,
@@ -1590,7 +1590,7 @@
       "releases_url": "https://api.github.com/repos/cedowens/SwiftBelt-JXA/releases{/id}",
       "deployments_url": "https://api.github.com/repos/cedowens/SwiftBelt-JXA/deployments",
       "created_at": "2020-10-21T22:22:04Z",
-      "updated_at": "2024-06-11T03:36:08Z",
+      "updated_at": "2024-08-12T20:06:59Z",
       "pushed_at": "2023-06-22T21:01:20Z",
       "git_url": "git://github.com/cedowens/SwiftBelt-JXA.git",
       "ssh_url": "git@github.com:cedowens/SwiftBelt-JXA.git",
@@ -1598,8 +1598,8 @@
       "svn_url": "https://github.com/cedowens/SwiftBelt-JXA",
       "homepage": "",
       "size": 48,
-      "stargazers_count": 43,
-      "watchers_count": 43,
+      "stargazers_count": 42,
+      "watchers_count": 42,
       "language": "JavaScript",
       "has_issues": true,
       "has_projects": true,
@@ -1626,7 +1626,7 @@
       "visibility": "public",
       "forks": 6,
       "open_issues": 0,
-      "watchers": 43,
+      "watchers": 42,
       "default_branch": "main",
       "permissions": {
         "admin": false,
@@ -1716,7 +1716,7 @@
       "releases_url": "https://api.github.com/repos/cedowens/JXA-Firefox/releases{/id}",
       "deployments_url": "https://api.github.com/repos/cedowens/JXA-Firefox/deployments",
       "created_at": "2021-07-14T04:25:20Z",
-      "updated_at": "2023-12-20T15:42:34Z",
+      "updated_at": "2024-08-12T20:14:41Z",
       "pushed_at": "2021-07-29T14:43:03Z",
       "git_url": "git://github.com/cedowens/JXA-Firefox.git",
       "ssh_url": "git@github.com:cedowens/JXA-Firefox.git",
@@ -1724,8 +1724,8 @@
       "svn_url": "https://github.com/cedowens/JXA-Firefox",
       "homepage": "",
       "size": 148,
-      "stargazers_count": 8,
-      "watchers_count": 8,
+      "stargazers_count": 7,
+      "watchers_count": 7,
       "language": "JavaScript",
       "has_issues": true,
       "has_projects": true,
@@ -1746,7 +1746,7 @@
       "visibility": "public",
       "forks": 2,
       "open_issues": 1,
-      "watchers": 8,
+      "watchers": 7,
       "default_branch": "main",
       "permissions": {
         "admin": false,
@@ -2308,13 +2308,13 @@
       "deployments_url": "https://api.github.com/repos/MythicMeta/MythicContainerPyPi/deployments",
       "created_at": "2023-03-07T22:54:21Z",
       "updated_at": "2024-04-29T15:46:25Z",
-      "pushed_at": "2024-08-05T19:22:28Z",
+      "pushed_at": "2024-08-12T20:28:04Z",
       "git_url": "git://github.com/MythicMeta/MythicContainerPyPi.git",
       "ssh_url": "git@github.com:MythicMeta/MythicContainerPyPi.git",
       "clone_url": "https://github.com/MythicMeta/MythicContainerPyPi.git",
       "svn_url": "https://github.com/MythicMeta/MythicContainerPyPi",
       "homepage": null,
-      "size": 323,
+      "size": 340,
       "stargazers_count": 1,
       "watchers_count": 1,
       "language": "Python",
@@ -2394,13 +2394,13 @@
       "subscribers_count": 2,
       "latest": {
         "branch": "Mythic3.3",
-        "commit_message": "updates for v0.5.3",
-        "commit_date": 1722885735.0
+        "commit_message": "bug fixes for Mythic3.3",
+        "commit_date": 1723494472.0
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 4,
+        "uniques": 4
       }
     },
     {
@@ -3161,14 +3161,14 @@
       "releases_url": "https://api.github.com/repos/MythicMeta/overview/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicMeta/overview/deployments",
       "created_at": "2023-04-20T23:05:14Z",
-      "updated_at": "2024-08-11T01:28:18Z",
-      "pushed_at": "2024-08-11T01:28:15Z",
+      "updated_at": "2024-08-12T01:24:46Z",
+      "pushed_at": "2024-08-12T01:24:43Z",
       "git_url": "git://github.com/MythicMeta/overview.git",
       "ssh_url": "git@github.com:MythicMeta/overview.git",
       "clone_url": "https://github.com/MythicMeta/overview.git",
       "svn_url": "https://github.com/MythicMeta/overview",
       "homepage": null,
-      "size": 14467,
+      "size": 15135,
       "stargazers_count": 6,
       "watchers_count": 6,
       "language": "JavaScript",
@@ -3249,7 +3249,7 @@
       "latest": {
         "branch": "main",
         "commit_message": "update data via action",
-        "commit_date": 1723339694.0,
+        "commit_date": 1723425882.0,
         "icon": ""
       },
       "category": "MythicMeta",
@@ -3488,7 +3488,7 @@
       "releases_url": "https://api.github.com/repos/MythicMeta/Mythic_Docker_Templates/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicMeta/Mythic_Docker_Templates/deployments",
       "created_at": "2021-04-29T00:08:27Z",
-      "updated_at": "2024-04-29T15:47:25Z",
+      "updated_at": "2024-08-12T20:12:34Z",
       "pushed_at": "2024-04-29T15:47:35Z",
       "git_url": "git://github.com/MythicMeta/Mythic_Docker_Templates.git",
       "ssh_url": "git@github.com:MythicMeta/Mythic_Docker_Templates.git",
@@ -3496,8 +3496,8 @@
       "svn_url": "https://github.com/MythicMeta/Mythic_Docker_Templates",
       "homepage": null,
       "size": 3369,
-      "stargazers_count": 9,
-      "watchers_count": 9,
+      "stargazers_count": 8,
+      "watchers_count": 8,
       "language": "Dockerfile",
       "has_issues": true,
       "has_projects": true,
@@ -3518,7 +3518,7 @@
       "visibility": "public",
       "forks": 5,
       "open_issues": 1,
-      "watchers": 9,
+      "watchers": 8,
       "default_branch": "master",
       "permissions": {
         "admin": true,
