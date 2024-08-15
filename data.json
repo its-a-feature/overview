@@ -67,16 +67,16 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/Mythic/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/Mythic/deployments",
       "created_at": "2018-07-05T02:09:59Z",
-      "updated_at": "2024-08-13T11:52:47Z",
-      "pushed_at": "2024-08-13T23:02:55Z",
+      "updated_at": "2024-08-14T05:43:35Z",
+      "pushed_at": "2024-08-14T19:54:17Z",
       "git_url": "git://github.com/its-a-feature/Mythic.git",
       "ssh_url": "git@github.com:its-a-feature/Mythic.git",
       "clone_url": "https://github.com/its-a-feature/Mythic.git",
       "svn_url": "https://github.com/its-a-feature/Mythic",
       "homepage": "",
-      "size": 425968,
-      "stargazers_count": 3092,
-      "watchers_count": 3092,
+      "size": 414094,
+      "stargazers_count": 3093,
+      "watchers_count": 3093,
       "language": "JavaScript",
       "has_issues": true,
       "has_projects": true,
@@ -103,7 +103,7 @@
       "visibility": "public",
       "forks": 420,
       "open_issues": 24,
-      "watchers": 3092,
+      "watchers": 3093,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -144,13 +144,13 @@
       "subscribers_count": 68,
       "latest": {
         "branch": "Mythic3.3",
-        "commit_message": "Bump Mythic Dockerfile tag to match release 'v0.0.4.25'",
-        "commit_date": 1723590174.0
+        "commit_message": "Bump Mythic Dockerfile tag to match release 'v0.0.4.28'",
+        "commit_date": 1723665256.0
       },
       "category": "Mythic",
       "clones": {
-        "count": 526,
-        "uniques": 134
+        "count": 555,
+        "uniques": 140
       }
     },
     {
@@ -457,8 +457,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 1,
+        "uniques": 1
       }
     },
     {
@@ -919,7 +919,7 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 4,
+        "count": 6,
         "uniques": 4
       }
     },
@@ -2236,8 +2236,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 2,
+        "uniques": 2
       }
     },
     {
@@ -2308,13 +2308,13 @@
       "deployments_url": "https://api.github.com/repos/MythicMeta/MythicContainerPyPi/deployments",
       "created_at": "2023-03-07T22:54:21Z",
       "updated_at": "2024-04-29T15:46:25Z",
-      "pushed_at": "2024-08-12T20:28:04Z",
+      "pushed_at": "2024-08-14T01:36:15Z",
       "git_url": "git://github.com/MythicMeta/MythicContainerPyPi.git",
       "ssh_url": "git@github.com:MythicMeta/MythicContainerPyPi.git",
       "clone_url": "https://github.com/MythicMeta/MythicContainerPyPi.git",
       "svn_url": "https://github.com/MythicMeta/MythicContainerPyPi",
       "homepage": null,
-      "size": 340,
+      "size": 339,
       "stargazers_count": 1,
       "watchers_count": 1,
       "language": "Python",
@@ -2394,8 +2394,8 @@
       "subscribers_count": 2,
       "latest": {
         "branch": "Mythic3.3",
-        "commit_message": "bug fixes for Mythic3.3",
-        "commit_date": 1723494472.0
+        "commit_message": "fixing command recognition bug in syncing",
+        "commit_date": 1723599365.0
       },
       "category": "MythicMeta",
       "clones": {
@@ -2932,8 +2932,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 2,
+        "uniques": 2
       }
     },
     {
@@ -3003,14 +3003,14 @@
       "releases_url": "https://api.github.com/repos/MythicMeta/Documentation/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicMeta/Documentation/deployments",
       "created_at": "2021-11-04T22:48:21Z",
-      "updated_at": "2024-08-05T14:18:31Z",
-      "pushed_at": "2024-08-05T14:18:28Z",
+      "updated_at": "2024-08-14T01:19:29Z",
+      "pushed_at": "2024-08-14T01:19:26Z",
       "git_url": "git://github.com/MythicMeta/Documentation.git",
       "ssh_url": "git@github.com:MythicMeta/Documentation.git",
       "clone_url": "https://github.com/MythicMeta/Documentation.git",
       "svn_url": "https://github.com/MythicMeta/Documentation",
       "homepage": null,
-      "size": 52877,
+      "size": 52879,
       "stargazers_count": 9,
       "watchers_count": 9,
       "language": null,
@@ -3084,14 +3084,14 @@
       "subscribers_count": 2,
       "latest": {
         "branch": "primary",
-        "commit_message": "GITBOOK-48: No subject",
-        "commit_date": 1722867507.0,
+        "commit_message": "GITBOOK-49: No subject",
+        "commit_date": 1723598365.0,
         "icon": ""
       },
       "category": "MythicDocs",
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 2,
+        "uniques": 2
       }
     },
     {
@@ -3161,14 +3161,14 @@
       "releases_url": "https://api.github.com/repos/MythicMeta/overview/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicMeta/overview/deployments",
       "created_at": "2023-04-20T23:05:14Z",
-      "updated_at": "2024-08-13T01:24:07Z",
-      "pushed_at": "2024-08-13T01:24:03Z",
+      "updated_at": "2024-08-14T01:23:21Z",
+      "pushed_at": "2024-08-14T01:23:18Z",
       "git_url": "git://github.com/MythicMeta/overview.git",
       "ssh_url": "git@github.com:MythicMeta/overview.git",
       "clone_url": "https://github.com/MythicMeta/overview.git",
       "svn_url": "https://github.com/MythicMeta/overview",
       "homepage": null,
-      "size": 15163,
+      "size": 15833,
       "stargazers_count": 6,
       "watchers_count": 6,
       "language": "JavaScript",
@@ -3249,13 +3249,13 @@
       "latest": {
         "branch": "main",
         "commit_message": "update data via action",
-        "commit_date": 1723512242.0,
+        "commit_date": 1723598597.0,
         "icon": ""
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 42,
-        "uniques": 14
+        "count": 44,
+        "uniques": 16
       }
     },
     {
@@ -3417,8 +3417,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 6,
+        "uniques": 6
       }
     },
     {
