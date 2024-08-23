@@ -67,7 +67,7 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/Mythic/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/Mythic/deployments",
       "created_at": "2018-07-05T02:09:59Z",
-      "updated_at": "2024-08-20T06:33:09Z",
+      "updated_at": "2024-08-22T01:50:15Z",
       "pushed_at": "2024-08-21T20:15:33Z",
       "git_url": "git://github.com/its-a-feature/Mythic.git",
       "ssh_url": "git@github.com:its-a-feature/Mythic.git",
@@ -75,8 +75,8 @@
       "svn_url": "https://github.com/its-a-feature/Mythic",
       "homepage": "",
       "size": 599608,
-      "stargazers_count": 3108,
-      "watchers_count": 3108,
+      "stargazers_count": 3110,
+      "watchers_count": 3110,
       "language": "JavaScript",
       "has_issues": true,
       "has_projects": true,
@@ -84,7 +84,7 @@
       "has_wiki": false,
       "has_pages": false,
       "has_discussions": false,
-      "forks_count": 420,
+      "forks_count": 419,
       "mirror_url": null,
       "archived": false,
       "disabled": false,
@@ -101,9 +101,9 @@
       "web_commit_signoff_required": false,
       "topics": [],
       "visibility": "public",
-      "forks": 420,
+      "forks": 419,
       "open_issues": 24,
-      "watchers": 3108,
+      "watchers": 3110,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -140,7 +140,7 @@
           "status": "disabled"
         }
       },
-      "network_count": 420,
+      "network_count": 419,
       "subscribers_count": 68,
       "latest": {
         "branch": "Mythic3.3",
@@ -149,8 +149,8 @@
       },
       "category": "Mythic",
       "clones": {
-        "count": 499,
-        "uniques": 150
+        "count": 477,
+        "uniques": 149
       }
     },
     {
@@ -836,7 +836,7 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/bifrost/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/bifrost/deployments",
       "created_at": "2019-11-08T00:20:53Z",
-      "updated_at": "2024-08-15T09:58:19Z",
+      "updated_at": "2024-08-22T22:15:25Z",
       "pushed_at": "2023-07-12T19:54:32Z",
       "git_url": "git://github.com/its-a-feature/bifrost.git",
       "ssh_url": "git@github.com:its-a-feature/bifrost.git",
@@ -844,8 +844,8 @@
       "svn_url": "https://github.com/its-a-feature/bifrost",
       "homepage": "",
       "size": 5905,
-      "stargazers_count": 134,
-      "watchers_count": 134,
+      "stargazers_count": 135,
+      "watchers_count": 135,
       "language": "Objective-C",
       "has_issues": true,
       "has_projects": true,
@@ -872,7 +872,7 @@
       "visibility": "public",
       "forks": 21,
       "open_issues": 1,
-      "watchers": 134,
+      "watchers": 135,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -919,8 +919,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 14,
-        "uniques": 10
+        "count": 13,
+        "uniques": 9
       }
     },
     {
@@ -3161,14 +3161,14 @@
       "releases_url": "https://api.github.com/repos/MythicMeta/overview/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicMeta/overview/deployments",
       "created_at": "2023-04-20T23:05:14Z",
-      "updated_at": "2024-08-21T01:22:03Z",
-      "pushed_at": "2024-08-21T01:21:59Z",
+      "updated_at": "2024-08-22T01:23:48Z",
+      "pushed_at": "2024-08-22T01:23:44Z",
       "git_url": "git://github.com/MythicMeta/overview.git",
       "ssh_url": "git@github.com:MythicMeta/overview.git",
       "clone_url": "https://github.com/MythicMeta/overview.git",
       "svn_url": "https://github.com/MythicMeta/overview",
       "homepage": null,
-      "size": 17974,
+      "size": 18651,
       "stargazers_count": 6,
       "watchers_count": 6,
       "language": "JavaScript",
@@ -3249,13 +3249,13 @@
       "latest": {
         "branch": "main",
         "commit_message": "update data via action",
-        "commit_date": 1724203319.0,
+        "commit_date": 1724289824.0,
         "icon": ""
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 58,
-        "uniques": 26
+        "count": 56,
+        "uniques": 25
       }
     },
     {
