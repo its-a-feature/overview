@@ -67,16 +67,16 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/Mythic/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/Mythic/deployments",
       "created_at": "2018-07-05T02:09:59Z",
-      "updated_at": "2024-09-08T13:58:59Z",
-      "pushed_at": "2024-09-04T19:37:03Z",
+      "updated_at": "2024-09-09T20:27:47Z",
+      "pushed_at": "2024-09-09T20:27:44Z",
       "git_url": "git://github.com/its-a-feature/Mythic.git",
       "ssh_url": "git@github.com:its-a-feature/Mythic.git",
       "clone_url": "https://github.com/its-a-feature/Mythic.git",
       "svn_url": "https://github.com/its-a-feature/Mythic",
       "homepage": "",
-      "size": 633370,
-      "stargazers_count": 3131,
-      "watchers_count": 3131,
+      "size": 640612,
+      "stargazers_count": 3133,
+      "watchers_count": 3133,
       "language": "JavaScript",
       "has_issues": true,
       "has_projects": true,
@@ -88,7 +88,7 @@
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 17,
+      "open_issues_count": 18,
       "license": {
         "key": "other",
         "name": "Other",
@@ -102,8 +102,8 @@
       "topics": [],
       "visibility": "public",
       "forks": 421,
-      "open_issues": 17,
-      "watchers": 3131,
+      "open_issues": 18,
+      "watchers": 3133,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -144,14 +144,14 @@
       "subscribers_count": 67,
       "latest": {
         "branch": "master",
-        "commit_message": "Bump Mythic Dockerfile tag to match release 'v3.3.0.8'",
-        "commit_date": 1725478622.0,
+        "commit_message": "Bump Mythic Dockerfile tag to match release 'v3.3.0.9'",
+        "commit_date": 1725913663.0,
         "icon": ""
       },
       "category": "Mythic",
       "clones": {
-        "count": 588,
-        "uniques": 167
+        "count": 597,
+        "uniques": 170
       }
     },
     {
@@ -304,8 +304,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 12,
-        "uniques": 12
+        "count": 9,
+        "uniques": 9
       }
     },
     {
@@ -766,8 +766,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 7,
-        "uniques": 7
+        "count": 6,
+        "uniques": 6
       }
     },
     {
@@ -2238,8 +2238,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 23,
-        "uniques": 23
+        "count": 25,
+        "uniques": 25
       }
     },
     {
@@ -3006,8 +3006,8 @@
       "releases_url": "https://api.github.com/repos/MythicMeta/Documentation/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicMeta/Documentation/deployments",
       "created_at": "2021-11-04T22:48:21Z",
-      "updated_at": "2024-09-04T15:56:23Z",
-      "pushed_at": "2024-09-04T15:56:17Z",
+      "updated_at": "2024-09-09T23:27:04Z",
+      "pushed_at": "2024-09-09T23:27:01Z",
       "git_url": "git://github.com/MythicMeta/Documentation.git",
       "ssh_url": "git@github.com:MythicMeta/Documentation.git",
       "clone_url": "https://github.com/MythicMeta/Documentation.git",
@@ -3087,8 +3087,8 @@
       "subscribers_count": 2,
       "latest": {
         "branch": "primary",
-        "commit_message": "GITBOOK-52: No subject",
-        "commit_date": 1725465376.0,
+        "commit_message": "GITBOOK-54: No subject",
+        "commit_date": 1725924421.0,
         "icon": ""
       },
       "category": "MythicDocs",
@@ -3164,14 +3164,14 @@
       "releases_url": "https://api.github.com/repos/MythicMeta/overview/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicMeta/overview/deployments",
       "created_at": "2023-04-20T23:05:14Z",
-      "updated_at": "2024-09-08T01:39:06Z",
-      "pushed_at": "2024-09-08T01:39:02Z",
+      "updated_at": "2024-09-09T01:29:13Z",
+      "pushed_at": "2024-09-09T01:29:10Z",
       "git_url": "git://github.com/MythicMeta/overview.git",
       "ssh_url": "git@github.com:MythicMeta/overview.git",
       "clone_url": "https://github.com/MythicMeta/overview.git",
       "svn_url": "https://github.com/MythicMeta/overview",
       "homepage": null,
-      "size": 7627,
+      "size": 7636,
       "stargazers_count": 6,
       "watchers_count": 6,
       "language": "JavaScript",
@@ -3252,7 +3252,7 @@
       "latest": {
         "branch": "main",
         "commit_message": "update data via action",
-        "commit_date": 1725759541.0,
+        "commit_date": 1725845349.0,
         "icon": ""
       },
       "category": "MythicMeta",
@@ -3421,8 +3421,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 23,
-        "uniques": 22
+        "count": 20,
+        "uniques": 19
       }
     },
     {
@@ -3492,14 +3492,14 @@
       "releases_url": "https://api.github.com/repos/MythicMeta/Mythic_Docker_Templates/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicMeta/Mythic_Docker_Templates/deployments",
       "created_at": "2021-04-29T00:08:27Z",
-      "updated_at": "2024-09-07T16:31:29Z",
-      "pushed_at": "2024-09-07T16:31:25Z",
+      "updated_at": "2024-09-09T16:31:21Z",
+      "pushed_at": "2024-09-09T16:32:41Z",
       "git_url": "git://github.com/MythicMeta/Mythic_Docker_Templates.git",
       "ssh_url": "git@github.com:MythicMeta/Mythic_Docker_Templates.git",
       "clone_url": "https://github.com/MythicMeta/Mythic_Docker_Templates.git",
       "svn_url": "https://github.com/MythicMeta/Mythic_Docker_Templates",
       "homepage": null,
-      "size": 3370,
+      "size": 3371,
       "stargazers_count": 8,
       "watchers_count": 8,
       "language": "Dockerfile",
@@ -3573,14 +3573,14 @@
       "subscribers_count": 3,
       "latest": {
         "branch": "master",
-        "commit_message": "test update go to 1.22",
-        "commit_date": 1725726682.0,
+        "commit_message": "updating pypi package",
+        "commit_date": 1725899475.0,
         "icon": ""
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 48,
-        "uniques": 17
+        "count": 64,
+        "uniques": 19
       }
     }
   ]
