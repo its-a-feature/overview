@@ -67,16 +67,16 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/Mythic/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/Mythic/deployments",
       "created_at": "2018-07-05T02:09:59Z",
-      "updated_at": "2024-09-09T20:27:47Z",
-      "pushed_at": "2024-09-09T20:27:44Z",
+      "updated_at": "2024-09-10T20:20:18Z",
+      "pushed_at": "2024-09-10T20:20:16Z",
       "git_url": "git://github.com/its-a-feature/Mythic.git",
       "ssh_url": "git@github.com:its-a-feature/Mythic.git",
       "clone_url": "https://github.com/its-a-feature/Mythic.git",
       "svn_url": "https://github.com/its-a-feature/Mythic",
       "homepage": "",
-      "size": 640612,
-      "stargazers_count": 3133,
-      "watchers_count": 3133,
+      "size": 621056,
+      "stargazers_count": 3132,
+      "watchers_count": 3132,
       "language": "JavaScript",
       "has_issues": true,
       "has_projects": true,
@@ -88,7 +88,7 @@
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 18,
+      "open_issues_count": 17,
       "license": {
         "key": "other",
         "name": "Other",
@@ -102,8 +102,8 @@
       "topics": [],
       "visibility": "public",
       "forks": 421,
-      "open_issues": 18,
-      "watchers": 3133,
+      "open_issues": 17,
+      "watchers": 3132,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -144,14 +144,14 @@
       "subscribers_count": 67,
       "latest": {
         "branch": "master",
-        "commit_message": "Bump Mythic Dockerfile tag to match release 'v3.3.0.9'",
-        "commit_date": 1725913663.0,
+        "commit_message": "Bump Mythic Dockerfile tag to match release 'v3.3.0.10'",
+        "commit_date": 1725999614.0,
         "icon": ""
       },
       "category": "Mythic",
       "clones": {
-        "count": 597,
-        "uniques": 170
+        "count": 561,
+        "uniques": 173
       }
     },
     {
@@ -458,8 +458,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 2,
+        "uniques": 2
       }
     },
     {
@@ -612,8 +612,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 5,
-        "uniques": 5
+        "count": 6,
+        "uniques": 6
       }
     },
     {
@@ -2074,8 +2074,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 2,
+        "uniques": 2
       }
     },
     {
@@ -2238,8 +2238,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 25,
-        "uniques": 25
+        "count": 26,
+        "uniques": 26
       }
     },
     {
@@ -2402,8 +2402,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 17,
-        "uniques": 17
+        "count": 15,
+        "uniques": 15
       }
     },
     {
@@ -2777,8 +2777,8 @@
       },
       "category": "GhostWriter",
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 1,
+        "uniques": 1
       }
     },
     {
@@ -2848,8 +2848,8 @@
       "releases_url": "https://api.github.com/repos/MythicMeta/Mythic_Scripting/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicMeta/Mythic_Scripting/deployments",
       "created_at": "2021-03-22T04:43:23Z",
-      "updated_at": "2024-09-03T22:51:06Z",
-      "pushed_at": "2024-09-03T22:51:02Z",
+      "updated_at": "2024-09-10T23:19:42Z",
+      "pushed_at": "2024-09-10T23:19:47Z",
       "git_url": "git://github.com/MythicMeta/Mythic_Scripting.git",
       "ssh_url": "git@github.com:MythicMeta/Mythic_Scripting.git",
       "clone_url": "https://github.com/MythicMeta/Mythic_Scripting.git",
@@ -2929,14 +2929,14 @@
       "subscribers_count": 5,
       "latest": {
         "branch": "master",
-        "commit_message": "updating README",
-        "commit_date": 1725403860.0,
+        "commit_message": "adding graphql operation name tracking",
+        "commit_date": 1726010376.0,
         "icon": ""
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 13,
-        "uniques": 10
+        "count": 15,
+        "uniques": 11
       }
     },
     {
@@ -3013,7 +3013,7 @@
       "clone_url": "https://github.com/MythicMeta/Documentation.git",
       "svn_url": "https://github.com/MythicMeta/Documentation",
       "homepage": null,
-      "size": 52885,
+      "size": 52892,
       "stargazers_count": 9,
       "watchers_count": 9,
       "language": null,
@@ -3093,8 +3093,8 @@
       },
       "category": "MythicDocs",
       "clones": {
-        "count": 5,
-        "uniques": 5
+        "count": 8,
+        "uniques": 8
       }
     },
     {
@@ -3164,14 +3164,14 @@
       "releases_url": "https://api.github.com/repos/MythicMeta/overview/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicMeta/overview/deployments",
       "created_at": "2023-04-20T23:05:14Z",
-      "updated_at": "2024-09-09T01:29:13Z",
-      "pushed_at": "2024-09-09T01:29:10Z",
+      "updated_at": "2024-09-10T01:27:38Z",
+      "pushed_at": "2024-09-10T01:27:34Z",
       "git_url": "git://github.com/MythicMeta/overview.git",
       "ssh_url": "git@github.com:MythicMeta/overview.git",
       "clone_url": "https://github.com/MythicMeta/overview.git",
       "svn_url": "https://github.com/MythicMeta/overview",
       "homepage": null,
-      "size": 7636,
+      "size": 8364,
       "stargazers_count": 6,
       "watchers_count": 6,
       "language": "JavaScript",
@@ -3252,13 +3252,13 @@
       "latest": {
         "branch": "main",
         "commit_message": "update data via action",
-        "commit_date": 1725845349.0,
+        "commit_date": 1725931654.0,
         "icon": ""
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 56,
-        "uniques": 28
+        "count": 53,
+        "uniques": 24
       }
     },
     {
@@ -3579,8 +3579,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 64,
-        "uniques": 19
+        "count": 61,
+        "uniques": 16
       }
     }
   ]
