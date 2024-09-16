@@ -25379,8 +25379,8 @@
         "count": 49
       },
       "traffic": {
-        "count": 223,
-        "unique": 95
+        "count": 215,
+        "unique": 90
       }
     },
     "2024-09-03": {
@@ -25587,8 +25587,8 @@
         "count": 7
       },
       "traffic": {
-        "count": 484,
-        "unique": 105
+        "count": 463,
+        "unique": 101
       }
     },
     "2024-09-07": {
@@ -26003,8 +26003,8 @@
         "count": 30
       },
       "traffic": {
-        "count": 105,
-        "unique": 64
+        "count": 107,
+        "unique": 65
       }
     },
     "2024-09-15": {
@@ -26048,6 +26048,58 @@
         "specterops.io": {
           "count": 26,
           "unique": 20
+        }
+      },
+      "clones": {
+        "unique": 6,
+        "count": 6
+      },
+      "traffic": {
+        "count": 154,
+        "unique": 58
+      }
+    },
+    "2024-09-16": {
+      "referrer": {
+        "Google": {
+          "count": 1389,
+          "unique": 541
+        },
+        "github.com": {
+          "count": 474,
+          "unique": 116
+        },
+        "docs.mythic-c2.net": {
+          "count": 252,
+          "unique": 36
+        },
+        "DuckDuckGo": {
+          "count": 177,
+          "unique": 35
+        },
+        "posts.specterops.io": {
+          "count": 71,
+          "unique": 38
+        },
+        "Bing": {
+          "count": 69,
+          "unique": 28
+        },
+        "academy.hackthebox.com": {
+          "count": 40,
+          "unique": 30
+        },
+        "statics.teams.cdn.office.net": {
+          "count": 37,
+          "unique": 7
+        },
+        "search.brave.com": {
+          "count": 27,
+          "unique": 11
+        },
+        "specterops.io": {
+          "count": 25,
+          "unique": 19
         }
       },
       "clones": {
@@ -38566,6 +38618,34 @@
         }
       },
       "clones": {
+        "unique": 3,
+        "count": 3
+      },
+      "traffic": {
+        "count": 4,
+        "unique": 3
+      }
+    },
+    "2024-09-16": {
+      "referrer": {
+        "book.hacktricks.xyz": {
+          "count": 36,
+          "unique": 10
+        },
+        "Google": {
+          "count": 30,
+          "unique": 7
+        },
+        "github.com": {
+          "count": 22,
+          "unique": 6
+        },
+        "secretchest.io": {
+          "count": 8,
+          "unique": 2
+        }
+      },
+      "clones": {
         "unique": 0,
         "count": 0
       },
@@ -48120,6 +48200,26 @@
         "github.com": {
           "count": 3,
           "unique": 2
+        }
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
+    },
+    "2024-09-16": {
+      "referrer": {
+        "github.com": {
+          "count": 3,
+          "unique": 2
+        },
+        "Google": {
+          "count": 1,
+          "unique": 1
         }
       },
       "clones": {
@@ -61814,6 +61914,30 @@
         "count": 0,
         "unique": 0
       }
+    },
+    "2024-09-16": {
+      "referrer": {
+        "Google": {
+          "count": 11,
+          "unique": 4
+        },
+        "book.hacktricks.xyz": {
+          "count": 3,
+          "unique": 3
+        },
+        "github.com": {
+          "count": 2,
+          "unique": 2
+        }
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
     }
   },
   "https://api.github.com/repos/its-a-feature/HealthInspector": {
@@ -74139,6 +74263,30 @@
         "Google": {
           "count": 15,
           "unique": 6
+        },
+        "github.com": {
+          "count": 7,
+          "unique": 4
+        },
+        "posts.specterops.io": {
+          "count": 1,
+          "unique": 1
+        }
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
+    },
+    "2024-09-16": {
+      "referrer": {
+        "Google": {
+          "count": 14,
+          "unique": 5
         },
         "github.com": {
           "count": 7,
@@ -91005,6 +91153,38 @@
         }
       },
       "clones": {
+        "unique": 3,
+        "count": 3
+      },
+      "traffic": {
+        "count": 1,
+        "unique": 1
+      }
+    },
+    "2024-09-16": {
+      "referrer": {
+        "Google": {
+          "count": 61,
+          "unique": 11
+        },
+        "github.com": {
+          "count": 6,
+          "unique": 6
+        },
+        "book.hacktricks.xyz": {
+          "count": 3,
+          "unique": 2
+        },
+        "t.co": {
+          "count": 3,
+          "unique": 1
+        },
+        "tishina.in": {
+          "count": 1,
+          "unique": 1
+        }
+      },
+      "clones": {
         "unique": 0,
         "count": 0
       },
@@ -97314,6 +97494,17 @@
       }
     },
     "2024-09-15": {
+      "referrer": {},
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
+    },
+    "2024-09-16": {
       "referrer": {},
       "clones": {
         "unique": 0,
@@ -104151,6 +104342,17 @@
         "count": 0,
         "unique": 0
       }
+    },
+    "2024-09-16": {
+      "referrer": {},
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
     }
   },
   "https://api.github.com/repos/its-a-feature/macOSCameraCapture": {
@@ -110423,6 +110625,17 @@
         "count": 0,
         "unique": 0
       }
+    },
+    "2024-09-16": {
+      "referrer": {},
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
     }
   },
   "https://api.github.com/repos/MythicMeta/MythicContainer": {
@@ -115185,6 +115398,16 @@
         "count": 0,
         "unique": 0
       }
+    },
+    "2024-09-15": {
+      "clones": {
+        "unique": 3,
+        "count": 3
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
     }
   },
   "https://api.github.com/repos/MythicMeta/MythicContainerPyPi": {
@@ -119177,6 +119400,16 @@
         "unique": 0,
         "count": 0
       }
+    },
+    "2024-09-15": {
+      "clones": {
+        "unique": 1,
+        "count": 1
+      },
+      "traffic": {
+        "count": 1,
+        "unique": 1
+      }
     }
   },
   "https://api.github.com/repos/MythicMeta/mythic_sync": {
@@ -119831,6 +120064,16 @@
       }
     },
     "2024-09-13": {
+      "clones": {
+        "unique": 1,
+        "count": 1
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
+    },
+    "2024-09-15": {
       "clones": {
         "unique": 1,
         "count": 1
@@ -124474,8 +124717,8 @@
     },
     "2024-09-02": {
       "clones": {
-        "unique": 2,
-        "count": 2
+        "unique": 1,
+        "count": 1
       },
       "traffic": {
         "count": 3,
@@ -124600,6 +124843,16 @@
       "clones": {
         "unique": 0,
         "count": 0
+      }
+    },
+    "2024-09-15": {
+      "clones": {
+        "unique": 1,
+        "count": 1
+      },
+      "traffic": {
+        "count": 6,
+        "unique": 4
       }
     }
   },
@@ -133305,6 +133558,16 @@
         "count": 0,
         "unique": 0
       }
+    },
+    "2024-09-15": {
+      "clones": {
+        "unique": 5,
+        "count": 6
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
     }
   },
   "https://api.github.com/repos/MythicMeta/ExampleContainers": {
@@ -137654,8 +137917,18 @@
         "count": 4
       },
       "traffic": {
-        "count": 321,
+        "count": 327,
         "unique": 9
+      }
+    },
+    "2024-09-15": {
+      "clones": {
+        "unique": 1,
+        "count": 1
+      },
+      "traffic": {
+        "count": 27,
+        "unique": 4
       }
     }
   },
@@ -141778,6 +142051,16 @@
       "traffic": {
         "count": 0,
         "unique": 0
+      }
+    },
+    "2024-09-15": {
+      "traffic": {
+        "count": 5,
+        "unique": 1
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
       }
     }
   }
