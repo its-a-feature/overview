@@ -67,16 +67,16 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/Mythic/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/Mythic/deployments",
       "created_at": "2018-07-05T02:09:59Z",
-      "updated_at": "2024-09-22T23:00:27Z",
-      "pushed_at": "2024-09-22T01:51:00Z",
+      "updated_at": "2024-09-23T22:37:54Z",
+      "pushed_at": "2024-09-23T22:37:51Z",
       "git_url": "git://github.com/its-a-feature/Mythic.git",
       "ssh_url": "git@github.com:its-a-feature/Mythic.git",
       "clone_url": "https://github.com/its-a-feature/Mythic.git",
       "svn_url": "https://github.com/its-a-feature/Mythic",
       "homepage": "",
-      "size": 635597,
-      "stargazers_count": 3152,
-      "watchers_count": 3152,
+      "size": 642784,
+      "stargazers_count": 3153,
+      "watchers_count": 3153,
       "language": "JavaScript",
       "has_issues": true,
       "has_projects": true,
@@ -103,7 +103,7 @@
       "visibility": "public",
       "forks": 426,
       "open_issues": 17,
-      "watchers": 3152,
+      "watchers": 3153,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -143,14 +143,15 @@
       "network_count": 426,
       "subscribers_count": 67,
       "latest": {
-        "branch": "dependabot/npm_and_y...",
-        "commit_message": "Bump body-parser and express in /MythicReactUI\n\nBumps [body-...",
-        "commit_date": 1726969860.0
+        "branch": "master",
+        "commit_message": "Bump Mythic Dockerfile tag to match release 'v3.3.0.16'",
+        "commit_date": 1727131070.0,
+        "icon": ""
       },
       "category": "Mythic",
       "clones": {
-        "count": 403,
-        "uniques": 210
+        "count": 425,
+        "uniques": 219
       }
     },
     {
@@ -682,7 +683,7 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/HealthInspector/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/HealthInspector/deployments",
       "created_at": "2019-05-23T04:29:00Z",
-      "updated_at": "2024-09-08T22:08:48Z",
+      "updated_at": "2024-09-23T18:10:51Z",
       "pushed_at": "2022-02-18T17:42:06Z",
       "git_url": "git://github.com/its-a-feature/HealthInspector.git",
       "ssh_url": "git@github.com:its-a-feature/HealthInspector.git",
@@ -690,8 +691,8 @@
       "svn_url": "https://github.com/its-a-feature/HealthInspector",
       "homepage": null,
       "size": 150,
-      "stargazers_count": 66,
-      "watchers_count": 66,
+      "stargazers_count": 67,
+      "watchers_count": 67,
       "language": "JavaScript",
       "has_issues": true,
       "has_projects": true,
@@ -718,7 +719,7 @@
       "visibility": "public",
       "forks": 16,
       "open_issues": 0,
-      "watchers": 66,
+      "watchers": 67,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -919,8 +920,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 22,
-        "uniques": 16
+        "count": 23,
+        "uniques": 17
       }
     },
     {
@@ -2237,8 +2238,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 19,
-        "uniques": 19
+        "count": 16,
+        "uniques": 16
       }
     },
     {
@@ -3092,8 +3093,8 @@
       },
       "category": "MythicDocs",
       "clones": {
-        "count": 4,
-        "uniques": 4
+        "count": 0,
+        "uniques": 0
       }
     },
     {
@@ -3163,14 +3164,14 @@
       "releases_url": "https://api.github.com/repos/MythicMeta/overview/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicMeta/overview/deployments",
       "created_at": "2023-04-20T23:05:14Z",
-      "updated_at": "2024-09-22T01:43:22Z",
-      "pushed_at": "2024-09-22T01:43:18Z",
+      "updated_at": "2024-09-23T01:38:04Z",
+      "pushed_at": "2024-09-23T01:38:00Z",
       "git_url": "git://github.com/MythicMeta/overview.git",
       "ssh_url": "git@github.com:MythicMeta/overview.git",
       "clone_url": "https://github.com/MythicMeta/overview.git",
       "svn_url": "https://github.com/MythicMeta/overview",
       "homepage": null,
-      "size": 12838,
+      "size": 12855,
       "stargazers_count": 6,
       "watchers_count": 6,
       "language": "JavaScript",
@@ -3251,13 +3252,13 @@
       "latest": {
         "branch": "main",
         "commit_message": "update data via action",
-        "commit_date": 1726969397.0,
+        "commit_date": 1727055479.0,
         "icon": ""
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 69,
-        "uniques": 40
+        "count": 70,
+        "uniques": 41
       }
     },
     {
@@ -3578,8 +3579,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 26,
-        "uniques": 13
+        "count": 10,
+        "uniques": 10
       }
     }
   ]
