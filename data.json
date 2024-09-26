@@ -67,7 +67,7 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/Mythic/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/Mythic/deployments",
       "created_at": "2018-07-05T02:09:59Z",
-      "updated_at": "2024-09-24T16:33:24Z",
+      "updated_at": "2024-09-25T21:17:04Z",
       "pushed_at": "2024-09-24T16:33:21Z",
       "git_url": "git://github.com/its-a-feature/Mythic.git",
       "ssh_url": "git@github.com:its-a-feature/Mythic.git",
@@ -75,8 +75,8 @@
       "svn_url": "https://github.com/its-a-feature/Mythic",
       "homepage": "",
       "size": 642805,
-      "stargazers_count": 3157,
-      "watchers_count": 3157,
+      "stargazers_count": 3161,
+      "watchers_count": 3161,
       "language": "JavaScript",
       "has_issues": true,
       "has_projects": true,
@@ -103,7 +103,7 @@
       "visibility": "public",
       "forks": 426,
       "open_issues": 17,
-      "watchers": 3157,
+      "watchers": 3161,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -150,7 +150,7 @@
       },
       "category": "Mythic",
       "clones": {
-        "count": 438,
+        "count": 432,
         "uniques": 223
       }
     },
@@ -304,8 +304,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 26,
-        "uniques": 26
+        "count": 23,
+        "uniques": 23
       }
     },
     {
@@ -458,8 +458,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 6,
-        "uniques": 6
+        "count": 7,
+        "uniques": 7
       }
     },
     {
@@ -920,8 +920,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 26,
-        "uniques": 20
+        "count": 23,
+        "uniques": 17
       }
     },
     {
@@ -1482,7 +1482,7 @@
       "has_wiki": true,
       "has_pages": false,
       "has_discussions": false,
-      "forks_count": 25,
+      "forks_count": 26,
       "mirror_url": null,
       "archived": false,
       "disabled": false,
@@ -1499,7 +1499,7 @@
       "web_commit_signoff_required": false,
       "topics": [],
       "visibility": "public",
-      "forks": 25,
+      "forks": 26,
       "open_issues": 0,
       "watchers": 260,
       "default_branch": "master",
@@ -1510,7 +1510,7 @@
         "triage": false,
         "pull": true
       },
-      "network_count": 25,
+      "network_count": 26,
       "subscribers_count": 15,
       "latest": {
         "branch": "master",
@@ -2935,8 +2935,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 15,
-        "uniques": 15
+        "count": 14,
+        "uniques": 14
       }
     },
     {
@@ -3164,14 +3164,14 @@
       "releases_url": "https://api.github.com/repos/MythicMeta/overview/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicMeta/overview/deployments",
       "created_at": "2023-04-20T23:05:14Z",
-      "updated_at": "2024-09-24T01:38:13Z",
-      "pushed_at": "2024-09-24T01:38:10Z",
+      "updated_at": "2024-09-25T01:39:53Z",
+      "pushed_at": "2024-09-25T01:39:49Z",
       "git_url": "git://github.com/MythicMeta/overview.git",
       "ssh_url": "git@github.com:MythicMeta/overview.git",
       "clone_url": "https://github.com/MythicMeta/overview.git",
       "svn_url": "https://github.com/MythicMeta/overview",
       "homepage": null,
-      "size": 13593,
+      "size": 13611,
       "stargazers_count": 6,
       "watchers_count": 6,
       "language": "JavaScript",
@@ -3252,13 +3252,13 @@
       "latest": {
         "branch": "main",
         "commit_message": "update data via action",
-        "commit_date": 1727141889.0,
+        "commit_date": 1727228388.0,
         "icon": ""
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 73,
-        "uniques": 43
+        "count": 71,
+        "uniques": 41
       }
     },
     {
@@ -3579,8 +3579,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 10,
-        "uniques": 10
+        "count": 11,
+        "uniques": 11
       }
     }
   ]
