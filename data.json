@@ -68,16 +68,16 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/Mythic/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/Mythic/deployments",
       "created_at": "2018-07-05T02:09:59Z",
-      "updated_at": "2024-10-27T20:01:47Z",
-      "pushed_at": "2024-10-19T21:19:40Z",
+      "updated_at": "2024-10-28T23:00:06Z",
+      "pushed_at": "2024-10-28T18:47:22Z",
       "git_url": "git://github.com/its-a-feature/Mythic.git",
       "ssh_url": "git@github.com:its-a-feature/Mythic.git",
       "clone_url": "https://github.com/its-a-feature/Mythic.git",
       "svn_url": "https://github.com/its-a-feature/Mythic",
       "homepage": "",
-      "size": 652809,
-      "stargazers_count": 3221,
-      "watchers_count": 3221,
+      "size": 640160,
+      "stargazers_count": 3226,
+      "watchers_count": 3226,
       "language": "JavaScript",
       "has_issues": true,
       "has_projects": true,
@@ -104,7 +104,7 @@
       "visibility": "public",
       "forks": 430,
       "open_issues": 16,
-      "watchers": 3221,
+      "watchers": 3226,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -144,14 +144,15 @@
       "network_count": 430,
       "subscribers_count": 67,
       "latest": {
-        "branch": "dependabot/npm_and_y...",
-        "commit_message": "Bump cookie and express in /MythicReactUI\n\nBumps [cookie](ht...",
-        "commit_date": 1729372779.0
+        "branch": "master",
+        "commit_message": "Bump Mythic Dockerfile tag to match release 'v3.3.0.27'",
+        "commit_date": 1730141241.0,
+        "icon": ""
       },
       "category": "Mythic",
       "clones": {
-        "count": 306,
-        "uniques": 165
+        "count": 350,
+        "uniques": 158
       }
     },
     {
@@ -2160,14 +2161,14 @@
       "releases_url": "https://api.github.com/repos/MythicMeta/MythicContainer/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicMeta/MythicContainer/deployments",
       "created_at": "2023-03-01T04:59:11Z",
-      "updated_at": "2024-10-13T15:12:09Z",
-      "pushed_at": "2024-10-09T18:43:01Z",
+      "updated_at": "2024-10-28T14:30:15Z",
+      "pushed_at": "2024-10-28T14:30:22Z",
       "git_url": "git://github.com/MythicMeta/MythicContainer.git",
       "ssh_url": "git@github.com:MythicMeta/MythicContainer.git",
       "clone_url": "https://github.com/MythicMeta/MythicContainer.git",
       "svn_url": "https://github.com/MythicMeta/MythicContainer",
       "homepage": null,
-      "size": 349,
+      "size": 365,
       "stargazers_count": 17,
       "watchers_count": 17,
       "language": "Go",
@@ -2248,14 +2249,14 @@
       "subscribers_count": 1,
       "latest": {
         "branch": "main",
-        "commit_message": "fixing concurrency issues and adding features",
-        "commit_date": 1728499369.0,
+        "commit_message": "a new payload type definition option and updated proxy stop ...",
+        "commit_date": 1730125805.0,
         "icon": ""
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 5,
-        "uniques": 2
+        "count": 8,
+        "uniques": 5
       }
     },
     {
@@ -2326,14 +2327,14 @@
       "releases_url": "https://api.github.com/repos/MythicMeta/MythicContainerPyPi/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicMeta/MythicContainerPyPi/deployments",
       "created_at": "2023-03-07T22:54:21Z",
-      "updated_at": "2024-10-11T15:05:28Z",
-      "pushed_at": "2024-10-11T15:05:33Z",
+      "updated_at": "2024-10-28T14:31:58Z",
+      "pushed_at": "2024-10-28T14:31:40Z",
       "git_url": "git://github.com/MythicMeta/MythicContainerPyPi.git",
       "ssh_url": "git@github.com:MythicMeta/MythicContainerPyPi.git",
       "clone_url": "https://github.com/MythicMeta/MythicContainerPyPi.git",
       "svn_url": "https://github.com/MythicMeta/MythicContainerPyPi",
       "homepage": null,
-      "size": 437,
+      "size": 462,
       "stargazers_count": 1,
       "watchers_count": 1,
       "language": "Python",
@@ -2347,7 +2348,7 @@
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 1,
+      "open_issues_count": 0,
       "license": {
         "key": "bsd-3-clause",
         "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -2361,7 +2362,7 @@
       "topics": [],
       "visibility": "public",
       "forks": 4,
-      "open_issues": 1,
+      "open_issues": 0,
       "watchers": 1,
       "default_branch": "main",
       "permissions": {
@@ -2414,14 +2415,14 @@
       "subscribers_count": 2,
       "latest": {
         "branch": "main",
-        "commit_message": "updating for PyPi version 0.5.13\n\nfixing ordering of c2 call...",
-        "commit_date": 1728659122.0,
+        "commit_message": "adding new payloadtype definition parameter and fixing proxy...",
+        "commit_date": 1730125897.0,
         "icon": ""
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 5,
+        "uniques": 5
       }
     },
     {
@@ -3191,14 +3192,14 @@
       "releases_url": "https://api.github.com/repos/MythicMeta/overview/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicMeta/overview/deployments",
       "created_at": "2023-04-20T23:05:14Z",
-      "updated_at": "2024-10-27T01:44:54Z",
-      "pushed_at": "2024-10-27T01:44:50Z",
+      "updated_at": "2024-10-28T01:42:49Z",
+      "pushed_at": "2024-10-28T01:42:45Z",
       "git_url": "git://github.com/MythicMeta/overview.git",
       "ssh_url": "git@github.com:MythicMeta/overview.git",
       "clone_url": "https://github.com/MythicMeta/overview.git",
       "svn_url": "https://github.com/MythicMeta/overview",
       "homepage": null,
-      "size": 7537,
+      "size": 7546,
       "stargazers_count": 6,
       "watchers_count": 6,
       "language": "JavaScript",
@@ -3280,13 +3281,13 @@
       "latest": {
         "branch": "main",
         "commit_message": "update data via action",
-        "commit_date": 1729993489.0,
+        "commit_date": 1730079764.0,
         "icon": ""
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 57,
-        "uniques": 28
+        "count": 55,
+        "uniques": 26
       }
     },
     {
@@ -3451,8 +3452,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 3,
+        "uniques": 3
       }
     },
     {
