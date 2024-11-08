@@ -68,7 +68,7 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/Mythic/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/Mythic/deployments",
       "created_at": "2018-07-05T02:09:59Z",
-      "updated_at": "2024-11-07T00:08:52Z",
+      "updated_at": "2024-11-07T21:56:05Z",
       "pushed_at": "2024-11-06T21:16:38Z",
       "git_url": "git://github.com/its-a-feature/Mythic.git",
       "ssh_url": "git@github.com:its-a-feature/Mythic.git",
@@ -76,8 +76,8 @@
       "svn_url": "https://github.com/its-a-feature/Mythic",
       "homepage": "",
       "size": 654587,
-      "stargazers_count": 3244,
-      "watchers_count": 3244,
+      "stargazers_count": 3246,
+      "watchers_count": 3246,
       "language": "JavaScript",
       "has_issues": true,
       "has_projects": true,
@@ -85,7 +85,7 @@
       "has_wiki": false,
       "has_pages": false,
       "has_discussions": true,
-      "forks_count": 430,
+      "forks_count": 431,
       "mirror_url": null,
       "archived": false,
       "disabled": false,
@@ -102,9 +102,9 @@
       "web_commit_signoff_required": false,
       "topics": [],
       "visibility": "public",
-      "forks": 430,
+      "forks": 431,
       "open_issues": 16,
-      "watchers": 3244,
+      "watchers": 3246,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -141,7 +141,7 @@
           "status": "disabled"
         }
       },
-      "network_count": 430,
+      "network_count": 431,
       "subscribers_count": 67,
       "latest": {
         "branch": "master",
@@ -151,8 +151,8 @@
       },
       "category": "Mythic",
       "clones": {
-        "count": 469,
-        "uniques": 185
+        "count": 483,
+        "uniques": 180
       }
     },
     {
@@ -1476,7 +1476,7 @@
       "releases_url": "https://api.github.com/repos/D00MFist/PersistentJXA/releases{/id}",
       "deployments_url": "https://api.github.com/repos/D00MFist/PersistentJXA/deployments",
       "created_at": "2020-08-02T01:49:49Z",
-      "updated_at": "2024-10-17T08:26:23Z",
+      "updated_at": "2024-11-07T21:31:11Z",
       "pushed_at": "2023-08-03T15:09:56Z",
       "git_url": "git://github.com/D00MFist/PersistentJXA.git",
       "ssh_url": "git@github.com:D00MFist/PersistentJXA.git",
@@ -1484,8 +1484,8 @@
       "svn_url": "https://github.com/D00MFist/PersistentJXA",
       "homepage": null,
       "size": 101,
-      "stargazers_count": 260,
-      "watchers_count": 260,
+      "stargazers_count": 261,
+      "watchers_count": 261,
       "language": "JavaScript",
       "has_issues": true,
       "has_projects": true,
@@ -1512,7 +1512,7 @@
       "visibility": "public",
       "forks": 27,
       "open_issues": 0,
-      "watchers": 260,
+      "watchers": 261,
       "default_branch": "master",
       "permissions": {
         "admin": false,
@@ -3192,14 +3192,14 @@
       "releases_url": "https://api.github.com/repos/MythicMeta/overview/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicMeta/overview/deployments",
       "created_at": "2023-04-20T23:05:14Z",
-      "updated_at": "2024-11-06T01:29:25Z",
-      "pushed_at": "2024-11-06T01:29:21Z",
+      "updated_at": "2024-11-07T01:29:45Z",
+      "pushed_at": "2024-11-07T01:29:41Z",
       "git_url": "git://github.com/MythicMeta/overview.git",
       "ssh_url": "git@github.com:MythicMeta/overview.git",
       "clone_url": "https://github.com/MythicMeta/overview.git",
       "svn_url": "https://github.com/MythicMeta/overview",
       "homepage": null,
-      "size": 11602,
+      "size": 11618,
       "stargazers_count": 6,
       "watchers_count": 6,
       "language": "JavaScript",
@@ -3281,13 +3281,13 @@
       "latest": {
         "branch": "main",
         "commit_message": "update data via action",
-        "commit_date": 1730856560.0,
+        "commit_date": 1730942980.0,
         "icon": ""
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 51,
-        "uniques": 21
+        "count": 49,
+        "uniques": 18
       }
     },
     {
@@ -3452,8 +3452,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 4,
+        "uniques": 4
       }
     },
     {
