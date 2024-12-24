@@ -68,16 +68,16 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/Mythic/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/Mythic/deployments",
       "created_at": "2018-07-05T02:09:59Z",
-      "updated_at": "2024-12-22T18:17:58Z",
-      "pushed_at": "2024-12-19T01:39:16Z",
+      "updated_at": "2024-12-23T17:56:30Z",
+      "pushed_at": "2024-12-23T17:56:27Z",
       "git_url": "git://github.com/its-a-feature/Mythic.git",
       "ssh_url": "git@github.com:its-a-feature/Mythic.git",
       "clone_url": "https://github.com/its-a-feature/Mythic.git",
       "svn_url": "https://github.com/its-a-feature/Mythic",
       "homepage": "",
-      "size": 692177,
-      "stargazers_count": 3336,
-      "watchers_count": 3336,
+      "size": 661261,
+      "stargazers_count": 3341,
+      "watchers_count": 3341,
       "language": "JavaScript",
       "has_issues": true,
       "has_projects": true,
@@ -104,7 +104,7 @@
       "visibility": "public",
       "forks": 434,
       "open_issues": 16,
-      "watchers": 3336,
+      "watchers": 3341,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -145,14 +145,14 @@
       "subscribers_count": 68,
       "latest": {
         "branch": "master",
-        "commit_message": "fix for task status with interactive tasking",
-        "commit_date": 1734572350.0,
+        "commit_message": "Bump Mythic Dockerfile tag to match release 'v3.3.0.55'",
+        "commit_date": 1734976586.0,
         "icon": ""
       },
       "category": "Mythic",
       "clones": {
-        "count": 438,
-        "uniques": 165
+        "count": 462,
+        "uniques": 170
       }
     },
     {
@@ -771,8 +771,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 0,
+        "uniques": 0
       }
     },
     {
@@ -3198,14 +3198,14 @@
       "releases_url": "https://api.github.com/repos/MythicMeta/overview/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicMeta/overview/deployments",
       "created_at": "2023-04-20T23:05:14Z",
-      "updated_at": "2024-12-22T01:45:15Z",
-      "pushed_at": "2024-12-22T01:45:11Z",
+      "updated_at": "2024-12-23T01:40:35Z",
+      "pushed_at": "2024-12-23T01:40:31Z",
       "git_url": "git://github.com/MythicMeta/overview.git",
       "ssh_url": "git@github.com:MythicMeta/overview.git",
       "clone_url": "https://github.com/MythicMeta/overview.git",
       "svn_url": "https://github.com/MythicMeta/overview",
       "homepage": null,
-      "size": 12081,
+      "size": 12961,
       "stargazers_count": 6,
       "watchers_count": 6,
       "language": "JavaScript",
@@ -3287,12 +3287,12 @@
       "latest": {
         "branch": "main",
         "commit_message": "update data via action",
-        "commit_date": 1734831910.0,
+        "commit_date": 1734918030.0,
         "icon": ""
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 46,
+        "count": 47,
         "uniques": 14
       }
     },
