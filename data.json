@@ -68,7 +68,7 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/Mythic/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/Mythic/deployments",
       "created_at": "2018-07-05T02:09:59Z",
-      "updated_at": "2024-12-25T15:38:24Z",
+      "updated_at": "2024-12-26T10:54:24Z",
       "pushed_at": "2024-12-25T15:38:21Z",
       "git_url": "git://github.com/its-a-feature/Mythic.git",
       "ssh_url": "git@github.com:its-a-feature/Mythic.git",
@@ -76,8 +76,8 @@
       "svn_url": "https://github.com/its-a-feature/Mythic",
       "homepage": "",
       "size": 668503,
-      "stargazers_count": 3345,
-      "watchers_count": 3345,
+      "stargazers_count": 3347,
+      "watchers_count": 3347,
       "language": "JavaScript",
       "has_issues": true,
       "has_projects": true,
@@ -85,7 +85,7 @@
       "has_wiki": false,
       "has_pages": false,
       "has_discussions": true,
-      "forks_count": 433,
+      "forks_count": 434,
       "mirror_url": null,
       "archived": false,
       "disabled": false,
@@ -102,9 +102,9 @@
       "web_commit_signoff_required": false,
       "topics": [],
       "visibility": "public",
-      "forks": 433,
+      "forks": 434,
       "open_issues": 16,
-      "watchers": 3345,
+      "watchers": 3347,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -141,7 +141,7 @@
           "status": "disabled"
         }
       },
-      "network_count": 433,
+      "network_count": 434,
       "subscribers_count": 68,
       "latest": {
         "branch": "master",
@@ -151,8 +151,8 @@
       },
       "category": "Mythic",
       "clones": {
-        "count": 433,
-        "uniques": 159
+        "count": 376,
+        "uniques": 151
       }
     },
     {
@@ -461,8 +461,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 1,
+        "uniques": 1
       }
     },
     {
@@ -688,7 +688,7 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/HealthInspector/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/HealthInspector/deployments",
       "created_at": "2019-05-23T04:29:00Z",
-      "updated_at": "2024-12-11T11:52:29Z",
+      "updated_at": "2024-12-26T20:03:25Z",
       "pushed_at": "2022-02-18T17:42:06Z",
       "git_url": "git://github.com/its-a-feature/HealthInspector.git",
       "ssh_url": "git@github.com:its-a-feature/HealthInspector.git",
@@ -696,8 +696,8 @@
       "svn_url": "https://github.com/its-a-feature/HealthInspector",
       "homepage": null,
       "size": 150,
-      "stargazers_count": 70,
-      "watchers_count": 70,
+      "stargazers_count": 71,
+      "watchers_count": 71,
       "language": "JavaScript",
       "has_issues": true,
       "has_projects": true,
@@ -724,7 +724,7 @@
       "visibility": "public",
       "forks": 16,
       "open_issues": 0,
-      "watchers": 70,
+      "watchers": 71,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -926,8 +926,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 2,
+        "uniques": 2
       }
     },
     {
@@ -2966,8 +2966,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 0,
+        "uniques": 0
       }
     },
     {
@@ -3198,14 +3198,14 @@
       "releases_url": "https://api.github.com/repos/MythicMeta/overview/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicMeta/overview/deployments",
       "created_at": "2023-04-20T23:05:14Z",
-      "updated_at": "2024-12-25T01:38:13Z",
-      "pushed_at": "2024-12-25T01:38:09Z",
+      "updated_at": "2024-12-26T01:37:52Z",
+      "pushed_at": "2024-12-26T01:37:48Z",
       "git_url": "git://github.com/MythicMeta/overview.git",
       "ssh_url": "git@github.com:MythicMeta/overview.git",
       "clone_url": "https://github.com/MythicMeta/overview.git",
       "svn_url": "https://github.com/MythicMeta/overview",
       "homepage": null,
-      "size": 13856,
+      "size": 13870,
       "stargazers_count": 6,
       "watchers_count": 6,
       "language": "JavaScript",
@@ -3287,13 +3287,13 @@
       "latest": {
         "branch": "main",
         "commit_message": "update data via action",
-        "commit_date": 1735090688.0,
+        "commit_date": 1735177067.0,
         "icon": ""
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 46,
-        "uniques": 13
+        "count": 39,
+        "uniques": 11
       }
     },
     {
@@ -3458,8 +3458,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 3,
+        "uniques": 3
       }
     },
     {
