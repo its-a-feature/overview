@@ -68,7 +68,7 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/Mythic/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/Mythic/deployments",
       "created_at": "2018-07-05T02:09:59Z",
-      "updated_at": "2024-12-29T18:16:54Z",
+      "updated_at": "2024-12-30T15:40:14Z",
       "pushed_at": "2024-12-28T16:18:54Z",
       "git_url": "git://github.com/its-a-feature/Mythic.git",
       "ssh_url": "git@github.com:its-a-feature/Mythic.git",
@@ -76,8 +76,8 @@
       "svn_url": "https://github.com/its-a-feature/Mythic",
       "homepage": "",
       "size": 675857,
-      "stargazers_count": 3350,
-      "watchers_count": 3350,
+      "stargazers_count": 3353,
+      "watchers_count": 3353,
       "language": "JavaScript",
       "has_issues": true,
       "has_projects": true,
@@ -85,7 +85,7 @@
       "has_wiki": false,
       "has_pages": false,
       "has_discussions": true,
-      "forks_count": 434,
+      "forks_count": 433,
       "mirror_url": null,
       "archived": false,
       "disabled": false,
@@ -102,9 +102,9 @@
       "web_commit_signoff_required": false,
       "topics": [],
       "visibility": "public",
-      "forks": 434,
+      "forks": 433,
       "open_issues": 16,
-      "watchers": 3350,
+      "watchers": 3353,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -141,7 +141,7 @@
           "status": "disabled"
         }
       },
-      "network_count": 434,
+      "network_count": 433,
       "subscribers_count": 68,
       "latest": {
         "branch": "master",
@@ -151,8 +151,8 @@
       },
       "category": "Mythic",
       "clones": {
-        "count": 344,
-        "uniques": 138
+        "count": 337,
+        "uniques": 131
       }
     },
     {
@@ -2239,6 +2239,23 @@
         "user_view_type": "public",
         "site_admin": false
       },
+      "security_and_analysis": {
+        "secret_scanning": {
+          "status": "disabled"
+        },
+        "secret_scanning_push_protection": {
+          "status": "disabled"
+        },
+        "dependabot_security_updates": {
+          "status": "disabled"
+        },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
+        "secret_scanning_validity_checks": {
+          "status": "disabled"
+        }
+      },
       "network_count": 6,
       "subscribers_count": 1,
       "latest": {
@@ -2249,8 +2266,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": -1,
-        "uniques": -1
+        "count": 2,
+        "uniques": 2
       }
     },
     {
@@ -2399,6 +2416,23 @@
         "user_view_type": "public",
         "site_admin": false
       },
+      "security_and_analysis": {
+        "secret_scanning": {
+          "status": "disabled"
+        },
+        "secret_scanning_push_protection": {
+          "status": "disabled"
+        },
+        "dependabot_security_updates": {
+          "status": "disabled"
+        },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
+        "secret_scanning_validity_checks": {
+          "status": "disabled"
+        }
+      },
       "network_count": 2,
       "subscribers_count": 2,
       "latest": {
@@ -2409,8 +2443,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": -1,
-        "uniques": -1
+        "count": 1,
+        "uniques": 1
       }
     },
     {
@@ -2773,6 +2807,23 @@
         "watchers": 15,
         "default_branch": "main"
       },
+      "security_and_analysis": {
+        "secret_scanning": {
+          "status": "disabled"
+        },
+        "secret_scanning_push_protection": {
+          "status": "disabled"
+        },
+        "dependabot_security_updates": {
+          "status": "disabled"
+        },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
+        "secret_scanning_validity_checks": {
+          "status": "disabled"
+        }
+      },
       "network_count": 8,
       "subscribers_count": 0,
       "latest": {
@@ -2782,8 +2833,8 @@
       },
       "category": "GhostWriter",
       "clones": {
-        "count": -1,
-        "uniques": -1
+        "count": 0,
+        "uniques": 0
       }
     },
     {
@@ -2932,6 +2983,23 @@
         "user_view_type": "public",
         "site_admin": false
       },
+      "security_and_analysis": {
+        "secret_scanning": {
+          "status": "disabled"
+        },
+        "secret_scanning_push_protection": {
+          "status": "disabled"
+        },
+        "dependabot_security_updates": {
+          "status": "disabled"
+        },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
+        "secret_scanning_validity_checks": {
+          "status": "disabled"
+        }
+      },
       "network_count": 12,
       "subscribers_count": 5,
       "latest": {
@@ -2942,8 +3010,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": -1,
-        "uniques": -1
+        "count": 0,
+        "uniques": 0
       }
     },
     {
@@ -3086,6 +3154,23 @@
         "user_view_type": "public",
         "site_admin": false
       },
+      "security_and_analysis": {
+        "secret_scanning": {
+          "status": "disabled"
+        },
+        "secret_scanning_push_protection": {
+          "status": "disabled"
+        },
+        "dependabot_security_updates": {
+          "status": "disabled"
+        },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
+        "secret_scanning_validity_checks": {
+          "status": "disabled"
+        }
+      },
       "network_count": 7,
       "subscribers_count": 2,
       "latest": {
@@ -3096,8 +3181,8 @@
       },
       "category": "MythicDocs",
       "clones": {
-        "count": -1,
-        "uniques": -1
+        "count": 1,
+        "uniques": 1
       }
     },
     {
@@ -3168,14 +3253,14 @@
       "releases_url": "https://api.github.com/repos/MythicMeta/overview/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicMeta/overview/deployments",
       "created_at": "2023-04-20T23:05:14Z",
-      "updated_at": "2024-12-29T01:45:42Z",
-      "pushed_at": "2024-12-29T01:45:39Z",
+      "updated_at": "2024-12-30T23:58:27Z",
+      "pushed_at": "2024-12-30T23:58:23Z",
       "git_url": "git://github.com/MythicMeta/overview.git",
       "ssh_url": "git@github.com:MythicMeta/overview.git",
       "clone_url": "https://github.com/MythicMeta/overview.git",
       "svn_url": "https://github.com/MythicMeta/overview",
       "homepage": null,
-      "size": 14770,
+      "size": 14800,
       "stargazers_count": 6,
       "watchers_count": 6,
       "language": "JavaScript",
@@ -3246,18 +3331,35 @@
         "user_view_type": "public",
         "site_admin": false
       },
+      "security_and_analysis": {
+        "secret_scanning": {
+          "status": "disabled"
+        },
+        "secret_scanning_push_protection": {
+          "status": "disabled"
+        },
+        "dependabot_security_updates": {
+          "status": "disabled"
+        },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
+        "secret_scanning_validity_checks": {
+          "status": "disabled"
+        }
+      },
       "network_count": 0,
       "subscribers_count": 2,
       "latest": {
         "branch": "main",
         "commit_message": "update data via action",
-        "commit_date": 1735436739.0,
+        "commit_date": 1735603102.0,
         "icon": ""
       },
       "category": "MythicMeta",
       "clones": {
-        "count": -1,
-        "uniques": -1
+        "count": 45,
+        "uniques": 14
       }
     },
     {
@@ -3406,6 +3508,23 @@
         "user_view_type": "public",
         "site_admin": false
       },
+      "security_and_analysis": {
+        "secret_scanning": {
+          "status": "disabled"
+        },
+        "secret_scanning_push_protection": {
+          "status": "disabled"
+        },
+        "dependabot_security_updates": {
+          "status": "disabled"
+        },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
+        "secret_scanning_validity_checks": {
+          "status": "disabled"
+        }
+      },
       "network_count": 5,
       "subscribers_count": 1,
       "latest": {
@@ -3416,8 +3535,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": -1,
-        "uniques": -1
+        "count": 3,
+        "uniques": 3
       }
     },
     {
@@ -3566,6 +3685,23 @@
         "user_view_type": "public",
         "site_admin": false
       },
+      "security_and_analysis": {
+        "secret_scanning": {
+          "status": "disabled"
+        },
+        "secret_scanning_push_protection": {
+          "status": "disabled"
+        },
+        "dependabot_security_updates": {
+          "status": "disabled"
+        },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
+        "secret_scanning_validity_checks": {
+          "status": "disabled"
+        }
+      },
       "network_count": 5,
       "subscribers_count": 3,
       "latest": {
@@ -3576,8 +3712,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": -1,
-        "uniques": -1
+        "count": 0,
+        "uniques": 0
       }
     }
   ]
