@@ -31307,8 +31307,8 @@
         "count": 33
       },
       "traffic": {
-        "count": 192,
-        "unique": 69
+        "count": 183,
+        "unique": 67
       }
     },
     "2024-12-26": {
@@ -31931,8 +31931,8 @@
         "count": 22
       },
       "traffic": {
-        "count": 408,
-        "unique": 105
+        "count": 413,
+        "unique": 106
       }
     },
     "2025-01-07": {
@@ -31976,6 +31976,58 @@
         "medium.com": {
           "count": 16,
           "unique": 6
+        }
+      },
+      "clones": {
+        "unique": 10,
+        "count": 17
+      },
+      "traffic": {
+        "count": 303,
+        "unique": 77
+      }
+    },
+    "2025-01-08": {
+      "referrer": {
+        "Google": {
+          "count": 1176,
+          "unique": 316
+        },
+        "github.com": {
+          "count": 199,
+          "unique": 88
+        },
+        "docs.mythic-c2.net": {
+          "count": 121,
+          "unique": 30
+        },
+        "academy.intel-ops.io": {
+          "count": 82,
+          "unique": 8
+        },
+        "Bing": {
+          "count": 50,
+          "unique": 24
+        },
+        "academy.hackthebox.com": {
+          "count": 27,
+          "unique": 21
+        },
+        "search.brave.com": {
+          "count": 23,
+          "unique": 13
+        },
+        "DuckDuckGo": {
+          "count": 19,
+          "unique": 11
+        },
+        "chatgpt.com": {
+          "count": 19,
+          "unique": 9
+        },
+        "medium.com": {
+          "count": 15,
+          "unique": 5
         }
       },
       "clones": {
@@ -47673,6 +47725,33 @@
         "count": 0,
         "unique": 0
       }
+    },
+    "2025-01-07": {
+      "traffic": {
+        "count": 3,
+        "unique": 3
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "referrer": {}
+    },
+    "2025-01-08": {
+      "referrer": {
+        "Google": {
+          "count": 9,
+          "unique": 2
+        }
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
     }
   },
   "https://api.github.com/repos/its-a-feature/dylibHijackScanner": {
@@ -59552,6 +59631,22 @@
       }
     },
     "2025-01-07": {
+      "referrer": {
+        "github.com": {
+          "count": 1,
+          "unique": 1
+        }
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
+    },
+    "2025-01-08": {
       "referrer": {
         "github.com": {
           "count": 1,
@@ -76210,6 +76305,26 @@
         "count": 0,
         "unique": 0
       }
+    },
+    "2025-01-08": {
+      "referrer": {
+        "Google": {
+          "count": 2,
+          "unique": 2
+        },
+        "lrqa.com": {
+          "count": 2,
+          "unique": 1
+        }
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
     }
   },
   "https://api.github.com/repos/its-a-feature/HealthInspector": {
@@ -91491,6 +91606,41 @@
         "Google": {
           "count": 3,
           "unique": 3
+        },
+        "frischkorn-nicholas.medium.com": {
+          "count": 1,
+          "unique": 1
+        }
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
+    },
+    "2025-01-07": {
+      "traffic": {
+        "count": 4,
+        "unique": 4
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "referrer": {}
+    },
+    "2025-01-08": {
+      "referrer": {
+        "github.com": {
+          "count": 2,
+          "unique": 2
+        },
+        "Google": {
+          "count": 2,
+          "unique": 1
         },
         "frischkorn-nicholas.medium.com": {
           "count": 1,
@@ -111981,6 +112131,30 @@
         }
       },
       "clones": {
+        "unique": 1,
+        "count": 1
+      },
+      "traffic": {
+        "count": 1,
+        "unique": 1
+      }
+    },
+    "2025-01-08": {
+      "referrer": {
+        "Google": {
+          "count": 4,
+          "unique": 4
+        },
+        "fhlipzero.io": {
+          "count": 1,
+          "unique": 1
+        },
+        "t.co": {
+          "count": 1,
+          "unique": 1
+        }
+      },
+      "clones": {
         "unique": 0,
         "count": 0
       },
@@ -119593,6 +119767,28 @@
       }
     },
     "2025-01-06": {
+      "referrer": {},
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
+    },
+    "2025-01-07": {
+      "traffic": {
+        "count": 2,
+        "unique": 1
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "referrer": {}
+    },
+    "2025-01-08": {
       "referrer": {},
       "clones": {
         "unique": 0,
@@ -128060,6 +128256,17 @@
     "2025-01-07": {
       "referrer": {},
       "clones": {
+        "unique": 1,
+        "count": 1
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
+    },
+    "2025-01-08": {
+      "referrer": {},
+      "clones": {
         "unique": 0,
         "count": 0
       },
@@ -135731,6 +135938,17 @@
     "2025-01-07": {
       "referrer": {},
       "clones": {
+        "unique": 1,
+        "count": 1
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
+    },
+    "2025-01-08": {
+      "referrer": {},
+      "clones": {
         "unique": 0,
         "count": 0
       },
@@ -141500,6 +141718,26 @@
         "unique": 0,
         "count": 0
       }
+    },
+    "2025-01-06": {
+      "clones": {
+        "unique": 1,
+        "count": 1
+      },
+      "traffic": {
+        "count": 2,
+        "unique": 2
+      }
+    },
+    "2025-01-07": {
+      "traffic": {
+        "count": 1,
+        "unique": 1
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      }
     }
   },
   "https://api.github.com/repos/MythicMeta/MythicContainerPyPi": {
@@ -146407,6 +146645,16 @@
       "traffic": {
         "count": 16,
         "unique": 6
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      }
+    },
+    "2025-01-07": {
+      "traffic": {
+        "count": 26,
+        "unique": 2
       },
       "clones": {
         "unique": 0,
@@ -152936,6 +153184,16 @@
         "unique": 0,
         "count": 0
       }
+    },
+    "2025-01-07": {
+      "traffic": {
+        "count": 4,
+        "unique": 4
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      }
     }
   },
   "https://api.github.com/repos/MythicMeta/Documentation": {
@@ -157343,6 +157601,16 @@
       "traffic": {
         "count": 2,
         "unique": 2
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      }
+    },
+    "2025-01-07": {
+      "traffic": {
+        "count": 12,
+        "unique": 5
       },
       "clones": {
         "unique": 0,
@@ -163630,6 +163898,16 @@
         "count": 0,
         "unique": 0
       }
+    },
+    "2025-01-07": {
+      "clones": {
+        "unique": 1,
+        "count": 2
+      },
+      "traffic": {
+        "count": 1,
+        "unique": 1
+      }
     }
   },
   "https://api.github.com/repos/MythicMeta/ExampleContainers": {
@@ -168982,6 +169260,16 @@
         "count": 19,
         "unique": 3
       }
+    },
+    "2025-01-07": {
+      "clones": {
+        "unique": 2,
+        "count": 2
+      },
+      "traffic": {
+        "count": 20,
+        "unique": 3
+      }
     }
   },
   "https://api.github.com/repos/MythicMeta/Mythic_Docker_Templates": {
@@ -173879,6 +174167,16 @@
       "traffic": {
         "count": 1,
         "unique": 1
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      }
+    },
+    "2025-01-07": {
+      "traffic": {
+        "count": 5,
+        "unique": 2
       },
       "clones": {
         "unique": 0,
