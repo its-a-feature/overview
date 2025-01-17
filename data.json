@@ -68,7 +68,7 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/Mythic/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/Mythic/deployments",
       "created_at": "2018-07-05T02:09:59Z",
-      "updated_at": "2025-01-14T13:04:06Z",
+      "updated_at": "2025-01-16T20:59:25Z",
       "pushed_at": "2024-12-31T23:24:13Z",
       "git_url": "git://github.com/its-a-feature/Mythic.git",
       "ssh_url": "git@github.com:its-a-feature/Mythic.git",
@@ -76,8 +76,8 @@
       "svn_url": "https://github.com/its-a-feature/Mythic",
       "homepage": "",
       "size": 672571,
-      "stargazers_count": 3373,
-      "watchers_count": 3373,
+      "stargazers_count": 3374,
+      "watchers_count": 3374,
       "language": "JavaScript",
       "has_issues": true,
       "has_projects": true,
@@ -85,7 +85,7 @@
       "has_wiki": false,
       "has_pages": false,
       "has_discussions": true,
-      "forks_count": 434,
+      "forks_count": 435,
       "mirror_url": null,
       "archived": false,
       "disabled": false,
@@ -102,9 +102,9 @@
       "web_commit_signoff_required": false,
       "topics": [],
       "visibility": "public",
-      "forks": 434,
+      "forks": 435,
       "open_issues": 16,
-      "watchers": 3373,
+      "watchers": 3374,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -141,7 +141,7 @@
           "status": "disabled"
         }
       },
-      "network_count": 434,
+      "network_count": 435,
       "subscribers_count": 68,
       "latest": {
         "branch": "master",
@@ -151,8 +151,8 @@
       },
       "category": "Mythic",
       "clones": {
-        "count": 254,
-        "uniques": 167
+        "count": 257,
+        "uniques": 170
       }
     },
     {
@@ -1349,7 +1349,7 @@
       "releases_url": "https://api.github.com/repos/D00MFist/Mystikal/releases{/id}",
       "deployments_url": "https://api.github.com/repos/D00MFist/Mystikal/deployments",
       "created_at": "2021-05-03T14:46:16Z",
-      "updated_at": "2025-01-12T14:25:02Z",
+      "updated_at": "2025-01-16T19:49:15Z",
       "pushed_at": "2024-01-10T15:48:12Z",
       "git_url": "git://github.com/D00MFist/Mystikal.git",
       "ssh_url": "git@github.com:D00MFist/Mystikal.git",
@@ -1357,8 +1357,8 @@
       "svn_url": "https://github.com/D00MFist/Mystikal",
       "homepage": null,
       "size": 1483,
-      "stargazers_count": 294,
-      "watchers_count": 294,
+      "stargazers_count": 295,
+      "watchers_count": 295,
       "language": "Python",
       "has_issues": true,
       "has_projects": true,
@@ -1385,7 +1385,7 @@
       "visibility": "public",
       "forks": 40,
       "open_issues": 1,
-      "watchers": 294,
+      "watchers": 295,
       "default_branch": "main",
       "permissions": {
         "admin": false,
@@ -2443,8 +2443,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 7,
-        "uniques": 7
+        "count": 6,
+        "uniques": 6
       }
     },
     {
@@ -3253,14 +3253,14 @@
       "releases_url": "https://api.github.com/repos/MythicMeta/overview/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicMeta/overview/deployments",
       "created_at": "2023-04-20T23:05:14Z",
-      "updated_at": "2025-01-15T01:29:37Z",
-      "pushed_at": "2025-01-15T01:29:35Z",
+      "updated_at": "2025-01-16T01:29:19Z",
+      "pushed_at": "2025-01-16T01:29:17Z",
       "git_url": "git://github.com/MythicMeta/overview.git",
       "ssh_url": "git@github.com:MythicMeta/overview.git",
       "clone_url": "https://github.com/MythicMeta/overview.git",
       "svn_url": "https://github.com/MythicMeta/overview",
       "homepage": null,
-      "size": 22972,
+      "size": 23005,
       "stargazers_count": 6,
       "watchers_count": 6,
       "language": "JavaScript",
@@ -3353,13 +3353,13 @@
       "latest": {
         "branch": "main",
         "commit_message": "update data via action",
-        "commit_date": 1736904574.0,
+        "commit_date": 1736990956.0,
         "icon": ""
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 43,
-        "uniques": 15
+        "count": 45,
+        "uniques": 17
       }
     },
     {
@@ -3536,7 +3536,7 @@
       "category": "MythicMeta",
       "clones": {
         "count": 9,
-        "uniques": 8
+        "uniques": 9
       }
     },
     {
@@ -3712,8 +3712,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 4,
-        "uniques": 4
+        "count": 3,
+        "uniques": 3
       }
     }
   ]
