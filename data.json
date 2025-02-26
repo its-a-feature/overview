@@ -68,7 +68,7 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/Mythic/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/Mythic/deployments",
       "created_at": "2018-07-05T02:09:59Z",
-      "updated_at": "2025-02-24T09:17:38Z",
+      "updated_at": "2025-02-25T23:02:10Z",
       "pushed_at": "2025-02-21T20:30:39Z",
       "git_url": "git://github.com/its-a-feature/Mythic.git",
       "ssh_url": "git@github.com:its-a-feature/Mythic.git",
@@ -76,8 +76,8 @@
       "svn_url": "https://github.com/its-a-feature/Mythic",
       "homepage": "",
       "size": 712746,
-      "stargazers_count": 3442,
-      "watchers_count": 3442,
+      "stargazers_count": 3444,
+      "watchers_count": 3444,
       "language": "JavaScript",
       "has_issues": true,
       "has_projects": true,
@@ -85,7 +85,7 @@
       "has_wiki": false,
       "has_pages": false,
       "has_discussions": true,
-      "forks_count": 446,
+      "forks_count": 448,
       "mirror_url": null,
       "archived": false,
       "disabled": false,
@@ -102,9 +102,9 @@
       "web_commit_signoff_required": false,
       "topics": [],
       "visibility": "public",
-      "forks": 446,
+      "forks": 448,
       "open_issues": 16,
-      "watchers": 3442,
+      "watchers": 3444,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -141,7 +141,7 @@
           "status": "disabled"
         }
       },
-      "network_count": 446,
+      "network_count": 448,
       "subscribers_count": 68,
       "latest": {
         "branch": "master",
@@ -151,8 +151,8 @@
       },
       "category": "Mythic",
       "clones": {
-        "count": 1580,
-        "uniques": 694
+        "count": 1558,
+        "uniques": 687
       }
     },
     {
@@ -306,8 +306,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 7,
-        "uniques": 6
+        "count": 8,
+        "uniques": 7
       }
     },
     {
@@ -378,7 +378,7 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/dylibHijackScanner/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/dylibHijackScanner/deployments",
       "created_at": "2022-09-08T21:17:39Z",
-      "updated_at": "2025-01-08T14:20:10Z",
+      "updated_at": "2025-02-25T18:04:28Z",
       "pushed_at": "2023-07-12T19:55:34Z",
       "git_url": "git://github.com/its-a-feature/dylibHijackScanner.git",
       "ssh_url": "git@github.com:its-a-feature/dylibHijackScanner.git",
@@ -386,8 +386,8 @@
       "svn_url": "https://github.com/its-a-feature/dylibHijackScanner",
       "homepage": null,
       "size": 78,
-      "stargazers_count": 37,
-      "watchers_count": 37,
+      "stargazers_count": 39,
+      "watchers_count": 39,
       "language": "Objective-C",
       "has_issues": true,
       "has_projects": true,
@@ -414,7 +414,7 @@
       "visibility": "public",
       "forks": 3,
       "open_issues": 0,
-      "watchers": 37,
+      "watchers": 39,
       "default_branch": "main",
       "permissions": {
         "admin": true,
@@ -926,8 +926,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 7,
-        "uniques": 6
+        "count": 6,
+        "uniques": 5
       }
     },
     {
@@ -1349,7 +1349,7 @@
       "releases_url": "https://api.github.com/repos/D00MFist/Mystikal/releases{/id}",
       "deployments_url": "https://api.github.com/repos/D00MFist/Mystikal/deployments",
       "created_at": "2021-05-03T14:46:16Z",
-      "updated_at": "2025-02-20T18:10:29Z",
+      "updated_at": "2025-02-25T22:29:17Z",
       "pushed_at": "2024-01-10T15:48:12Z",
       "git_url": "git://github.com/D00MFist/Mystikal.git",
       "ssh_url": "git@github.com:D00MFist/Mystikal.git",
@@ -1357,8 +1357,8 @@
       "svn_url": "https://github.com/D00MFist/Mystikal",
       "homepage": null,
       "size": 1483,
-      "stargazers_count": 300,
-      "watchers_count": 300,
+      "stargazers_count": 301,
+      "watchers_count": 301,
       "language": "Python",
       "has_issues": true,
       "has_projects": true,
@@ -1385,7 +1385,7 @@
       "visibility": "public",
       "forks": 39,
       "open_issues": 1,
-      "watchers": 300,
+      "watchers": 301,
       "default_branch": "main",
       "permissions": {
         "admin": false,
@@ -2089,8 +2089,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 1,
+        "uniques": 1
       }
     },
     {
@@ -2255,7 +2255,7 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 34,
+        "count": 29,
         "uniques": 22
       }
     },
@@ -3198,14 +3198,14 @@
       "releases_url": "https://api.github.com/repos/MythicMeta/overview/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicMeta/overview/deployments",
       "created_at": "2023-04-20T23:05:14Z",
-      "updated_at": "2025-02-24T01:42:49Z",
-      "pushed_at": "2025-02-24T01:42:45Z",
+      "updated_at": "2025-02-25T01:42:29Z",
+      "pushed_at": "2025-02-25T01:42:25Z",
       "git_url": "git://github.com/MythicMeta/overview.git",
       "ssh_url": "git@github.com:MythicMeta/overview.git",
       "clone_url": "https://github.com/MythicMeta/overview.git",
       "svn_url": "https://github.com/MythicMeta/overview",
       "homepage": null,
-      "size": 21770,
+      "size": 22725,
       "stargazers_count": 6,
       "watchers_count": 6,
       "language": "JavaScript",
@@ -3287,13 +3287,13 @@
       "latest": {
         "branch": "main",
         "commit_message": "update data via action",
-        "commit_date": 1740361364.0,
+        "commit_date": 1740447744.0,
         "icon": ""
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 87,
-        "uniques": 33
+        "count": 84,
+        "uniques": 31
       }
     },
     {
@@ -3624,8 +3624,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 3,
+        "uniques": 3
       }
     }
   ]
