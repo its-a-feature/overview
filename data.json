@@ -68,7 +68,7 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/Mythic/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/Mythic/deployments",
       "created_at": "2018-07-05T02:09:59Z",
-      "updated_at": "2025-03-05T21:47:29Z",
+      "updated_at": "2025-03-06T19:52:52Z",
       "pushed_at": "2025-03-05T21:47:26Z",
       "git_url": "git://github.com/its-a-feature/Mythic.git",
       "ssh_url": "git@github.com:its-a-feature/Mythic.git",
@@ -76,8 +76,8 @@
       "svn_url": "https://github.com/its-a-feature/Mythic",
       "homepage": "",
       "size": 701085,
-      "stargazers_count": 3454,
-      "watchers_count": 3454,
+      "stargazers_count": 3457,
+      "watchers_count": 3457,
       "language": "JavaScript",
       "has_issues": true,
       "has_projects": true,
@@ -89,7 +89,7 @@
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 17,
+      "open_issues_count": 15,
       "license": {
         "key": "other",
         "name": "Other",
@@ -103,8 +103,8 @@
       "topics": [],
       "visibility": "public",
       "forks": 448,
-      "open_issues": 17,
-      "watchers": 3454,
+      "open_issues": 15,
+      "watchers": 3457,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -142,7 +142,7 @@
         }
       },
       "network_count": 448,
-      "subscribers_count": 68,
+      "subscribers_count": 67,
       "latest": {
         "branch": "master",
         "commit_message": "Bump Mythic Dockerfile tag to match release 'v3.3.0.76'",
@@ -151,8 +151,8 @@
       },
       "category": "Mythic",
       "clones": {
-        "count": 1369,
-        "uniques": 774
+        "count": 1337,
+        "uniques": 739
       }
     },
     {
@@ -297,7 +297,7 @@
         }
       },
       "network_count": 6,
-      "subscribers_count": 6,
+      "subscribers_count": 5,
       "latest": {
         "branch": "main",
         "commit_message": "Adding in the slides for the presentation",
@@ -306,8 +306,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 5,
-        "uniques": 5
+        "count": 4,
+        "uniques": 4
       }
     },
     {
@@ -452,7 +452,7 @@
         }
       },
       "network_count": 3,
-      "subscribers_count": 3,
+      "subscribers_count": 2,
       "latest": {
         "branch": "main",
         "commit_message": "updated to support argc/argv as well\n\nnow works with poseido...",
@@ -607,7 +607,7 @@
         }
       },
       "network_count": 14,
-      "subscribers_count": 3,
+      "subscribers_count": 2,
       "latest": {
         "branch": "master",
         "commit_message": "orchard update\n\nUpdating Orchard to remove all of the non-ap...",
@@ -616,8 +616,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 6,
-        "uniques": 5
+        "count": 5,
+        "uniques": 4
       }
     },
     {
@@ -688,7 +688,7 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/HealthInspector/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/HealthInspector/deployments",
       "created_at": "2019-05-23T04:29:00Z",
-      "updated_at": "2025-02-13T13:38:33Z",
+      "updated_at": "2025-03-06T22:01:52Z",
       "pushed_at": "2022-02-18T17:42:06Z",
       "git_url": "git://github.com/its-a-feature/HealthInspector.git",
       "ssh_url": "git@github.com:its-a-feature/HealthInspector.git",
@@ -696,8 +696,8 @@
       "svn_url": "https://github.com/its-a-feature/HealthInspector",
       "homepage": null,
       "size": 150,
-      "stargazers_count": 73,
-      "watchers_count": 73,
+      "stargazers_count": 74,
+      "watchers_count": 74,
       "language": "JavaScript",
       "has_issues": true,
       "has_projects": true,
@@ -724,7 +724,7 @@
       "visibility": "public",
       "forks": 15,
       "open_issues": 0,
-      "watchers": 73,
+      "watchers": 74,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -762,7 +762,7 @@
         }
       },
       "network_count": 15,
-      "subscribers_count": 3,
+      "subscribers_count": 2,
       "latest": {
         "branch": "master",
         "commit_message": "added json for AVEnum",
@@ -917,7 +917,7 @@
         }
       },
       "network_count": 20,
-      "subscribers_count": 9,
+      "subscribers_count": 8,
       "latest": {
         "branch": "master",
         "commit_message": "updated bifrost to fix some parsing errors\n\nadded ability to...",
@@ -926,8 +926,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 6,
-        "uniques": 6
+        "count": 8,
+        "uniques": 8
       }
     },
     {
@@ -1268,7 +1268,7 @@
         }
       },
       "network_count": 15,
-      "subscribers_count": 1,
+      "subscribers_count": 0,
       "latest": {
         "branch": "master",
         "commit_message": "remove .DS_Store",
@@ -1349,7 +1349,7 @@
       "releases_url": "https://api.github.com/repos/D00MFist/Mystikal/releases{/id}",
       "deployments_url": "https://api.github.com/repos/D00MFist/Mystikal/deployments",
       "created_at": "2021-05-03T14:46:16Z",
-      "updated_at": "2025-02-25T22:29:17Z",
+      "updated_at": "2025-03-06T14:21:25Z",
       "pushed_at": "2024-01-10T15:48:12Z",
       "git_url": "git://github.com/D00MFist/Mystikal.git",
       "ssh_url": "git@github.com:D00MFist/Mystikal.git",
@@ -1357,8 +1357,8 @@
       "svn_url": "https://github.com/D00MFist/Mystikal",
       "homepage": null,
       "size": 1483,
-      "stargazers_count": 301,
-      "watchers_count": 301,
+      "stargazers_count": 302,
+      "watchers_count": 302,
       "language": "Python",
       "has_issues": true,
       "has_projects": true,
@@ -1385,7 +1385,7 @@
       "visibility": "public",
       "forks": 39,
       "open_issues": 1,
-      "watchers": 301,
+      "watchers": 302,
       "default_branch": "main",
       "permissions": {
         "admin": false,
@@ -1395,7 +1395,7 @@
         "pull": true
       },
       "network_count": 39,
-      "subscribers_count": 9,
+      "subscribers_count": 8,
       "latest": {
         "branch": "main",
         "commit_message": "Update PDF.py\n\ncleanup",
@@ -1522,7 +1522,7 @@
         "pull": true
       },
       "network_count": 27,
-      "subscribers_count": 15,
+      "subscribers_count": 14,
       "latest": {
         "branch": "master",
         "commit_message": "Update PrivilegedHelperToolSpoof.js",
@@ -1649,7 +1649,7 @@
         "pull": true
       },
       "network_count": 6,
-      "subscribers_count": 5,
+      "subscribers_count": 4,
       "latest": {
         "branch": "main",
         "commit_message": "Merge pull request #2 from m8sec/main\n\nUpdate Security Check...",
@@ -1770,7 +1770,7 @@
         "pull": true
       },
       "network_count": 2,
-      "subscribers_count": 3,
+      "subscribers_count": 2,
       "latest": {
         "branch": "main",
         "commit_message": "Merge pull request #2 from mattreduce/support-passing-userna...",
@@ -1925,7 +1925,7 @@
         }
       },
       "network_count": 1,
-      "subscribers_count": 4,
+      "subscribers_count": 3,
       "latest": {
         "branch": "main",
         "commit_message": "initial commit",
@@ -1934,8 +1934,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 4,
+        "uniques": 4
       }
     },
     {
@@ -2080,7 +2080,7 @@
         }
       },
       "network_count": 1,
-      "subscribers_count": 2,
+      "subscribers_count": 1,
       "latest": {
         "branch": "main",
         "commit_message": "Initial push of a simple CLI webcam stealer utility",
@@ -2255,8 +2255,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 52,
-        "uniques": 43
+        "count": 75,
+        "uniques": 55
       }
     },
     {
@@ -2421,8 +2421,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 23,
-        "uniques": 11
+        "count": 28,
+        "uniques": 16
       }
     },
     {
@@ -2957,7 +2957,7 @@
         }
       },
       "network_count": 11,
-      "subscribers_count": 4,
+      "subscribers_count": 3,
       "latest": {
         "branch": "master",
         "commit_message": "adding license",
@@ -3055,7 +3055,7 @@
       "has_wiki": true,
       "has_pages": false,
       "has_discussions": false,
-      "forks_count": 6,
+      "forks_count": 7,
       "mirror_url": null,
       "archived": false,
       "disabled": false,
@@ -3066,7 +3066,7 @@
       "web_commit_signoff_required": false,
       "topics": [],
       "visibility": "public",
-      "forks": 6,
+      "forks": 7,
       "open_issues": 0,
       "watchers": 9,
       "default_branch": "primary",
@@ -3116,7 +3116,7 @@
           "status": "disabled"
         }
       },
-      "network_count": 6,
+      "network_count": 7,
       "subscribers_count": 2,
       "latest": {
         "branch": "primary",
@@ -3198,14 +3198,14 @@
       "releases_url": "https://api.github.com/repos/MythicMeta/overview/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicMeta/overview/deployments",
       "created_at": "2023-04-20T23:05:14Z",
-      "updated_at": "2025-03-05T01:43:35Z",
-      "pushed_at": "2025-03-05T01:43:31Z",
+      "updated_at": "2025-03-06T01:43:22Z",
+      "pushed_at": "2025-03-06T01:43:18Z",
       "git_url": "git://github.com/MythicMeta/overview.git",
       "ssh_url": "git@github.com:MythicMeta/overview.git",
       "clone_url": "https://github.com/MythicMeta/overview.git",
       "svn_url": "https://github.com/MythicMeta/overview",
       "homepage": null,
-      "size": 26736,
+      "size": 26789,
       "stargazers_count": 6,
       "watchers_count": 6,
       "language": "JavaScript",
@@ -3287,13 +3287,13 @@
       "latest": {
         "branch": "main",
         "commit_message": "update data via action",
-        "commit_date": 1741139010.0,
+        "commit_date": 1741225398.0,
         "icon": ""
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 69,
-        "uniques": 29
+        "count": 68,
+        "uniques": 28
       }
     },
     {
@@ -3458,8 +3458,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 29,
-        "uniques": 22
+        "count": 30,
+        "uniques": 23
       }
     },
     {
@@ -3615,7 +3615,7 @@
         }
       },
       "network_count": 3,
-      "subscribers_count": 3,
+      "subscribers_count": 2,
       "latest": {
         "branch": "master",
         "commit_message": "updating go version for python containers",
@@ -3624,8 +3624,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 5,
-        "uniques": 5
+        "count": 7,
+        "uniques": 7
       }
     }
   ]
