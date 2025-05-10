@@ -36828,8 +36828,8 @@
         "count": 55
       },
       "traffic": {
-        "count": 134,
-        "unique": 79
+        "count": 130,
+        "unique": 78
       }
     },
     "2025-04-27": {
@@ -37448,12 +37448,12 @@
         }
       },
       "clones": {
-        "unique": 66,
-        "count": 93
+        "unique": 68,
+        "count": 95
       },
       "traffic": {
-        "count": 437,
-        "unique": 144
+        "count": 440,
+        "unique": 146
       }
     },
     "2025-05-09": {
@@ -37497,6 +37497,58 @@
         "specterops.io": {
           "count": 15,
           "unique": 13
+        }
+      },
+      "clones": {
+        "unique": 67,
+        "count": 91
+      },
+      "traffic": {
+        "count": 281,
+        "unique": 123
+      }
+    },
+    "2025-05-10": {
+      "referrer": {
+        "Google": {
+          "count": 1222,
+          "unique": 586
+        },
+        "github.com": {
+          "count": 290,
+          "unique": 137
+        },
+        "docs.mythic-c2.net": {
+          "count": 220,
+          "unique": 57
+        },
+        "chatgpt.com": {
+          "count": 105,
+          "unique": 71
+        },
+        "Bing": {
+          "count": 55,
+          "unique": 28
+        },
+        "search.brave.com": {
+          "count": 49,
+          "unique": 25
+        },
+        "DuckDuckGo": {
+          "count": 45,
+          "unique": 30
+        },
+        "academy.hackthebox.com": {
+          "count": 36,
+          "unique": 33
+        },
+        "academy.intel-ops.io": {
+          "count": 36,
+          "unique": 5
+        },
+        "specterops.io": {
+          "count": 19,
+          "unique": 17
         }
       },
       "clones": {
@@ -56029,6 +56081,26 @@
         "count": 0,
         "unique": 0
       }
+    },
+    "2025-05-10": {
+      "referrer": {
+        "github.com": {
+          "count": 6,
+          "unique": 5
+        },
+        "Google": {
+          "count": 5,
+          "unique": 3
+        }
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
     }
   },
   "https://api.github.com/repos/its-a-feature/dylibHijackScanner": {
@@ -70047,6 +70119,26 @@
       }
     },
     "2025-05-09": {
+      "referrer": {
+        "Google": {
+          "count": 4,
+          "unique": 4
+        },
+        "github.com": {
+          "count": 2,
+          "unique": 2
+        }
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
+    },
+    "2025-05-10": {
       "referrer": {
         "Google": {
           "count": 4,
@@ -89336,6 +89428,38 @@
         "count": 0
       },
       "traffic": {
+        "count": 7,
+        "unique": 2
+      }
+    },
+    "2025-05-10": {
+      "referrer": {
+        "Google": {
+          "count": 8,
+          "unique": 7
+        },
+        "github.com": {
+          "count": 6,
+          "unique": 5
+        },
+        "frischkorn-nicholas.medium.com": {
+          "count": 2,
+          "unique": 1
+        },
+        "posts.specterops.io": {
+          "count": 1,
+          "unique": 1
+        },
+        "search.brave.com": {
+          "count": 1,
+          "unique": 1
+        }
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "traffic": {
         "count": 0,
         "unique": 0
       }
@@ -107522,6 +107646,42 @@
           "unique": 3
         },
         "Google": {
+          "count": 3,
+          "unique": 3
+        },
+        "Bing": {
+          "count": 2,
+          "unique": 1
+        },
+        "statics.teams.cdn.office.net": {
+          "count": 1,
+          "unique": 1
+        },
+        "posts.specterops.io": {
+          "count": 1,
+          "unique": 1
+        }
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "traffic": {
+        "count": 6,
+        "unique": 6
+      }
+    },
+    "2025-05-10": {
+      "referrer": {
+        "Google": {
+          "count": 6,
+          "unique": 4
+        },
+        "github.com": {
+          "count": 6,
+          "unique": 4
+        },
+        "frischkorn-nicholas.medium.com": {
           "count": 3,
           "unique": 3
         },
@@ -131228,6 +131388,30 @@
         "count": 0
       },
       "traffic": {
+        "count": 3,
+        "unique": 2
+      }
+    },
+    "2025-05-10": {
+      "referrer": {
+        "Google": {
+          "count": 23,
+          "unique": 4
+        },
+        "github.com": {
+          "count": 22,
+          "unique": 9
+        },
+        "posts.specterops.io": {
+          "count": 9,
+          "unique": 4
+        }
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "traffic": {
         "count": 0,
         "unique": 0
       }
@@ -140125,6 +140309,17 @@
       }
     },
     "2025-05-09": {
+      "referrer": {},
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
+    },
+    "2025-05-10": {
       "referrer": {},
       "clones": {
         "unique": 0,
@@ -149960,6 +150155,17 @@
         "count": 0,
         "unique": 0
       }
+    },
+    "2025-05-10": {
+      "referrer": {},
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
     }
   },
   "https://api.github.com/repos/its-a-feature/macOSCameraCapture": {
@@ -158846,6 +159052,17 @@
         "count": 0,
         "unique": 0
       }
+    },
+    "2025-05-10": {
+      "referrer": {},
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
     }
   },
   "https://api.github.com/repos/MythicMeta/MythicContainer": {
@@ -165738,6 +165955,16 @@
         "count": 14,
         "unique": 2
       }
+    },
+    "2025-05-09": {
+      "clones": {
+        "unique": 1,
+        "count": 5
+      },
+      "traffic": {
+        "count": 3,
+        "unique": 2
+      }
     }
   },
   "https://api.github.com/repos/MythicMeta/MythicContainerPyPi": {
@@ -171755,6 +171982,16 @@
       "traffic": {
         "count": 18,
         "unique": 6
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      }
+    },
+    "2025-05-09": {
+      "traffic": {
+        "count": 2,
+        "unique": 1
       },
       "clones": {
         "unique": 0,
@@ -179598,6 +179835,16 @@
     "2025-05-08": {
       "traffic": {
         "count": 35,
+        "unique": 5
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      }
+    },
+    "2025-05-09": {
+      "traffic": {
+        "count": 12,
         "unique": 5
       },
       "clones": {
@@ -192248,6 +192495,16 @@
         "count": 0,
         "unique": 0
       }
+    },
+    "2025-05-09": {
+      "clones": {
+        "unique": 5,
+        "count": 7
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
     }
   },
   "https://api.github.com/repos/MythicMeta/ExampleContainers": {
@@ -198603,8 +198860,8 @@
     },
     "2025-04-26": {
       "traffic": {
-        "count": 37,
-        "unique": 2
+        "count": 19,
+        "unique": 1
       },
       "clones": {
         "unique": 0,
@@ -198729,6 +198986,16 @@
       "clones": {
         "unique": 0,
         "count": 0
+      }
+    },
+    "2025-05-09": {
+      "clones": {
+        "unique": 1,
+        "count": 1
+      },
+      "traffic": {
+        "count": 20,
+        "unique": 5
       }
     }
   },
