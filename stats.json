@@ -39268,12 +39268,12 @@
         }
       },
       "clones": {
-        "unique": 86,
-        "count": 171
+        "unique": 84,
+        "count": 169
       },
       "traffic": {
-        "count": 382,
-        "unique": 179
+        "count": 377,
+        "unique": 176
       }
     },
     "2025-06-13": {
@@ -39892,12 +39892,12 @@
         }
       },
       "clones": {
-        "unique": 107,
-        "count": 356
+        "unique": 110,
+        "count": 565
       },
       "traffic": {
-        "count": 410,
-        "unique": 191
+        "count": 428,
+        "unique": 197
       }
     },
     "2025-06-25": {
@@ -39941,6 +39941,58 @@
         "youtube.com": {
           "count": 10,
           "unique": 7
+        }
+      },
+      "clones": {
+        "unique": 85,
+        "count": 130
+      },
+      "traffic": {
+        "count": 369,
+        "unique": 152
+      }
+    },
+    "2025-06-26": {
+      "referrer": {
+        "Google": {
+          "count": 1315,
+          "unique": 715
+        },
+        "github.com": {
+          "count": 198,
+          "unique": 131
+        },
+        "docs.mythic-c2.net": {
+          "count": 184,
+          "unique": 58
+        },
+        "chatgpt.com": {
+          "count": 177,
+          "unique": 92
+        },
+        "Bing": {
+          "count": 82,
+          "unique": 42
+        },
+        "academy.hackthebox.com": {
+          "count": 55,
+          "unique": 41
+        },
+        "search.brave.com": {
+          "count": 50,
+          "unique": 31
+        },
+        "DuckDuckGo": {
+          "count": 37,
+          "unique": 24
+        },
+        "specterops.io": {
+          "count": 19,
+          "unique": 15
+        },
+        "youtube.com": {
+          "count": 11,
+          "unique": 8
         }
       },
       "clones": {
@@ -59622,6 +59674,26 @@
         "count": 0
       },
       "traffic": {
+        "count": 8,
+        "unique": 7
+      }
+    },
+    "2025-06-26": {
+      "referrer": {
+        "Google": {
+          "count": 7,
+          "unique": 5
+        },
+        "github.com": {
+          "count": 2,
+          "unique": 2
+        }
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "traffic": {
         "count": 0,
         "unique": 0
       }
@@ -74578,14 +74650,38 @@
         "count": 0
       },
       "traffic": {
-        "count": 3,
-        "unique": 1
+        "count": 4,
+        "unique": 2
       }
     },
     "2025-06-25": {
       "referrer": {
         "Google": {
           "count": 19,
+          "unique": 10
+        },
+        "github.com": {
+          "count": 6,
+          "unique": 2
+        },
+        "cn.bing.com": {
+          "count": 1,
+          "unique": 1
+        }
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "traffic": {
+        "count": 2,
+        "unique": 2
+      }
+    },
+    "2025-06-26": {
+      "referrer": {
+        "Google": {
+          "count": 15,
           "unique": 10
         },
         "github.com": {
@@ -95244,6 +95340,30 @@
         }
       },
       "clones": {
+        "unique": 1,
+        "count": 1
+      },
+      "traffic": {
+        "count": 1,
+        "unique": 1
+      }
+    },
+    "2025-06-26": {
+      "referrer": {
+        "github.com": {
+          "count": 4,
+          "unique": 3
+        },
+        "Google": {
+          "count": 2,
+          "unique": 2
+        },
+        "posts.specterops.io": {
+          "count": 1,
+          "unique": 1
+        }
+      },
+      "clones": {
         "unique": 0,
         "count": 0
       },
@@ -114732,6 +114852,30 @@
         "github.com": {
           "count": 5,
           "unique": 2
+        },
+        "posts.specterops.io": {
+          "count": 1,
+          "unique": 1
+        }
+      },
+      "clones": {
+        "unique": 1,
+        "count": 1
+      },
+      "traffic": {
+        "count": 2,
+        "unique": 2
+      }
+    },
+    "2025-06-26": {
+      "referrer": {
+        "Google": {
+          "count": 9,
+          "unique": 3
+        },
+        "github.com": {
+          "count": 5,
+          "unique": 3
         },
         "posts.specterops.io": {
           "count": 1,
@@ -139964,6 +140108,50 @@
         "count": 0
       },
       "traffic": {
+        "count": 1,
+        "unique": 1
+      }
+    },
+    "2025-06-26": {
+      "referrer": {
+        "github.com": {
+          "count": 14,
+          "unique": 1
+        },
+        "Google": {
+          "count": 9,
+          "unique": 6
+        },
+        "Bing": {
+          "count": 2,
+          "unique": 2
+        },
+        "valhalla.nextron-systems.com": {
+          "count": 1,
+          "unique": 1
+        },
+        "posts.specterops.io": {
+          "count": 1,
+          "unique": 1
+        },
+        "t.co": {
+          "count": 1,
+          "unique": 1
+        },
+        "schellman.com": {
+          "count": 1,
+          "unique": 1
+        },
+        "elastic.co": {
+          "count": 1,
+          "unique": 1
+        }
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "traffic": {
         "count": 0,
         "unique": 0
       }
@@ -149378,6 +149566,17 @@
       }
     },
     "2025-06-25": {
+      "referrer": {},
+      "clones": {
+        "unique": 1,
+        "count": 1
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
+    },
+    "2025-06-26": {
       "referrer": {},
       "clones": {
         "unique": 0,
@@ -159730,6 +159929,17 @@
         "count": 0,
         "unique": 0
       }
+    },
+    "2025-06-26": {
+      "referrer": {},
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
     }
   },
   "https://api.github.com/repos/its-a-feature/macOSCameraCapture": {
@@ -169190,6 +169400,17 @@
         "count": 0
       },
       "traffic": {
+        "count": 1,
+        "unique": 1
+      }
+    },
+    "2025-06-26": {
+      "referrer": {},
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "traffic": {
         "count": 0,
         "unique": 0
       }
@@ -176525,6 +176746,16 @@
         "unique": 0,
         "count": 0
       }
+    },
+    "2025-06-25": {
+      "traffic": {
+        "count": 4,
+        "unique": 1
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      }
     }
   },
   "https://api.github.com/repos/MythicMeta/MythicContainerPyPi": {
@@ -182976,6 +183207,16 @@
       "clones": {
         "unique": 0,
         "count": 0
+      }
+    },
+    "2025-06-25": {
+      "clones": {
+        "unique": 1,
+        "count": 1
+      },
+      "traffic": {
+        "count": 9,
+        "unique": 2
       }
     }
   },
@@ -191330,6 +191571,16 @@
       "traffic": {
         "count": 15,
         "unique": 8
+      }
+    },
+    "2025-06-25": {
+      "clones": {
+        "unique": 1,
+        "count": 2
+      },
+      "traffic": {
+        "count": 7,
+        "unique": 4
       }
     }
   },
@@ -204785,6 +205036,16 @@
         "count": 1,
         "unique": 1
       }
+    },
+    "2025-06-25": {
+      "clones": {
+        "unique": 4,
+        "count": 5
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
     }
   },
   "https://api.github.com/repos/MythicMeta/ExampleContainers": {
@@ -211707,6 +211968,16 @@
         "count": 57,
         "unique": 5
       }
+    },
+    "2025-06-25": {
+      "clones": {
+        "unique": 1,
+        "count": 1
+      },
+      "traffic": {
+        "count": 10,
+        "unique": 3
+      }
     }
   },
   "https://api.github.com/repos/MythicMeta/Mythic_Docker_Templates": {
@@ -217794,6 +218065,16 @@
       "traffic": {
         "count": 9,
         "unique": 5
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      }
+    },
+    "2025-06-25": {
+      "traffic": {
+        "count": 3,
+        "unique": 2
       },
       "clones": {
         "unique": 0,
