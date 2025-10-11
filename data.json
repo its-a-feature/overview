@@ -68,16 +68,16 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/Mythic/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/Mythic/deployments",
       "created_at": "2018-07-05T02:09:59Z",
-      "updated_at": "2025-10-09T18:43:20Z",
-      "pushed_at": "2025-10-09T16:38:30Z",
+      "updated_at": "2025-10-10T17:27:01Z",
+      "pushed_at": "2025-10-10T17:04:34Z",
       "git_url": "git://github.com/its-a-feature/Mythic.git",
       "ssh_url": "git@github.com:its-a-feature/Mythic.git",
       "clone_url": "https://github.com/its-a-feature/Mythic.git",
       "svn_url": "https://github.com/its-a-feature/Mythic",
       "homepage": "",
-      "size": 757402,
-      "stargazers_count": 4023,
-      "watchers_count": 4023,
+      "size": 757410,
+      "stargazers_count": 4026,
+      "watchers_count": 4026,
       "language": "JavaScript",
       "has_issues": true,
       "has_projects": true,
@@ -104,7 +104,7 @@
       "visibility": "public",
       "forks": 529,
       "open_issues": 21,
-      "watchers": 4023,
+      "watchers": 4026,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -145,14 +145,14 @@
       "subscribers_count": 71,
       "latest": {
         "branch": "master",
-        "commit_message": "Bump Mythic Dockerfile tag to match release 'v3.4.0.5'",
-        "commit_date": 1760027909.0,
+        "commit_message": "Bump Mythic Dockerfile tag to match release 'v3.4.0.7'",
+        "commit_date": 1760115873.0,
         "icon": ""
       },
       "category": "Mythic",
       "clones": {
-        "count": 2023,
-        "uniques": 1057
+        "count": 2093,
+        "uniques": 1084
       }
     },
     {
@@ -461,8 +461,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 2,
+        "uniques": 2
       }
     },
     {
@@ -616,8 +616,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 12,
-        "uniques": 6
+        "count": 11,
+        "uniques": 5
       }
     },
     {
@@ -771,8 +771,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 12,
-        "uniques": 7
+        "count": 10,
+        "uniques": 5
       }
     },
     {
@@ -1522,7 +1522,7 @@
         "pull": true
       },
       "network_count": 28,
-      "subscribers_count": 13,
+      "subscribers_count": 12,
       "latest": {
         "branch": "master",
         "commit_message": "Update PrivilegedHelperToolSpoof.js",
@@ -1934,8 +1934,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 1,
+        "uniques": 1
       }
     },
     {
@@ -2255,8 +2255,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 45,
-        "uniques": 28
+        "count": 46,
+        "uniques": 29
       }
     },
     {
@@ -2421,8 +2421,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 15,
-        "uniques": 13
+        "count": 16,
+        "uniques": 14
       }
     },
     {
@@ -2873,14 +2873,14 @@
       "releases_url": "https://api.github.com/repos/MythicMeta/Mythic_Scripting/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicMeta/Mythic_Scripting/deployments",
       "created_at": "2021-03-22T04:43:23Z",
-      "updated_at": "2025-10-08T18:46:33Z",
-      "pushed_at": "2025-10-08T18:46:39Z",
+      "updated_at": "2025-10-10T16:27:55Z",
+      "pushed_at": "2025-10-10T16:27:59Z",
       "git_url": "git://github.com/MythicMeta/Mythic_Scripting.git",
       "ssh_url": "git@github.com:MythicMeta/Mythic_Scripting.git",
       "clone_url": "https://github.com/MythicMeta/Mythic_Scripting.git",
       "svn_url": "https://github.com/MythicMeta/Mythic_Scripting",
       "homepage": null,
-      "size": 219,
+      "size": 244,
       "stargazers_count": 24,
       "watchers_count": 24,
       "language": "Python",
@@ -2961,14 +2961,14 @@
       "subscribers_count": 3,
       "latest": {
         "branch": "master",
-        "commit_message": "hardcoding ssl to false in one more spot",
-        "commit_date": 1759949187.0,
+        "commit_message": "fixing payload builds and auth errors",
+        "commit_date": 1760113668.0,
         "icon": ""
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 18,
-        "uniques": 16
+        "count": 24,
+        "uniques": 21
       }
     },
     {
@@ -3199,14 +3199,14 @@
       "releases_url": "https://api.github.com/repos/MythicMeta/overview/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicMeta/overview/deployments",
       "created_at": "2023-04-20T23:05:14Z",
-      "updated_at": "2025-10-09T01:46:05Z",
-      "pushed_at": "2025-10-09T01:46:01Z",
+      "updated_at": "2025-10-10T01:46:32Z",
+      "pushed_at": "2025-10-10T01:46:28Z",
       "git_url": "git://github.com/MythicMeta/overview.git",
       "ssh_url": "git@github.com:MythicMeta/overview.git",
       "clone_url": "https://github.com/MythicMeta/overview.git",
       "svn_url": "https://github.com/MythicMeta/overview",
       "homepage": null,
-      "size": 20428,
+      "size": 20437,
       "stargazers_count": 8,
       "watchers_count": 8,
       "language": "JavaScript",
@@ -3288,13 +3288,13 @@
       "latest": {
         "branch": "main",
         "commit_message": "update data via action",
-        "commit_date": 1759974360.0,
+        "commit_date": 1760060786.0,
         "icon": ""
       },
       "category": "MythicMeta",
       "clones": {
         "count": 119,
-        "uniques": 40
+        "uniques": 37
       }
     },
     {
@@ -3459,8 +3459,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 30,
-        "uniques": 23
+        "count": 33,
+        "uniques": 25
       }
     },
     {
@@ -3625,8 +3625,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 26,
-        "uniques": 8
+        "count": 27,
+        "uniques": 9
       }
     }
   ]
