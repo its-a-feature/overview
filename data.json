@@ -68,7 +68,7 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/Mythic/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/Mythic/deployments",
       "created_at": "2018-07-05T02:09:59Z",
-      "updated_at": "2025-12-11T17:42:50Z",
+      "updated_at": "2025-12-12T07:39:43Z",
       "pushed_at": "2025-12-11T17:42:47Z",
       "git_url": "git://github.com/its-a-feature/Mythic.git",
       "ssh_url": "git@github.com:its-a-feature/Mythic.git",
@@ -151,8 +151,8 @@
       },
       "category": "Mythic",
       "clones": {
-        "count": 2676,
-        "uniques": 1160
+        "count": 2633,
+        "uniques": 1151
       }
     },
     {
@@ -461,8 +461,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 4,
-        "uniques": 4
+        "count": 5,
+        "uniques": 5
       }
     },
     {
@@ -771,7 +771,7 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 9,
+        "count": 8,
         "uniques": 7
       }
     },
@@ -926,8 +926,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 7,
-        "uniques": 7
+        "count": 10,
+        "uniques": 9
       }
     },
     {
@@ -2089,8 +2089,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 5,
-        "uniques": 5
+        "count": 6,
+        "uniques": 6
       }
     },
     {
@@ -2255,8 +2255,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 122,
-        "uniques": 85
+        "count": 115,
+        "uniques": 82
       }
     },
     {
@@ -2873,7 +2873,7 @@
       "releases_url": "https://api.github.com/repos/MythicMeta/Mythic_Scripting/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicMeta/Mythic_Scripting/deployments",
       "created_at": "2021-03-22T04:43:23Z",
-      "updated_at": "2025-11-15T17:21:33Z",
+      "updated_at": "2025-12-12T04:19:26Z",
       "pushed_at": "2025-10-10T16:27:59Z",
       "git_url": "git://github.com/MythicMeta/Mythic_Scripting.git",
       "ssh_url": "git@github.com:MythicMeta/Mythic_Scripting.git",
@@ -2881,8 +2881,8 @@
       "svn_url": "https://github.com/MythicMeta/Mythic_Scripting",
       "homepage": null,
       "size": 244,
-      "stargazers_count": 26,
-      "watchers_count": 26,
+      "stargazers_count": 27,
+      "watchers_count": 27,
       "language": "Python",
       "has_issues": true,
       "has_projects": true,
@@ -2909,7 +2909,7 @@
       "visibility": "public",
       "forks": 12,
       "open_issues": 1,
-      "watchers": 26,
+      "watchers": 27,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -2967,8 +2967,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 159,
-        "uniques": 157
+        "count": 167,
+        "uniques": 165
       }
     },
     {
@@ -3199,14 +3199,14 @@
       "releases_url": "https://api.github.com/repos/MythicMeta/overview/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicMeta/overview/deployments",
       "created_at": "2023-04-20T23:05:14Z",
-      "updated_at": "2025-12-11T02:01:39Z",
-      "pushed_at": "2025-12-11T02:01:36Z",
+      "updated_at": "2025-12-12T17:46:48Z",
+      "pushed_at": "2025-12-12T17:46:44Z",
       "git_url": "git://github.com/MythicMeta/overview.git",
       "ssh_url": "git@github.com:MythicMeta/overview.git",
       "clone_url": "https://github.com/MythicMeta/overview.git",
       "svn_url": "https://github.com/MythicMeta/overview",
       "homepage": null,
-      "size": 25531,
+      "size": 26994,
       "stargazers_count": 8,
       "watchers_count": 8,
       "language": "JavaScript",
@@ -3288,13 +3288,13 @@
       "latest": {
         "branch": "main",
         "commit_message": "update data via action",
-        "commit_date": 1765418494.0,
+        "commit_date": 1765561602.0,
         "icon": ""
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 162,
-        "uniques": 85
+        "count": 171,
+        "uniques": 89
       }
     },
     {
@@ -3459,8 +3459,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 55,
-        "uniques": 38
+        "count": 53,
+        "uniques": 37
       }
     },
     {
@@ -3625,8 +3625,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 5,
-        "uniques": 5
+        "count": 6,
+        "uniques": 6
       }
     }
   ]
