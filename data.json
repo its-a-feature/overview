@@ -68,7 +68,7 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/Mythic/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/Mythic/deployments",
       "created_at": "2018-07-05T02:09:59Z",
-      "updated_at": "2026-02-12T20:31:09Z",
+      "updated_at": "2026-02-13T21:16:52Z",
       "pushed_at": "2026-02-12T15:31:46Z",
       "git_url": "git://github.com/its-a-feature/Mythic.git",
       "ssh_url": "git@github.com:its-a-feature/Mythic.git",
@@ -76,8 +76,8 @@
       "svn_url": "https://github.com/its-a-feature/Mythic",
       "homepage": "",
       "size": 1040929,
-      "stargazers_count": 4298,
-      "watchers_count": 4298,
+      "stargazers_count": 4299,
+      "watchers_count": 4299,
       "language": "JavaScript",
       "has_issues": true,
       "has_projects": true,
@@ -85,11 +85,11 @@
       "has_wiki": false,
       "has_pages": false,
       "has_discussions": true,
-      "forks_count": 556,
+      "forks_count": 557,
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 34,
+      "open_issues_count": 35,
       "license": {
         "key": "other",
         "name": "Other",
@@ -100,11 +100,13 @@
       "allow_forking": true,
       "is_template": false,
       "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [],
       "visibility": "public",
-      "forks": 556,
-      "open_issues": 34,
-      "watchers": 4298,
+      "forks": 557,
+      "open_issues": 35,
+      "watchers": 4299,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -141,7 +143,7 @@
           "status": "disabled"
         }
       },
-      "network_count": 556,
+      "network_count": 557,
       "subscribers_count": 73,
       "latest": {
         "branch": "dependabot/npm_and_y...",
@@ -150,8 +152,8 @@
       },
       "category": "Mythic",
       "clones": {
-        "count": 3262,
-        "uniques": 1312
+        "count": 3213,
+        "uniques": 1253
       }
     },
     {
@@ -254,6 +256,8 @@
       "allow_forking": true,
       "is_template": false,
       "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [],
       "visibility": "public",
       "forks": 6,
@@ -377,7 +381,7 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/dylibHijackScanner/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/dylibHijackScanner/deployments",
       "created_at": "2022-09-08T21:17:39Z",
-      "updated_at": "2026-01-13T11:16:39Z",
+      "updated_at": "2026-02-13T18:45:51Z",
       "pushed_at": "2023-07-12T19:55:34Z",
       "git_url": "git://github.com/its-a-feature/dylibHijackScanner.git",
       "ssh_url": "git@github.com:its-a-feature/dylibHijackScanner.git",
@@ -385,8 +389,8 @@
       "svn_url": "https://github.com/its-a-feature/dylibHijackScanner",
       "homepage": null,
       "size": 78,
-      "stargazers_count": 38,
-      "watchers_count": 38,
+      "stargazers_count": 39,
+      "watchers_count": 39,
       "language": "Objective-C",
       "has_issues": true,
       "has_projects": true,
@@ -409,11 +413,13 @@
       "allow_forking": true,
       "is_template": false,
       "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [],
       "visibility": "public",
       "forks": 3,
       "open_issues": 0,
-      "watchers": 38,
+      "watchers": 39,
       "default_branch": "main",
       "permissions": {
         "admin": true,
@@ -460,8 +466,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 2,
+        "uniques": 2
       }
     },
     {
@@ -564,6 +570,8 @@
       "allow_forking": true,
       "is_template": false,
       "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [],
       "visibility": "public",
       "forks": 14,
@@ -615,7 +623,7 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 5,
+        "count": 6,
         "uniques": 4
       }
     },
@@ -719,6 +727,8 @@
       "allow_forking": true,
       "is_template": false,
       "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [],
       "visibility": "public",
       "forks": 15,
@@ -770,8 +780,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 14,
-        "uniques": 10
+        "count": 17,
+        "uniques": 11
       }
     },
     {
@@ -874,6 +884,8 @@
       "allow_forking": true,
       "is_template": false,
       "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [],
       "visibility": "public",
       "forks": 20,
@@ -1023,6 +1035,8 @@
       "allow_forking": true,
       "is_template": false,
       "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [],
       "visibility": "public",
       "forks": 1,
@@ -1141,6 +1155,8 @@
         "allow_forking": true,
         "is_template": false,
         "web_commit_signoff_required": false,
+        "has_pull_requests": true,
+        "pull_request_creation_policy": "all",
         "topics": [],
         "visibility": "public",
         "forks": 15,
@@ -1242,6 +1258,8 @@
         "allow_forking": true,
         "is_template": false,
         "web_commit_signoff_required": false,
+        "has_pull_requests": true,
+        "pull_request_creation_policy": "all",
         "topics": [],
         "visibility": "public",
         "forks": 15,
@@ -1348,7 +1366,7 @@
       "releases_url": "https://api.github.com/repos/D00MFist/Mystikal/releases{/id}",
       "deployments_url": "https://api.github.com/repos/D00MFist/Mystikal/deployments",
       "created_at": "2021-05-03T14:46:16Z",
-      "updated_at": "2026-01-14T16:56:15Z",
+      "updated_at": "2026-02-13T06:38:54Z",
       "pushed_at": "2024-01-10T15:48:12Z",
       "git_url": "git://github.com/D00MFist/Mystikal.git",
       "ssh_url": "git@github.com:D00MFist/Mystikal.git",
@@ -1356,8 +1374,8 @@
       "svn_url": "https://github.com/D00MFist/Mystikal",
       "homepage": null,
       "size": 1483,
-      "stargazers_count": 322,
-      "watchers_count": 322,
+      "stargazers_count": 323,
+      "watchers_count": 323,
       "language": "Python",
       "has_issues": true,
       "has_projects": true,
@@ -1380,11 +1398,13 @@
       "allow_forking": true,
       "is_template": false,
       "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [],
       "visibility": "public",
       "forks": 41,
       "open_issues": 1,
-      "watchers": 322,
+      "watchers": 323,
       "default_branch": "main",
       "permissions": {
         "admin": false,
@@ -1507,6 +1527,8 @@
       "allow_forking": true,
       "is_template": false,
       "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [],
       "visibility": "public",
       "forks": 28,
@@ -1634,6 +1656,8 @@
       "allow_forking": true,
       "is_template": false,
       "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [],
       "visibility": "public",
       "forks": 6,
@@ -1755,6 +1779,8 @@
       "allow_forking": true,
       "is_template": false,
       "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [],
       "visibility": "public",
       "forks": 2,
@@ -1882,6 +1908,8 @@
       "allow_forking": true,
       "is_template": false,
       "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [],
       "visibility": "public",
       "forks": 1,
@@ -1933,8 +1961,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 4,
-        "uniques": 4
+        "count": 3,
+        "uniques": 3
       }
     },
     {
@@ -2037,6 +2065,8 @@
       "allow_forking": true,
       "is_template": false,
       "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [],
       "visibility": "public",
       "forks": 1,
@@ -2177,7 +2207,7 @@
       "has_wiki": true,
       "has_pages": false,
       "has_discussions": false,
-      "forks_count": 9,
+      "forks_count": 10,
       "mirror_url": null,
       "archived": false,
       "disabled": false,
@@ -2192,9 +2222,11 @@
       "allow_forking": true,
       "is_template": false,
       "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [],
       "visibility": "public",
-      "forks": 9,
+      "forks": 10,
       "open_issues": 1,
       "watchers": 23,
       "default_branch": "main",
@@ -2255,7 +2287,7 @@
           "status": "disabled"
         }
       },
-      "network_count": 9,
+      "network_count": 10,
       "subscribers_count": 1,
       "latest": {
         "branch": "main",
@@ -2265,8 +2297,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 21,
-        "uniques": 19
+        "count": 20,
+        "uniques": 18
       }
     },
     {
@@ -2369,6 +2401,8 @@
       "allow_forking": true,
       "is_template": false,
       "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [],
       "visibility": "public",
       "forks": 7,
@@ -2442,8 +2476,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 41,
-        "uniques": 33
+        "count": 39,
+        "uniques": 31
       }
     },
     {
@@ -2546,6 +2580,8 @@
       "allow_forking": true,
       "is_template": false,
       "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [],
       "visibility": "public",
       "forks": 0,
@@ -2692,6 +2728,8 @@
         "allow_forking": true,
         "is_template": false,
         "web_commit_signoff_required": false,
+        "has_pull_requests": true,
+        "pull_request_creation_policy": "all",
         "topics": [],
         "visibility": "public",
         "forks": 8,
@@ -2799,6 +2837,8 @@
         "allow_forking": true,
         "is_template": false,
         "web_commit_signoff_required": false,
+        "has_pull_requests": true,
+        "pull_request_creation_policy": "all",
         "topics": [],
         "visibility": "public",
         "forks": 8,
@@ -2937,6 +2977,8 @@
       "allow_forking": true,
       "is_template": false,
       "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [],
       "visibility": "public",
       "forks": 12,
@@ -3010,8 +3052,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 61,
-        "uniques": 60
+        "count": 51,
+        "uniques": 50
       }
     },
     {
@@ -3108,6 +3150,8 @@
       "allow_forking": true,
       "is_template": false,
       "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [],
       "visibility": "public",
       "forks": 7,
@@ -3253,14 +3297,14 @@
       "releases_url": "https://api.github.com/repos/MythicMeta/overview/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicMeta/overview/deployments",
       "created_at": "2023-04-20T23:05:14Z",
-      "updated_at": "2026-02-12T02:42:26Z",
-      "pushed_at": "2026-02-12T02:42:22Z",
+      "updated_at": "2026-02-13T02:43:24Z",
+      "pushed_at": "2026-02-13T02:43:20Z",
       "git_url": "git://github.com/MythicMeta/overview.git",
       "ssh_url": "git@github.com:MythicMeta/overview.git",
       "clone_url": "https://github.com/MythicMeta/overview.git",
       "svn_url": "https://github.com/MythicMeta/overview",
       "homepage": null,
-      "size": 13084,
+      "size": 14650,
       "stargazers_count": 8,
       "watchers_count": 8,
       "language": "JavaScript",
@@ -3285,6 +3329,8 @@
       "allow_forking": true,
       "is_template": false,
       "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [],
       "visibility": "public",
       "forks": 0,
@@ -3353,13 +3399,13 @@
       "latest": {
         "branch": "main",
         "commit_message": "update data via action",
-        "commit_date": 1770864141.0,
+        "commit_date": 1770950599.0,
         "icon": ""
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 251,
-        "uniques": 105
+        "count": 247,
+        "uniques": 103
       }
     },
     {
@@ -3462,6 +3508,8 @@
       "allow_forking": true,
       "is_template": false,
       "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [],
       "visibility": "public",
       "forks": 7,
@@ -3535,8 +3583,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 30,
-        "uniques": 24
+        "count": 23,
+        "uniques": 21
       }
     },
     {
@@ -3639,6 +3687,8 @@
       "allow_forking": true,
       "is_template": false,
       "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [],
       "visibility": "public",
       "forks": 3,
@@ -3712,8 +3762,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 7,
-        "uniques": 6
+        "count": 6,
+        "uniques": 5
       }
     }
   ]
