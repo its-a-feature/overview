@@ -68,16 +68,16 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/Mythic/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/Mythic/deployments",
       "created_at": "2018-07-05T02:09:59Z",
-      "updated_at": "2026-04-12T22:26:05Z",
-      "pushed_at": "2026-04-10T15:36:05Z",
+      "updated_at": "2026-04-13T17:29:39Z",
+      "pushed_at": "2026-04-13T14:08:19Z",
       "git_url": "git://github.com/its-a-feature/Mythic.git",
       "ssh_url": "git@github.com:its-a-feature/Mythic.git",
       "clone_url": "https://github.com/its-a-feature/Mythic.git",
       "svn_url": "https://github.com/its-a-feature/Mythic",
       "homepage": "",
-      "size": 1063777,
-      "stargazers_count": 4409,
-      "watchers_count": 4409,
+      "size": 1063814,
+      "stargazers_count": 4411,
+      "watchers_count": 4411,
       "language": "JavaScript",
       "has_issues": true,
       "has_projects": true,
@@ -106,7 +106,7 @@
       "visibility": "public",
       "forks": 573,
       "open_issues": 24,
-      "watchers": 4409,
+      "watchers": 4411,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -147,14 +147,14 @@
       "subscribers_count": 73,
       "latest": {
         "branch": "master",
-        "commit_message": "Bump Mythic Dockerfile tag to match release 'v3.4.0.56'",
-        "commit_date": 1775835364.0,
+        "commit_message": "updating event log message handling for performance updates",
+        "commit_date": 1776089293.0,
         "icon": ""
       },
       "category": "Mythic",
       "clones": {
-        "count": 2666,
-        "uniques": 1380
+        "count": 2601,
+        "uniques": 1353
       }
     },
     {
@@ -310,8 +310,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 10,
-        "uniques": 10
+        "count": 11,
+        "uniques": 11
       }
     },
     {
@@ -467,8 +467,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 17,
-        "uniques": 16
+        "count": 14,
+        "uniques": 13
       }
     },
     {
@@ -938,8 +938,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 14,
-        "uniques": 14
+        "count": 13,
+        "uniques": 13
       }
     },
     {
@@ -2298,8 +2298,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 43,
-        "uniques": 34
+        "count": 40,
+        "uniques": 33
       }
     },
     {
@@ -2477,8 +2477,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 13,
-        "uniques": 13
+        "count": 12,
+        "uniques": 12
       }
     },
     {
@@ -2874,8 +2874,8 @@
       },
       "category": "GhostWriter",
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 3,
+        "uniques": 3
       }
     },
     {
@@ -3287,14 +3287,14 @@
       "releases_url": "https://api.github.com/repos/MythicMeta/overview/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicMeta/overview/deployments",
       "created_at": "2023-04-20T23:05:14Z",
-      "updated_at": "2026-04-12T03:01:17Z",
-      "pushed_at": "2026-04-12T03:01:12Z",
+      "updated_at": "2026-04-13T03:27:04Z",
+      "pushed_at": "2026-04-13T03:27:00Z",
       "git_url": "git://github.com/MythicMeta/overview.git",
       "ssh_url": "git@github.com:MythicMeta/overview.git",
       "clone_url": "https://github.com/MythicMeta/overview.git",
       "svn_url": "https://github.com/MythicMeta/overview",
       "homepage": null,
-      "size": 21915,
+      "size": 21931,
       "stargazers_count": 8,
       "watchers_count": 8,
       "language": "JavaScript",
@@ -3389,13 +3389,13 @@
       "latest": {
         "branch": "main",
         "commit_message": "update data via action",
-        "commit_date": 1775962871.0,
+        "commit_date": 1776050818.0,
         "icon": ""
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 177,
-        "uniques": 81
+        "count": 186,
+        "uniques": 84
       }
     },
     {
