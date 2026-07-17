@@ -68,16 +68,16 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/Mythic/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/Mythic/deployments",
       "created_at": "2018-07-05T02:09:59Z",
-      "updated_at": "2026-07-15T17:01:55Z",
-      "pushed_at": "2026-07-15T23:13:07Z",
+      "updated_at": "2026-07-16T20:02:59Z",
+      "pushed_at": "2026-07-16T20:02:46Z",
       "git_url": "git://github.com/its-a-feature/Mythic.git",
       "ssh_url": "git@github.com:its-a-feature/Mythic.git",
       "clone_url": "https://github.com/its-a-feature/Mythic.git",
       "svn_url": "https://github.com/its-a-feature/Mythic",
       "homepage": "",
-      "size": 919364,
-      "stargazers_count": 4621,
-      "watchers_count": 4621,
+      "size": 928711,
+      "stargazers_count": 4620,
+      "watchers_count": 4620,
       "language": "JavaScript",
       "has_issues": true,
       "has_projects": true,
@@ -106,7 +106,7 @@
       "visibility": "public",
       "forks": 605,
       "open_issues": 36,
-      "watchers": 4621,
+      "watchers": 4620,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -146,14 +146,15 @@
       "network_count": 605,
       "subscribers_count": 75,
       "latest": {
-        "branch": "Mythic-v4.0.0",
-        "commit_message": "Bump Mythic Dockerfile tag to match release 'v4.0.0rc2'",
-        "commit_date": 1784157185.0
+        "branch": "master",
+        "commit_message": "process browser fix",
+        "commit_date": 1784232155.0,
+        "icon": ""
       },
       "category": "Mythic",
       "clones": {
-        "count": 3492,
-        "uniques": 1850
+        "count": 3212,
+        "uniques": 1910
       }
     },
     {
@@ -466,8 +467,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 6,
-        "uniques": 6
+        "count": 5,
+        "uniques": 5
       }
     },
     {
@@ -623,8 +624,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 13,
-        "uniques": 12
+        "count": 12,
+        "uniques": 11
       }
     },
     {
@@ -2207,7 +2208,7 @@
       "has_wiki": true,
       "has_pages": false,
       "has_discussions": false,
-      "forks_count": 12,
+      "forks_count": 11,
       "mirror_url": null,
       "archived": false,
       "disabled": false,
@@ -2226,7 +2227,7 @@
       "pull_request_creation_policy": "all",
       "topics": [],
       "visibility": "public",
-      "forks": 12,
+      "forks": 11,
       "open_issues": 1,
       "watchers": 26,
       "default_branch": "main",
@@ -2287,7 +2288,7 @@
           "status": "disabled"
         }
       },
-      "network_count": 12,
+      "network_count": 11,
       "subscribers_count": 1,
       "latest": {
         "branch": "Mythic-v4.0.0",
@@ -2296,8 +2297,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 117,
-        "uniques": 73
+        "count": 115,
+        "uniques": 74
       }
     },
     {
@@ -2385,7 +2386,7 @@
       "has_wiki": true,
       "has_pages": false,
       "has_discussions": false,
-      "forks_count": 11,
+      "forks_count": 10,
       "mirror_url": null,
       "archived": false,
       "disabled": false,
@@ -2404,7 +2405,7 @@
       "pull_request_creation_policy": "all",
       "topics": [],
       "visibility": "public",
-      "forks": 11,
+      "forks": 10,
       "open_issues": 3,
       "watchers": 8,
       "default_branch": "main",
@@ -2465,7 +2466,7 @@
           "status": "disabled"
         }
       },
-      "network_count": 11,
+      "network_count": 10,
       "subscribers_count": 1,
       "latest": {
         "branch": "Mythic-v4.0.0",
@@ -2474,8 +2475,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 134,
-        "uniques": 80
+        "count": 132,
+        "uniques": 78
       }
     },
     {
@@ -3049,8 +3050,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 462,
-        "uniques": 455
+        "count": 461,
+        "uniques": 461
       }
     },
     {
@@ -3283,14 +3284,14 @@
       "releases_url": "https://api.github.com/repos/MythicMeta/overview/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicMeta/overview/deployments",
       "created_at": "2023-04-20T23:05:14Z",
-      "updated_at": "2026-07-15T02:49:30Z",
-      "pushed_at": "2026-07-15T02:49:25Z",
+      "updated_at": "2026-07-16T02:56:06Z",
+      "pushed_at": "2026-07-16T02:56:02Z",
       "git_url": "git://github.com/MythicMeta/overview.git",
       "ssh_url": "git@github.com:MythicMeta/overview.git",
       "clone_url": "https://github.com/MythicMeta/overview.git",
       "svn_url": "https://github.com/MythicMeta/overview",
       "homepage": null,
-      "size": 23459,
+      "size": 23472,
       "stargazers_count": 8,
       "watchers_count": 8,
       "language": "JavaScript",
@@ -3385,13 +3386,13 @@
       "latest": {
         "branch": "main",
         "commit_message": "update data via action",
-        "commit_date": 1784083764.0,
+        "commit_date": 1784170560.0,
         "icon": ""
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 200,
-        "uniques": 80
+        "count": 196,
+        "uniques": 78
       }
     },
     {
@@ -3569,8 +3570,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 24,
-        "uniques": 23
+        "count": 22,
+        "uniques": 21
       }
     },
     {
@@ -3748,8 +3749,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 5,
-        "uniques": 5
+        "count": 7,
+        "uniques": 7
       }
     }
   ]
