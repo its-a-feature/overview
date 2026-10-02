@@ -68,7 +68,7 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/Mythic/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/Mythic/deployments",
       "created_at": "2018-07-05T02:09:59Z",
-      "updated_at": "2026-09-30T21:46:57Z",
+      "updated_at": "2026-10-01T13:47:07Z",
       "pushed_at": "2026-09-27T20:23:10Z",
       "git_url": "git://github.com/its-a-feature/Mythic.git",
       "ssh_url": "git@github.com:its-a-feature/Mythic.git",
@@ -76,8 +76,8 @@
       "svn_url": "https://github.com/its-a-feature/Mythic",
       "homepage": "",
       "size": 918654,
-      "stargazers_count": 4802,
-      "watchers_count": 4802,
+      "stargazers_count": 4805,
+      "watchers_count": 4805,
       "language": "JavaScript",
       "has_issues": true,
       "has_projects": true,
@@ -85,11 +85,11 @@
       "has_wiki": false,
       "has_pages": false,
       "has_discussions": true,
-      "forks_count": 620,
+      "forks_count": 621,
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 49,
+      "open_issues_count": 50,
       "license": {
         "key": "other",
         "name": "Other",
@@ -104,9 +104,9 @@
       "pull_request_creation_policy": "all",
       "topics": [],
       "visibility": "public",
-      "forks": 620,
-      "open_issues": 49,
-      "watchers": 4802,
+      "forks": 621,
+      "open_issues": 50,
+      "watchers": 4805,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -143,7 +143,7 @@
           "status": "disabled"
         }
       },
-      "network_count": 620,
+      "network_count": 621,
       "subscribers_count": 87,
       "latest": {
         "branch": "Mythic-v4.0.0",
@@ -152,8 +152,8 @@
       },
       "category": "Mythic",
       "clones": {
-        "count": 2921,
-        "uniques": 1314
+        "count": 2927,
+        "uniques": 1320
       }
     },
     {
@@ -309,8 +309,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 6,
-        "uniques": 6
+        "count": 5,
+        "uniques": 5
       }
     },
     {
@@ -466,8 +466,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 9,
-        "uniques": 9
+        "count": 10,
+        "uniques": 10
       }
     },
     {
@@ -780,7 +780,7 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 10,
+        "count": 11,
         "uniques": 8
       }
     },
@@ -937,8 +937,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 8,
-        "uniques": 8
+        "count": 10,
+        "uniques": 10
       }
     },
     {
@@ -2296,8 +2296,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 85,
-        "uniques": 62
+        "count": 86,
+        "uniques": 63
       }
     },
     {
@@ -2474,8 +2474,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 166,
-        "uniques": 42
+        "count": 170,
+        "uniques": 44
       }
     },
     {
@@ -2695,7 +2695,7 @@
         "deployments_url": "https://api.github.com/repos/GhostManager/mythic_sync/deployments",
         "created_at": "2021-05-11T00:17:21Z",
         "updated_at": "2026-07-23T01:16:34Z",
-        "pushed_at": "2026-09-01T19:33:24Z",
+        "pushed_at": "2026-10-01T19:32:09Z",
         "git_url": "git://github.com/GhostManager/mythic_sync.git",
         "ssh_url": "git@github.com:GhostManager/mythic_sync.git",
         "clone_url": "https://github.com/GhostManager/mythic_sync.git",
@@ -2804,7 +2804,7 @@
         "deployments_url": "https://api.github.com/repos/GhostManager/mythic_sync/deployments",
         "created_at": "2021-05-11T00:17:21Z",
         "updated_at": "2026-07-23T01:16:34Z",
-        "pushed_at": "2026-09-01T19:33:24Z",
+        "pushed_at": "2026-10-01T19:32:09Z",
         "git_url": "git://github.com/GhostManager/mythic_sync.git",
         "ssh_url": "git@github.com:GhostManager/mythic_sync.git",
         "clone_url": "https://github.com/GhostManager/mythic_sync.git",
@@ -2871,8 +2871,8 @@
       },
       "category": "GhostWriter",
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 2,
+        "uniques": 2
       }
     },
     {
@@ -3049,7 +3049,7 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 34,
+        "count": 35,
         "uniques": 25
       }
     },
@@ -3283,14 +3283,14 @@
       "releases_url": "https://api.github.com/repos/MythicMeta/overview/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicMeta/overview/deployments",
       "created_at": "2023-04-20T23:05:14Z",
-      "updated_at": "2026-09-30T04:53:17Z",
-      "pushed_at": "2026-09-30T04:53:12Z",
+      "updated_at": "2026-10-01T05:06:08Z",
+      "pushed_at": "2026-10-01T05:06:03Z",
       "git_url": "git://github.com/MythicMeta/overview.git",
       "ssh_url": "git@github.com:MythicMeta/overview.git",
       "clone_url": "https://github.com/MythicMeta/overview.git",
       "svn_url": "https://github.com/MythicMeta/overview",
       "homepage": null,
-      "size": 32934,
+      "size": 13248,
       "stargazers_count": 8,
       "watchers_count": 8,
       "language": "JavaScript",
@@ -3385,13 +3385,13 @@
       "latest": {
         "branch": "main",
         "commit_message": "update data via action",
-        "commit_date": 1790743990.0,
+        "commit_date": 1790831161.0,
         "icon": ""
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 182,
-        "uniques": 83
+        "count": 187,
+        "uniques": 85
       }
     },
     {
@@ -3569,8 +3569,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 36,
-        "uniques": 33
+        "count": 31,
+        "uniques": 29
       }
     },
     {
