@@ -68,7 +68,7 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/Mythic/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/Mythic/deployments",
       "created_at": "2018-07-05T02:09:59Z",
-      "updated_at": "2026-10-12T20:57:02Z",
+      "updated_at": "2026-10-13T21:43:47Z",
       "pushed_at": "2026-10-11T20:17:00Z",
       "git_url": "git://github.com/its-a-feature/Mythic.git",
       "ssh_url": "git@github.com:its-a-feature/Mythic.git",
@@ -76,8 +76,8 @@
       "svn_url": "https://github.com/its-a-feature/Mythic",
       "homepage": "",
       "size": 918738,
-      "stargazers_count": 4831,
-      "watchers_count": 4831,
+      "stargazers_count": 4835,
+      "watchers_count": 4835,
       "language": "JavaScript",
       "has_issues": true,
       "has_projects": true,
@@ -85,7 +85,7 @@
       "has_wiki": false,
       "has_pages": false,
       "has_discussions": true,
-      "forks_count": 620,
+      "forks_count": 621,
       "mirror_url": null,
       "archived": false,
       "disabled": false,
@@ -104,9 +104,9 @@
       "pull_request_creation_policy": "all",
       "topics": [],
       "visibility": "public",
-      "forks": 620,
+      "forks": 621,
       "open_issues": 51,
-      "watchers": 4831,
+      "watchers": 4835,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -143,7 +143,7 @@
           "status": "disabled"
         }
       },
-      "network_count": 620,
+      "network_count": 621,
       "subscribers_count": 87,
       "latest": {
         "branch": "Mythic-v4.0.0",
@@ -152,8 +152,8 @@
       },
       "category": "Mythic",
       "clones": {
-        "count": 5885,
-        "uniques": 1641
+        "count": 7573,
+        "uniques": 1707
       }
     },
     {
@@ -224,7 +224,7 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/LockSmith/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/LockSmith/deployments",
       "created_at": "2022-10-07T09:35:55Z",
-      "updated_at": "2026-09-17T02:56:16Z",
+      "updated_at": "2026-10-13T19:03:40Z",
       "pushed_at": "2022-10-10T15:35:16Z",
       "git_url": "git://github.com/its-a-feature/LockSmith.git",
       "ssh_url": "git@github.com:its-a-feature/LockSmith.git",
@@ -232,8 +232,8 @@
       "svn_url": "https://github.com/its-a-feature/LockSmith",
       "homepage": null,
       "size": 6900,
-      "stargazers_count": 84,
-      "watchers_count": 84,
+      "stargazers_count": 85,
+      "watchers_count": 85,
       "language": "Objective-C",
       "has_issues": true,
       "has_projects": true,
@@ -262,7 +262,7 @@
       "visibility": "public",
       "forks": 6,
       "open_issues": 1,
-      "watchers": 84,
+      "watchers": 85,
       "default_branch": "main",
       "permissions": {
         "admin": true,
@@ -309,8 +309,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 8,
-        "uniques": 7
+        "count": 10,
+        "uniques": 8
       }
     },
     {
@@ -381,7 +381,7 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/dylibHijackScanner/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/dylibHijackScanner/deployments",
       "created_at": "2022-09-08T21:17:39Z",
-      "updated_at": "2026-09-17T02:56:12Z",
+      "updated_at": "2026-10-13T19:03:35Z",
       "pushed_at": "2023-07-12T19:55:34Z",
       "git_url": "git://github.com/its-a-feature/dylibHijackScanner.git",
       "ssh_url": "git@github.com:its-a-feature/dylibHijackScanner.git",
@@ -389,8 +389,8 @@
       "svn_url": "https://github.com/its-a-feature/dylibHijackScanner",
       "homepage": null,
       "size": 78,
-      "stargazers_count": 41,
-      "watchers_count": 41,
+      "stargazers_count": 42,
+      "watchers_count": 42,
       "language": "Objective-C",
       "has_issues": true,
       "has_projects": true,
@@ -419,7 +419,7 @@
       "visibility": "public",
       "forks": 4,
       "open_issues": 0,
-      "watchers": 41,
+      "watchers": 42,
       "default_branch": "main",
       "permissions": {
         "admin": true,
@@ -466,8 +466,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 8,
-        "uniques": 7
+        "count": 10,
+        "uniques": 9
       }
     },
     {
@@ -623,8 +623,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 5,
-        "uniques": 4
+        "count": 6,
+        "uniques": 5
       }
     },
     {
@@ -780,7 +780,7 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 10,
+        "count": 11,
         "uniques": 7
       }
     },
@@ -852,7 +852,7 @@
       "releases_url": "https://api.github.com/repos/its-a-feature/bifrost/releases{/id}",
       "deployments_url": "https://api.github.com/repos/its-a-feature/bifrost/deployments",
       "created_at": "2019-11-08T00:20:53Z",
-      "updated_at": "2026-09-24T06:30:54Z",
+      "updated_at": "2026-10-13T19:00:17Z",
       "pushed_at": "2023-07-12T19:54:32Z",
       "git_url": "git://github.com/its-a-feature/bifrost.git",
       "ssh_url": "git@github.com:its-a-feature/bifrost.git",
@@ -860,8 +860,8 @@
       "svn_url": "https://github.com/its-a-feature/bifrost",
       "homepage": "",
       "size": 5905,
-      "stargazers_count": 156,
-      "watchers_count": 156,
+      "stargazers_count": 157,
+      "watchers_count": 157,
       "language": "Objective-C",
       "has_issues": true,
       "has_projects": true,
@@ -890,7 +890,7 @@
       "visibility": "public",
       "forks": 21,
       "open_issues": 1,
-      "watchers": 156,
+      "watchers": 157,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -937,8 +937,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 10,
-        "uniques": 9
+        "count": 11,
+        "uniques": 10
       }
     },
     {
@@ -1366,7 +1366,7 @@
       "releases_url": "https://api.github.com/repos/D00MFist/Mystikal/releases{/id}",
       "deployments_url": "https://api.github.com/repos/D00MFist/Mystikal/deployments",
       "created_at": "2021-05-03T14:46:16Z",
-      "updated_at": "2026-09-30T16:54:29Z",
+      "updated_at": "2026-10-13T19:01:46Z",
       "pushed_at": "2024-01-10T15:48:12Z",
       "git_url": "git://github.com/D00MFist/Mystikal.git",
       "ssh_url": "git@github.com:D00MFist/Mystikal.git",
@@ -1374,8 +1374,8 @@
       "svn_url": "https://github.com/D00MFist/Mystikal",
       "homepage": null,
       "size": 1483,
-      "stargazers_count": 327,
-      "watchers_count": 327,
+      "stargazers_count": 328,
+      "watchers_count": 328,
       "language": "Python",
       "has_issues": true,
       "has_projects": true,
@@ -1404,7 +1404,7 @@
       "visibility": "public",
       "forks": 40,
       "open_issues": 1,
-      "watchers": 327,
+      "watchers": 328,
       "default_branch": "main",
       "permissions": {
         "admin": false,
@@ -1961,8 +1961,8 @@
       },
       "category": "macOS Tool",
       "clones": {
-        "count": 9,
-        "uniques": 7
+        "count": 8,
+        "uniques": 6
       }
     },
     {
@@ -2296,8 +2296,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 73,
-        "uniques": 54
+        "count": 70,
+        "uniques": 51
       }
     },
     {
@@ -2474,8 +2474,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 130,
-        "uniques": 41
+        "count": 166,
+        "uniques": 36
       }
     },
     {
@@ -3051,7 +3051,7 @@
       "category": "MythicMeta",
       "clones": {
         "count": 52,
-        "uniques": 36
+        "uniques": 35
       }
     },
     {
@@ -3212,8 +3212,8 @@
       },
       "category": "MythicDocs",
       "clones": {
-        "count": 12,
-        "uniques": 11
+        "count": 11,
+        "uniques": 10
       }
     },
     {
@@ -3284,14 +3284,14 @@
       "releases_url": "https://api.github.com/repos/MythicMeta/overview/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicMeta/overview/deployments",
       "created_at": "2023-04-20T23:05:14Z",
-      "updated_at": "2026-10-12T05:14:47Z",
-      "pushed_at": "2026-10-12T05:14:43Z",
+      "updated_at": "2026-10-13T06:14:30Z",
+      "pushed_at": "2026-10-13T06:14:26Z",
       "git_url": "git://github.com/MythicMeta/overview.git",
       "ssh_url": "git@github.com:MythicMeta/overview.git",
       "clone_url": "https://github.com/MythicMeta/overview.git",
       "svn_url": "https://github.com/MythicMeta/overview",
       "homepage": null,
-      "size": 23307,
+      "size": 25311,
       "stargazers_count": 8,
       "watchers_count": 8,
       "language": "JavaScript",
@@ -3386,13 +3386,13 @@
       "latest": {
         "branch": "main",
         "commit_message": "update data via action",
-        "commit_date": 1791782081.0,
+        "commit_date": 1791872064.0,
         "icon": ""
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 222,
-        "uniques": 108
+        "count": 226,
+        "uniques": 109
       }
     },
     {
@@ -3570,8 +3570,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 23,
-        "uniques": 18
+        "count": 22,
+        "uniques": 17
       }
     },
     {
@@ -3749,8 +3749,8 @@
       },
       "category": "MythicMeta",
       "clones": {
-        "count": 23,
-        "uniques": 19
+        "count": 19,
+        "uniques": 15
       }
     }
   ]
